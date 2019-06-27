@@ -19,9 +19,9 @@ disqusShortname = "Cristian Russo"
 [params]
     author = "Cristian Russo"
     description = "Personal site - Info about technology"
-    keywords = "arduino,raspberry pi, docker, kubernetes, cloud, site reliability, cloud native"
+    keywords = "arduino,raspberry pi, devops, docker, kubernetes, cloud, site reliability, cloud native"
     info = "Cloud, DevOps and SRE"
-    avatarurl = "https://media.licdn.com/dms/image/C5103AQHZHWuYGPMS-g/profile-displayphoto-shrink_200_200/0?e=1566432000&v=beta&t=xVhcxD0Jot8tx17aM5emn-e1NQd8SZCI4jzASfu5HJE"
+    avatarurl = "/images/me.jpg"
     footercontent = "🐇"
 
     dateformat = "January 2, 2006"
@@ -77,15 +77,15 @@ disqusShortname = "Cristian Russo"
         weight = 1
         url = "/about/"
 
-        [[languages.en.menu.main]]
-        name = "Blog"
-        weight = 2
-        url = "/posts/"
+        #[[languages.en.menu.main]]
+        #name = "Blog"
+        #weight = 2
+        #url = "/posts/"
 
-        [[languages.en.menu.main]]
-        name = "Projects"
-        weight = 3
-        url = "/projects/"
+        #[[languages.en.menu.main]]
+        #name = "Projects"
+        #weight = 3
+        #url = "/projects/"
 
         [[languages.en.menu.main]]
         name = "Contact me"
@@ -111,15 +111,15 @@ disqusShortname = "Cristian Russo"
             weight = 1
             url = "/es-ar/about/"
 
-            [[languages.es-ar.menu.main]]
-            name = "Blog"
-            weight = 2
-            url = "/es-ar/posts/"
+            #[[languages.es-ar.menu.main]]
+            #name = "Blog"
+            #weight = 2
+            #url = "/es-ar/posts/"
 
-            [[languages.es-ar.menu.main]]
-            name = "Proyectos"
-            weight = 3
-            url = "/es-ar/projects/"
+            #[[languages.es-ar.menu.main]]
+            #name = "Proyectos"
+            #weight = 3
+            #url = "/es-ar/projects/"
 
             [[languages.es-ar.menu.main]]
             name = "Contacto"
