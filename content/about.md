@@ -8,7 +8,7 @@ My name is <b>Cristian Marquez Russo</b> and I began to love IT when I was aroun
 
 I ran my own "startup" fixing computers and building internet cafes years after. I implemented "automation" using Norton Ghost and protecting the PCs with Deep Freeze.
 
-Soon after I discovered Linux and I started playing with it. My first distro was Connectiva, but I continued exploring others :Debian, Slackware and Ututo, a distro from Salta, my City. Mount was manual by then and you needed to compile the kernel from time to time. I learn lots thanks to the OpenSource community!
+Soon after I discovered Linux and I started playing with it. My first distro was Connectiva, but I continued exploring others :Debian, Slackware and Ututo, a distro from Salta, my City. Mount was manual back then and you needed to compile the kernel from time to time. I learn lots thanks to the OpenSource community!
 
 I started building and maintaining servers. I played with OpenMosix, a cluster management system, and with my first Virtual Machines. (VirtualPC and QEMU)
 
