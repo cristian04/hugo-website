@@ -20,4 +20,4 @@ I continued working on Site Reliability Engineering using Public Clouds provider
 
 I started using Kubernetes in 2016 and I've being working with it since then. I am planning to get both CKA and CKAD certifications in 2019.
 
-I am currently providing consulting via my own company: [CLVR Cloud LTD](https://clvr.cloud)
+I am currently providing consulting via: [CLVR Cloud LTD](https://clvr.cloud)
