@@ -1,5 +1,5 @@
 baseurl = "https://www.cristianmarquez.me"
-title = "Cristian Russo"
+title = "Cristian Márquez Russo"
 
 theme = "hugo-coder"
 googleAnalytics = "UA-66128333-1"
@@ -17,10 +17,10 @@ pygmentscodefencesguesssyntax = true
 disqusShortname = "cristianmarquez"
 
 [params]
-    author = "Cristian Russo"
+    author = "Cristian Márquez Russo"
     description = "Personal site - Info about technology"
     keywords = "arduino,raspberry pi, devops, docker, kubernetes, cloud, site reliability, cloud native"
-    info = "Cloud, DevOps and SRE"
+    info = "Cloud, DevOps and Trips"
     avatarurl = "/images/me.jpg"
     footercontent = "🐇"
 
@@ -77,14 +77,14 @@ disqusShortname = "cristianmarquez"
         weight = 1
         url = "/about/"
 
-        #[[languages.en.menu.main]]
-        #name = "Blog"
-        #weight = 2
-        #url = "https://blog.cristianmarquez.me"
+        [[languages.en.menu.main]]
+        name = "Previous Blog"
+        weight = 2
+        url = "https://blog.cristianmarquez.me"
 
         [[languages.en.menu.main]]
         name = "Blog"
-        weight = 2
+        weight = 3
         url = "/posts/"
 
         #[[languages.en.menu.main]]
@@ -100,11 +100,11 @@ disqusShortname = "cristianmarquez"
 
     [languages.es-ar]
         languagename = "Español"
-        title = "Cristian Russo"
+        title = "Cristian Márquez Russo"
 
         [languages.es-ar.params]
-            author = "Cristian Russo"
-            info = "Cloud, DevOps and SRE"
+            author = "Cristian Márquez Russo"
+            info = "Cloud, DevOps y Viajes"
             description = "Sitio personal de Cristian Russo"
             keywords = "devops, site reliabilty engineer"
             footercontent = "🐇"
@@ -116,14 +116,14 @@ disqusShortname = "cristianmarquez"
             weight = 1
             url = "/es-ar/about/"
 
-            #[[languages.es-ar.menu.main]]
-            #name = "Blog"
-            #weight = 2
-            #url = "https://blog.cristianmarquez.me"
+            [[languages.es-ar.menu.main]]
+            name = "Blog Viejo"
+            weight = 2
+            url = "https://blog.cristianmarquez.me"
 
             [[languages.es-ar.menu.main]]
             name = "Blog"
-            weight = 2
+            weight = 3
             url = "/es-ar/posts/"
 
             #[[languages.es-ar.menu.main]]
