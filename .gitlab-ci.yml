@@ -23,8 +23,6 @@ build:
     
 deploy:
   image: garland/aws-cli-docker
-  dependencies:
-    - build
   script:
     - aws configure set preview.cloudfront true
     - aws s3 sync ./public s3://$BUCKET_NAME --delete;
