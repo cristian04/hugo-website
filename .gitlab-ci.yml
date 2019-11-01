@@ -6,9 +6,9 @@ stages:
   - test 
 
 variables:
-  AWS_DEFAULT_REGION: eu-central-1 # set your aws region
+  AWS_DEFAULT_REGION: us-west-2 # set your aws region
   BUCKET_NAME: my-new-website-hugo # change your bucket name
-  CLOUDFRONT_DIST_ID: {ID} # paste your cloudFront distribution id
+  CLOUDFRONT_DIST_ID: E3RI0ABTUES18L # paste your cloudFront distribution id
   GIT_SUBMODULE_STRATEGY: recursive
 
 build:
