@@ -1,0 +1,49 @@
+# This file is a template, and might need editing before it works on your project.
+# Full project: https://gitlab.com/pages/hugo
+stages:
+  - build
+  - deploy
+  - test 
+
+variables:
+  AWS_DEFAULT_REGION: us-west-2 # set your aws region
+  BUCKET_NAME: my-new-website-hugo # change your bucket name
+  CLOUDFRONT_DIST_ID: E3RI0ABTUES18L # paste your cloudFront distribution id
+  GIT_SUBMODULE_STRATEGY: recursive
+
+build:
+  image: dettmering/hugo-build
+  script:
+    - hugo
+  artifacts:
+    paths:
+    - public/
+  only:
+  - master
+    
+deploy:
+  image: garland/aws-cli-docker
+  script:
+    - aws configure set preview.cloudfront true
+    - aws s3 sync ./public s3://$BUCKET_NAME --delete;
+    - aws cloudfront create-invalidation --distribution-id $CLOUDFRONT_DIST_ID  --paths "/*";
+  only:
+  - master
+
+test:
+  image: markhobson/node-chrome
+  variables:
+    LIGHTHOUSE_TEST_URL: https://www.cristianmarquez.me 
+  environment: Production
+  only:
+  - master
+  before_script: 
+  # Install Lighthouse
+  - npm i -g lighthouse
+  script:
+  # Run Lighthouse test
+  - lighthouse --chrome-flags="--headless --no-sandbox" $LIGHTHOUSE_TEST_URL --output html --output-path ./report.html
+  artifacts:
+    paths:
+    - ./report.html
+    expire_in: 1 week
