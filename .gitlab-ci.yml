@@ -17,7 +17,7 @@ build:
     - hugo
   artifacts:
     paths:
-    - public
+    - public/
   only:
   - master
     
@@ -47,5 +47,5 @@ test:
   - lighthouse --chrome-flags="--headless --no-sandbox" $LIGHTHOUSE_TEST_URL --output html --output-path ./report.html
   artifacts:
     paths:
-      ./report.html
+    - ./report.html
     expire_in: 1 week
