@@ -16,3 +16,22 @@ test:
     - hugo
   except:
     - master
+    
+image: markhobson/node-chrome
+run_lighthouse:
+    variables:
+        LIGHTHOUSE_TEST_URL: https://www.cristianmarquez.me
+    stage: deploy
+    environment: Production
+    only:
+        - master
+    before_script: 
+        # Install Lighthouse
+        - npm i -g lighthouse
+    script:
+        # Run Lighthouse test
+        - lighthouse --chrome-flags="--headless --no-sandbox" $LIGHTHOUSE_TEST_URL --output html --output-path ./report.html
+    artifacts:
+        paths:
+            - ./report.html
+        expire_in: 1 week
