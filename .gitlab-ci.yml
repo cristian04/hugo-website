@@ -17,9 +17,9 @@ build:
     - hugo
   artifacts:
     paths:
-      - public
+    - public
   only:
-    - master
+  - master
     
 deploy:
   image: garland/aws-cli-docker
