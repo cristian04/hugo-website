@@ -78,7 +78,7 @@ disqusShortname = "cristianmarquez"
         url = "/about/"
 
         [[languages.en.menu.main]]
-        name = "Previous Blog"
+        name = "Archive"
         weight = 2
         url = "https://blog.cristianmarquez.me"
 
@@ -117,7 +117,7 @@ disqusShortname = "cristianmarquez"
             url = "/es-ar/about/"
 
             [[languages.es-ar.menu.main]]
-            name = "Blog Viejo"
+            name = "Archivo"
             weight = 2
             url = "https://blog.cristianmarquez.me"
 
