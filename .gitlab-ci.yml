@@ -1,9 +1,9 @@
 # This file is a template, and might need editing before it works on your project.
 # Full project: https://gitlab.com/pages/hugo
 stages:
-  - build
-  - deploy
-  - test 
+- build
+- deploy
+- smoke-test
 
 variables:
   AWS_DEFAULT_REGION: us-west-2 # set your aws region
@@ -13,6 +13,7 @@ variables:
 
 build:
   image: dettmering/hugo-build
+  stage: build
   script:
     - hugo
   artifacts:
@@ -23,15 +24,18 @@ build:
     
 deploy:
   image: garland/aws-cli-docker
+  stage: deploy
+  dependencies:
+  - build
   script:
     - aws configure set preview.cloudfront true
     - aws s3 sync ./public s3://$BUCKET_NAME --delete;
-    - aws cloudfront create-invalidation --distribution-id $CLOUDFRONT_DIST_ID  --paths "/*";
   only:
   - master
 
-test:
+smoke-test:
   image: markhobson/node-chrome
+  stage: smoke-test
   variables:
     LIGHTHOUSE_TEST_URL: https://www.cristianmarquez.me 
   environment: Production
