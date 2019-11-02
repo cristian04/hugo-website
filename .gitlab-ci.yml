@@ -7,7 +7,7 @@ stages:
 
 variables:
   AWS_DEFAULT_REGION: us-west-2 # set your aws region
-  BUCKET_NAME: my-new-website-hugo # change your bucket name
+  BUCKET_NAME: www.cristianmarquez.me # change your bucket name
   CLOUDFRONT_DIST_ID: E3RI0ABTUES18L # paste your cloudFront distribution id
   GIT_SUBMODULE_STRATEGY: recursive
 
@@ -28,7 +28,6 @@ deploy:
   dependencies:
   - build
   script:
-    - env
     - aws configure set preview.cloudfront true
     - aws s3 sync ./public s3://$BUCKET_NAME --delete;
   only:
