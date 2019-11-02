@@ -1,7 +1,7 @@
 baseurl = "https://www.cristianmarquez.me"
 title = "Cristian Márquez Russo"
 
-theme = "hugo-coder"
+theme = ["hugo-cloak-email","hugo-coder"]
 googleAnalytics = "UA-66128333-1"
 
 languagecode = "en"
@@ -18,19 +18,19 @@ disqusShortname = "cristianmarquez"
 
 [params]
     author = "Cristian Márquez Russo"
-    description = "Personal site - Info about technology"
-    keywords = "arduino,raspberry pi, devops, docker, kubernetes, cloud, site reliability, cloud native"
-    info = "Cloud, DevOps and Trips"
+    description = "I post about technology and trips"
+    keywords = "Cloud, Docker, Kubernetes, Trips, Travel, Holidays"
+    info = "Technology and Trips"
     avatarurl = "/images/me.jpg"
     footercontent = "🐇"
 
     dateformat = "January 2, 2006"
 
-    hideCredits = true
-    hideCopyright = true
+    hideCredits = false
+    hideCopyright = false
 
     # Git Commit in Footer, uncomment the line below to enable it.
-    # commit = "https://github.com/luizdepra/hugo-coder/tree/"
+    commit = "https://github.com/cristian04/hugo-website/commits"
 
     rtl = false
 
@@ -104,9 +104,9 @@ disqusShortname = "cristianmarquez"
 
         [languages.es-ar.params]
             author = "Cristian Márquez Russo"
-            info = "Cloud, DevOps y Viajes"
-            description = "Sitio personal de Cristian Russo"
-            keywords = "devops, site reliabilty engineer"
+            info = "Tecnología y Viajes"
+            description = "Sitio con informacion sobre tecnologia y viajes."
+            keywords = "devops, site reliabilty engineer, trips"
             footercontent = "🐇"
 
         [languages.es-ar.menu]
