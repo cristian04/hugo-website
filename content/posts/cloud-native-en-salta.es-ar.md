@@ -4,9 +4,8 @@ date = 2019-09-17T12:59:47-03:00
 title = "Charla sobre Cloud Native en Salta - Argentina"
 description = "Charla sobre Cloud Native en Salta - Argentina"
 slug = "Charla sobre Cloud Native en Salta - Argentina" 
-tags = ['cloud native','cloud','cncf']
-categories = ['charlas']
-externalLink = ""
+tags = ['cloud native','cloud','cncf','docker','kubernetes','devops']
+categories = ['charlas','tecnologia']
 series = ['cncf','devops','cloud','cloud native']
 +++
 El próximo Jueves 3 de Octubre voy a estar dando una charla sobre Aplicaciones Nativas de la Nube (Cloud Native) en el microcine de la Facultad de Ingeniería de la UNSa.
