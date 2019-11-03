@@ -10,7 +10,7 @@ externalLink = ""
 series = ['kubernetes','visualization']
 +++
 On the past few months, I've been using `kubeview` for my trainings.
-It allows me to show a graphic representation of my kubernetes infrastructure, allowing students to better understand what is happening under the different kubernetes components.
+It allows me to show a graphic representation of my kubernetes infrastructure, allowing students to better understand what is happening on the different kubernetes components.
 
 # Installation
 
