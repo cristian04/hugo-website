@@ -6,7 +6,7 @@ description : "Notas sobre mi viaje por Perú"
 slug : "viajando por peru" 
 tags : ['viajes','peru']
 categories : ['viajes','anecdotas']
-series : ['viajes','anecdotas','peru']
+series : ['Viajando por Peru']
 ---
 El viaje comenzo en Lima visitando a unos amigos que conoci en Nueva Zelanda. Tuve la suerte de tenerlos porque me ayudaron a recorrer lugares como Miraflores y Barranco y me recomendaron los mejores platos de la comida peruana (Uno de los motivos de mi viaje)
 
