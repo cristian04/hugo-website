@@ -11,10 +11,10 @@ variables:
   GIT_SUBMODULE_STRATEGY: recursive
 
 build:
-  image: dettmering/hugo-build
+  image: klakegg/hugo:0.55.6
   stage: build
   script:
-    - hugo
+    - hugo --minify
   artifacts:
     paths:
     - public/
