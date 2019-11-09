@@ -16,6 +16,9 @@ pygmentscodefencesguesssyntax = true
 
 disqusShortname = "cristianmarquez"
 
+enableEmoji = true
+
+
 [params]
     author = "Cristian Márquez Russo"
     description = "I post about technology and trips"
