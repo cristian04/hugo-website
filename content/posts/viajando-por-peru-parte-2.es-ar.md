@@ -4,7 +4,7 @@ date = 2019-11-03T19:23:08-05:00
 title = "Viajando Por Peru - Parte 2"
 description = "Notas sobre mi viaje por Perú"
 slug = "viajando por peru parte 2" 
-tags = ['Puno','Arequipa','Lima','Lago Titicaca','Taquile']
+tags = ['Puno','Lago Titicaca','Uros','Amantai','Taquile']
 categories = ['viajes','relatos']
 series = ['Viajando por Peru']
 +++
@@ -37,3 +37,7 @@ Uno hora despues empezamos una nueva caminata por la montaña de la isla. Llegam
 Ahi nos sirvieron una exquisita sopa de quinoa y el plato principal fue trucha (del lago Titicaca) a la parrilla con arroz y vegetales.. estuvo exquisito!
 
 Al mediodia emprendimos el retorno a Puno, en donde me esperaba organizar el ultimo tramo de mi viaje: Arequipa y Lima.
+
+Al llegar a Puno, tenia dos opciones: Ir hasta la terminal de colectivos y salir para Arequipa o quedarme una noche mas. Decidí quedarme una noche mas en Puno ya que estaba muy cansado y se veia venir una tormenta gigante (Los colectivos y minibuses no dan muchas seguridad)
+
+Alrededor de las 7 de la tarde se largo una tormenta con todo: rayos, truenos, relampagos y mucha agua. Me fui a cenar a un restaurant Japones que queda al frente de la plaza de armas junto a la pareja de Hong Kong. Despues del ramen y el sushi, nos fuimos a probar un par de cocktails a un bar de rock y con eso fue suficiente para despedirme de Puno. 

@@ -4,14 +4,12 @@ date = 2019-10-22T08:46:29-03:00
 title = "Visualizing k8s components with kubeview"
 description = ""
 slug = "Visualizing k8s components with kubeview" 
-tags = ['kubernetes','Cloud Native','visualization',]
-categories = ['tutorials','kubeapps']
-externalLink = ""
-series = ['kubernetes','visualization']
+tags = ['kubernetes','cloud native','infraestructure visualization',]
+categories = ['tutorials','kubernetes']
 +++
 On the past few months, I've been using `kubeview` for some of my trainings.
 
-It allows me to present a graphic representation of the  infrastructure, allowing students to better understand what is happening on the different kubernetes components.
+It allows me to show a graphic representation of the cloud  infrastructure, allowing students to better understand what is happening on the different kubernetes components.
 
 Many thanks to @benc-uk for `kubeview`.
 
@@ -29,9 +27,9 @@ Now, let's try some demos
 
 On the first demo, we will see how does the architecture of a containersided application looks like when is deployed on a kubernetes cluster. 
 
-We will scale the application up and we will expose this container as a service so we can use the benefits of K8S Load Balancing built-in capabilities. 
+We will scale the application up and we will expose this container as a service so we can see the benefits of K8S Load Balancing built-in capabilities. 
 
-Finally, the service will be also exposed externally using an _ingress controller_.
+Finally, the service will be exposed externally using an _ingress controller_.
 
 # Demo 2: Rolling upgrades
 
@@ -47,3 +45,5 @@ On this demo will trigger an update by changing the application version. We will
 Finally, we will visualize how does kubernetes scales containers up and down when we use horizontal pod autoscaling (HPA) on a cluster with `metrics` enabled.
 
 To test the performance, we will use `Jmeter` and `Apache Benchmark`.
+
+Wanna learn more? Feel free to contact me and remember that I provide consultancy servicies trought CLVR Cloud.
