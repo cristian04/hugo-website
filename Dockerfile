@@ -6,7 +6,7 @@ RUN git submodule init
 RUN git submodule update
 ##
 
-FROM klakegg/hugo:0.55.6
+FROM jojomi/hugo
 COPY --from=0 /data /data
 WORKDIR /data
 RUN hugo --minify
