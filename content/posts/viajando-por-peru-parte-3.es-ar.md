@@ -9,17 +9,28 @@ categories = ['viajes','relatos']
 externalLink = ""
 series = ['Viajando por Peru']
 +++
-Al otro dia arranque temprano y me fui a la terminal de buses. Justo encontré un colectivo de la empresa Power Express que salia a las 9am para Arequipa. Costo: $20 soles y 6 horas de viaje (ponele).
+Al otro dia arranqué temprano y me fuí a la terminal de buses de Puno para buscar un colectivo hasta Arequipa. Justo encontré un colectivo de la empresa Power Express que salia ya mismo. Eran las 9am
+_Costo_: $20 soles y 6 horas de viaje (ponele).
 
-Esta parte del viaje se hizo muy larga. El bus primero subió hasta el pueblo de
-<marquee>sabra dios</marquee>
-y despues continuamos hacia Puno. Le pregunte a una chica de al lado a que hora ibamos a llegar y me dijo que generalmente a las 2pm, pero ibamos muy lento.
-Se hicieron las 5pm y recien estabamos llegando cerca del pueblo de Yure, cuando el colectivo se paro y no anduvo mas. Ni la empresa ni el conductor nos dieron informacion sobre que hacer ni cuanto iban a demorar en recogernos, por lo que, despues de una hora de esperar, decidi subirme en un colectivo de linea que me dejo en la estacion de buses del norte. De ahi otro colectivo hasta la estacion del centro y un Uber hasta el centro. A que hora llegue al final? 8 de la noche. 
+Esta parte del viaje se me hizo eterna. El bus primero subió hasta el pueblo de `Juliaca` y después continuamos hacia Puno. Pregunté a que hora íbamos a llegar y me dijeron que generalmente a las 2pm, pero que estábamos yendo muy lento. Mientras tanto yo aprovechaba para programar.
 
-Despues de hacer el check-in y acomodarme un poco, recorri la plaza de armas, la catedral y probe rocoto relleno, una de las especialidades de Arequipa. Conoci a otros chicos mediante couchsurfing y fuimos a probar algunos tragos en un bar con un mirador a la plaza de armas. Despues de eso, dormir para ir al cañon del Colca.
+Se hicieron las 5pm y recién estábamos llegando cerca del pueblo de `Yure`, cuando el colectivo se paró y no anduvo más. Ni la empresa ni el conductor nos dieron información sobre que hacer ni cuanto iban a demorar en recogernos, por lo que, después de una hora de esperar, decidí subirme en un colectivo de linea junto a un grupo de franceses. Nos dejaron en la estación de buses del norte. De ahí tomamos otro colectivo hasta la estación del centro y un Uber hasta la plaza de armas. A que hora llegue al final? 8 de la noche, 6 horas mas tarde.
 
-Al otro dia arranque a las 7.30am con destino a la ciudad de Chivay junto a otros chicos. Habian franceses, españoles, brasileros. Yo, el unico argentino x 2.
+Después de hacer el check-in y acomodarme un poco, recorrí la plaza, la catedral y probé rocoto relleno, una de las especialidades de Arequipa. Conocí a otros chicos mediante couchsurfing y fuimos a probar algunos tragos en un bar con un mirador a la plaza. Después de eso, me fui a dormir para ir al cañon del Colca.
 
-En el camino habia un monton de llamas, vicuñas y alpacas. Tanto el almuerzo como la cena fueron en un buffet aka tenedor libre. Estuvo excelente y pude probar de todo: alpaca, trucha, ceviche, chicharron de todo tipo, sopas de todo tipo, postres de todo tipo, en fin, me comi todo.
+Al otro dia arranqué a las 7.30am con destino a la ciudad de Chivay.
 
-Al llegar a Chivay habian dos opciones para hacer: Aguas Termales o Tirolesa. Yo preferí hacer Siesta y me puse a programar un poco. A la noche salimos a cenar a otro buffet con danzas folckloricas del lugar.
+En el camino había un montón de llamas, vicuñas y alpacas. Tanto el almuerzo como la cena fueron en un buffet, que es mas que nada un tenedor libre. Estuvo excelente y pude probar de todo: alpaca, trucha, ceviche, chicharron de todo tipo, sopas de todo tipo, postres de todo tipo, en fin, me comí todo.
+
+Al llegar a `Chivay` habían dos opciones para hacer: `Aguas Termales` o `Tirolesa`. Yo preferí hacer `Siesta` y continué programando. A la noche salimos a cenar a otro buffet con danzas folcklóricas del lugar y música andina en vivo (Los chabones eran increíbles)
+
+El tour hacia el cañon del Colca arrancó a las 6.30am. Primero pasamos por la plaza de un pueblo cercano a Chivay en donde chicos y chicas del secundario bailaban `la danza del amor`. También pasamos por un par de miradores y finalmente llegamos a la cruz del Cóndor.
+
+El lugar estaba repleto de gente, y lamentablemente, no había cóndores. De todas maneras, la inmensidad, profundidad y belleza del cañon justificaron tanta travesía.
+
+Aproximadamente una hora después, pude observar dos cóndores planeando a la distancia. Y finalmente el momento llegó: Un cóndor joven (alas doradas) pasó a menos de 10 metros mío y se quedó dando un par de vueltas por el mirador. Después fueron dos cóndores los que se quedaron planeando un poco más por el lugar y se fueron.
+
+![Condor Pasa](/images/condor.jpg)
+
+
+Terminada esta visita, volvimos a almorzar a otro buffet y retornamos hacia Arequipa.
