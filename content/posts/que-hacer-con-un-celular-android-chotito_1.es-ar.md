@@ -1,7 +1,7 @@
 ---
 title: 'Que hacer con un celular Android chotito'
 date: 2014-04-01T03:39:00.002+13:00
-draft: true
+draft: false
 slug: 'Que hacer con un celular Android chotito'
 externalLink: ""
 series: []

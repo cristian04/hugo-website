@@ -1,7 +1,7 @@
 ---
 title: 'Android QA Automation Architecture 2'
 date: 2014-03-18T07:29:00.003+13:00
-draft: true
+draft: false
 slug: 'Android QA Automation Architecture 2'
 externalLink: ""
 series: []

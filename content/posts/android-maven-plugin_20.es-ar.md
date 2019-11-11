@@ -1,7 +1,7 @@
 ---
 title: 'Android Maven Plugin'
 date: 2013-09-20T02:32:00.003+12:00
-draft: true
+draft: false
 slug: 'Android Maven Plugin'
 externalLink: ""
 series: []

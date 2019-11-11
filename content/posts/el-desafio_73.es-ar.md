@@ -1,7 +1,7 @@
 ---
 title: 'El desafío'
 date: 2014-01-17T15:21:00.003+13:00
-draft: true
+draft: false
 slug: 'El desafío'
 externalLink: ""
 series: []

@@ -1,7 +1,7 @@
 ---
 title: 'Cristian vs Policia de Cordoba'
 date: 2009-11-16T17:27:00.002+13:00
-draft: true
+draft: false
 slug: 'Cristian vs Policia de Cordoba'
 externalLink: ""
 series: []

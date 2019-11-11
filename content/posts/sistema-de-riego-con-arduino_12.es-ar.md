@@ -1,7 +1,7 @@
 ---
 title: 'Sistema de riego con Arduino'
 date: 2014-09-12T03:15:00.002+12:00
-draft: true
+draft: false
 slug: 'Sistema de riego con Arduino'
 externalLink: ""
 series: []

@@ -1,7 +1,7 @@
 ---
 title: 'Problemas comunes con las computadoras'
 date: 2013-09-20T09:43:00.003+12:00
-draft: true
+draft: false
 slug: 'Problemas comunes con las computadoras'
 externalLink: ""
 series: []

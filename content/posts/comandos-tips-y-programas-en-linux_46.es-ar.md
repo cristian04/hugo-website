@@ -1,7 +1,7 @@
 ---
 title: 'Comandos, tips y programas en Linux'
 date: 2014-07-01T16:59:00.002+12:00
-draft: true
+draft: false
 slug: 'Comandos, tips y programas en Linux'
 externalLink: ""
 series: []

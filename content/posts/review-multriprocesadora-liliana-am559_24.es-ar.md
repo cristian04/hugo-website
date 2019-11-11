@@ -1,7 +1,7 @@
 ---
 title: 'Review Multriprocesadora Liliana AM559'
 date: 2011-09-15T15:25:00.003+12:00
-draft: true
+draft: false
 slug: 'Review Multriprocesadora Liliana AM559'
 externalLink: ""
 series: []

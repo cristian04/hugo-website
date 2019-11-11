@@ -1,7 +1,7 @@
 ---
 title: 'Samoa'
 date: 2016-01-04T08:00:00.002+13:00
-draft: true
+draft: false
 slug: 'Samoa'
 externalLink: ""
 series: []

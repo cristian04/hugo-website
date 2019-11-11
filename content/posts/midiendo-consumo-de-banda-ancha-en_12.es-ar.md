@@ -1,7 +1,7 @@
 ---
 title: 'Midiendo consumo de banda ancha en smart tvs'
 date: 2015-01-12T05:01:00.003+13:00
-draft: true
+draft: false
 slug: 'Midiendo consumo de banda ancha en smart tvs'
 externalLink: ""
 series: []

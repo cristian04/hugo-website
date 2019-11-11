@@ -1,7 +1,7 @@
 ---
 title: 'Taller "Hacking Android" en Harriague y Asociados'
 date: 2014-06-27T09:55:00.002+12:00
-draft: true
+draft: false
 slug: 'Taller "Hacking Android" en Harriague y Asociados'
 externalLink: ""
 series: []

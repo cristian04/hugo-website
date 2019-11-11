@@ -1,7 +1,7 @@
 ---
 title: 'Impresora 3D en Nueva Zelanda'
 date: 2015-03-10T04:56:00.002+13:00
-draft: true
+draft: false
 slug: 'Impresora 3D en Nueva Zelanda'
 externalLink: ""
 series: []

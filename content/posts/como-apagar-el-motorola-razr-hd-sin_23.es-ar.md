@@ -1,7 +1,7 @@
 ---
 title: 'Como apagar el Motorola Razr HD sin pantalla'
 date: 2014-02-23T23:29:00.010+13:00
-draft: true
+draft: false
 slug: 'Como apagar el Motorola Razr HD sin pantalla'
 externalLink: ""
 series: []

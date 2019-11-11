@@ -1,7 +1,7 @@
 ---
 title: 'Android QA Automation'
 date: 2013-07-10T18:09:00.007+12:00
-draft: true
+draft: false
 slug: 'Android QA Automation'
 externalLink: ""
 series: []

@@ -1,7 +1,7 @@
 ---
 title: 'Configurando Chrome'
 date: 2010-12-13T22:27:00.006+13:00
-draft: true
+draft: false
 slug: 'Configurando Chrome'
 externalLink: ""
 series: []

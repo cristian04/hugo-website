@@ -1,7 +1,7 @@
 ---
 title: 'Git submodules'
 date: 2015-01-27T04:57:00.002+13:00
-draft: true
+draft: false
 slug: 'Git submodules'
 externalLink: ""
 series: []

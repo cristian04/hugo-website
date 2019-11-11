@@ -1,7 +1,7 @@
 ---
 title: 'Trabajando para La Bombonera'
 date: 2014-06-29T15:01:00.002+12:00
-draft: true
+draft: false
 slug: 'Trabajando para La Bombonera'
 externalLink: ""
 series: []

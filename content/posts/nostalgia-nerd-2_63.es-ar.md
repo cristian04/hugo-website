@@ -1,7 +1,7 @@
 ---
 title: 'Nostalgia Nerd 2'
 date: 2014-06-27T18:28:00.002+12:00
-draft: true
+draft: false
 slug: 'Nostalgia Nerd 2'
 externalLink: ""
 series: []

@@ -1,7 +1,7 @@
 ---
 title: 'Ojo Técnicos, Hay Tabla'
 date: 2011-02-10T21:26:00.004+13:00
-draft: true
+draft: false
 slug: 'Ojo Técnicos, Hay Tabla'
 externalLink: ""
 series: []

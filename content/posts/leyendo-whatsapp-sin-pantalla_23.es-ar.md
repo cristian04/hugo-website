@@ -1,7 +1,7 @@
 ---
 title: 'Leyendo Whatsapp sin pantalla'
 date: 2014-02-23T19:47:00.003+13:00
-draft: true
+draft: false
 slug: 'Leyendo Whatsapp sin pantalla'
 externalLink: ""
 series: []

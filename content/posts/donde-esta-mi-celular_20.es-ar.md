@@ -1,7 +1,7 @@
 ---
 title: 'Donde esta mi celular?'
 date: 2013-09-20T03:14:00.003+12:00
-draft: true
+draft: false
 slug: 'Donde esta mi celular?'
 externalLink: ""
 series: []

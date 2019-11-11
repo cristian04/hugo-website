@@ -1,7 +1,7 @@
 ---
 title: 'Media center casero, utilizando upnp/dlna'
 date: 2014-06-24T13:35:00.003+12:00
-draft: true
+draft: false
 slug: 'Media center casero, utilizando upnp/dlna'
 externalLink: ""
 series: []

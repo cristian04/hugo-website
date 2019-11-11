@@ -1,7 +1,7 @@
 ---
 title: 'Home multimedia center con raspberry'
 date: 2014-08-29T15:45:00.003+12:00
-draft: true
+draft: false
 slug: 'Home multimedia center con raspberry'
 externalLink: ""
 series: []

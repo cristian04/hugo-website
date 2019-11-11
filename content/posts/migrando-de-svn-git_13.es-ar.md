@@ -1,7 +1,7 @@
 ---
 title: 'Migrando de SVN a GIT'
 date: 2015-01-11T17:41:00.002+13:00
-draft: true
+draft: false
 slug: 'Migrando de SVN a GIT'
 externalLink: ""
 series: []

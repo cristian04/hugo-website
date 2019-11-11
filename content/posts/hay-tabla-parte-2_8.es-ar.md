@@ -1,7 +1,7 @@
 ---
 title: 'Hay Tabla - Parte 2'
 date: 2014-08-08T17:51:00.003+12:00
-draft: true
+draft: false
 slug: 'Hay Tabla - Parte 2'
 externalLink: ""
 series: []

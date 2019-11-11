@@ -1,7 +1,7 @@
 ---
 title: 'Bajando muchos subtitulos para peliculas en Linux'
 date: 2014-06-30T13:34:00.003+12:00
-draft: true
+draft: false
 slug: 'Bajando muchos subtitulos para peliculas en Linux'
 externalLink: ""
 series: []

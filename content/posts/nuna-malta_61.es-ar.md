@@ -1,7 +1,7 @@
 ---
 title: 'Nuna Malta'
 date: 2014-03-30T19:40:00.003+13:00
-draft: true
+draft: false
 slug: 'Nuna Malta'
 externalLink: ""
 series: []

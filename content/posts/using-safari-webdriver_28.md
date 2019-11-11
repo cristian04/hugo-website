@@ -1,7 +1,7 @@
 ---
 title: 'Using Safari Webdriver'
 date: 2012-05-28T11:26:00.003+12:00
-draft: true
+draft: false
 slug: 'Using Safari Webdriver'
 externalLink: ""
 series: []

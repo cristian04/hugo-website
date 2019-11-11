@@ -1,7 +1,7 @@
 ---
 title: 'De monos y bananas'
 date: 2014-06-30T19:02:00.002+12:00
-draft: true
+draft: false
 slug: 'De monos y bananas'
 externalLink: ""
 series: []

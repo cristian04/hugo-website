@@ -1,7 +1,7 @@
 ---
 title: 'Ese blog de mierda'
 date: 2013-07-10T16:47:00.002+12:00
-draft: true
+draft: false
 slug: 'Ese blog de mierda'
 externalLink: ""
 series: []

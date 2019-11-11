@@ -1,7 +1,7 @@
 ---
 title: 'A new website'
 date: 2015-08-12T19:45:00.004+12:00
-draft: true
+draft: false
 slug: 'A new website'
 externalLink: ""
 series: []

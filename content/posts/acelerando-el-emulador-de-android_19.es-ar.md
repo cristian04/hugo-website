@@ -1,7 +1,7 @@
 ---
 title: 'Acelerando el emulador de Android'
 date: 2013-12-19T04:22:00.002+13:00
-draft: true
+draft: false
 slug: 'Acelerando el emulador de Android'
 externalLink: ""
 series: []
