@@ -81,11 +81,6 @@ enableEmoji = true
         url = "/about/"
 
         [[languages.en.menu.main]]
-        name = "Archive"
-        weight = 2
-        url = "https://blog.cristianmarquez.me"
-
-        [[languages.en.menu.main]]
         name = "Blog"
         weight = 3
         url = "/posts/"
@@ -118,11 +113,6 @@ enableEmoji = true
             name = "Acerca de mi"
             weight = 1
             url = "/es-ar/about/"
-
-            [[languages.es-ar.menu.main]]
-            name = "Archivo"
-            weight = 2
-            url = "https://blog.cristianmarquez.me"
 
             [[languages.es-ar.menu.main]]
             name = "Blog"
