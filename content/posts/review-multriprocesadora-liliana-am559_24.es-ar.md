@@ -52,7 +52,7 @@ Huy q embole!!! pero averiguate si aun te cubre la garantia o pedi otro producto
 Itan
 <hr />
 #### jojo q bueno
-[sebastian](http://www.shareguay.com "noreply@blogger.com") - <time datetime="2012-02-22T13:16:15.611+13:00">Feb 2, 2012</time>
+[sebastian](http://about:blank "noreply@blogger.com") - <time datetime="2012-02-22T13:16:15.611+13:00">Feb 2, 2012</time>
 
 jojo q bueno
 <hr />

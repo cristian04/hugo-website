@@ -23,4 +23,4 @@ Un segundo mono fue sustituido y ocurrió lo mismo. El primer sustituto particip
 
 Los científicos quedaron, así, con un grupo de cinco monos que, aún cuando nunca recibieron un baño de agua fría, continuaban golpeando a aquel que intentase llegar a las bananas. 
 
-**Fuente**: [http://ocw.unican.es/humanidades/teoria-y-metodos-de-la-geografia.-evolucion-del/material-de-clase-1/archivos-modulo-1/archivo-experimento-con-monos](http://ocw.unican.es/humanidades/teoria-y-metodos-de-la-geografia.-evolucion-del/material-de-clase-1/archivos-modulo-1/archivo-experimento-con-monos)
+__Fuente__: http://ocw.unican.es/humanidades/teoria-y-metodos-de-la-geografia.-evolucion-del/material-de-clase-1/archivos-modulo-1/archivo-experimento-con-monos

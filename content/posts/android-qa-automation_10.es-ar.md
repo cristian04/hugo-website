@@ -63,4 +63,4 @@ public  class  EditorTest  extends ActivityInstrumentationTestCase2<EditorActivi
 }
 {{< /highlight >}}
 
-Si quieren tener un poco mas de informacion, pueden visitar el sitio oficial [https://code.google.com/p/robotium/wiki/Getting\_Started](https://code.google.com/p/robotium/wiki/Getting_Started) o bajar el PDF con las instruciones aqui: -> [https://robotium.googlecode.com/files/AndroidCalculatorTest.pdf](https://robotium.googlecode.com/files/AndroidCalculatorTest.pdf)
+Si quieren tener un poco mas de informacion, pueden visitar el sitio oficial [https://code.google.com/p/robotium/wiki/Getting\_Started](https://code.google.com/p/robotium/wiki/Getting_Started)

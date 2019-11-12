@@ -27,10 +27,11 @@ Ahora vamos a enfocarnos en dos archivos .IMG. Para saber que es lo que tiene un
 [![](http://1.bp.blogspot.com/-JML-ndyaWm4/UmNhqO7j8fI/AAAAAAAAWHk/1csVyhIlG0E/s400/Pantallazo-Terminal.png)](http://1.bp.blogspot.com/-JML-ndyaWm4/UmNhqO7j8fI/AAAAAAAAWHk/1csVyhIlG0E/s1600/Pantallazo-Terminal.png)
 
   
+{{% notice tip %}}
+Tambien podemos usar el comando **binwalk** que nos muestra mas info, analizando el archivo integramente
+{{% /notice %}}
 
-> : Tambien podemos usar el comando **binwalk** que nos muestra mas info, analizando el archivo integramente
-
- Ahora que conocemos el sistema de archivo de cada imagen, podemos montarlo haciendo lo siguiente:  
+Ahora que conocemos el sistema de archivo de cada imagen, podemos montarlo haciendo lo siguiente:  
 
 [![](http://4.bp.blogspot.com/-HOtTd54x0kc/UmNigsxKrCI/AAAAAAAAWHs/ZhBRXt2WMxM/s400/Pantallazo-Terminal-1.png)](http://4.bp.blogspot.com/-HOtTd54x0kc/UmNigsxKrCI/AAAAAAAAWHs/ZhBRXt2WMxM/s1600/Pantallazo-Terminal-1.png)
 

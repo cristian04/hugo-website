@@ -47,14 +47,14 @@ $./adb forward tcp:4444 tcp:8080
 
 En mi caso, configuro que las escuchas las realice en el puerto 4444 ya que estoy acostumbrado a la manera en la que trabaja selenium server.
 
-Probamos si todo funciona correctamente ingresando a http://localhost:4444/. Tienen que ver una pagina como la siguiente (no se preocupen por el 404 :D)
+Probamos si todo funciona correctamente ingresando a `http://localhost:4444/`. Tienen que ver una pagina como la siguiente (no se preocupen por el 404 :D)
 
 [![](http://3.bp.blogspot.com/-Wq9VR-1Y8Rs/TpvLBKf2N8I/AAAAAAAAJsc/RCCv3SOTxOM/s400/screenshot12.png)](http://3.bp.blogspot.com/-Wq9VR-1Y8Rs/TpvLBKf2N8I/AAAAAAAAJsc/RCCv3SOTxOM/s1600/screenshot12.png)
 
 # Creacion y ejecucion de un proyecto de tests.
 
 - Creamos un proyecto nuevo en eclipse y una Clase llamada `FirstTest`:
-- Agregamos las librerias de selenium y sus dependencias al proyecto ( bajar [selenium-java-2.8.0.zip](http://selenium.googlecode.com/files/selenium-java-2.8.0.zip))
+- Agregamos las librerias de selenium y sus dependencias al proyecto ( bajar `selenium-java-2.8.0.zip`)
 
 Aquellos que usen maven pueden resolver las dependencias automaticamente. 
   
@@ -103,9 +103,8 @@ Corriendo desde el emulador
 ....en el fondo este es tu homenaje a Steve Jobs??
 <hr />
 #### Gente que no tiene ni idea...  
-http://lmgtfy.com...
 [Anonymous]( "noreply@blogger.com") - <time datetime="2012-04-09T08:31:55.624+12:00">Apr 0, 2012</time>
 
 Gente que no tiene ni idea...  
-http://lmgtfy.com/?q=Steve+Jobs+android
+`http://lmgtfy.com/?q=Steve+Jobs+android`
 <hr />

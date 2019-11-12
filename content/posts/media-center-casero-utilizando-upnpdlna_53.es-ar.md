@@ -8,8 +8,6 @@ series: []
 tags: [tutorial, xbmc, linux, UPnP, DLNA, Android]
 ---
 
-[![](http://4.bp.blogspot.com/-BXd6WvWMy9w/U6jMJ6lghuI/AAAAAAAAZhk/b3ro1XNlIOE/s1600/descarga.jpg)](https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2F4.bp.blogspot.com%2F-BXd6WvWMy9w%2FU6jMJ6lghuI%2FAAAAAAAAZhk%2Fb3ro1XNlIOE%2Fs1600%2Fdescarga.jpg&container=blogger&gadget=a&rewriteMime=image%2F*)
-
 Soy fanático de la música y el cine, de colgarme viendo varias películas en un dia. Usuario fiel de uTorrent y Transmission  
 
 En mi casa tengo un disco duro externo de 2TB conectado a un SmartTV; en el guardo películas, música y otros archivos multimedia.  
@@ -19,11 +17,9 @@ Uno de los inconvenientes que tenia era que no podía acceder a mis archivos mul
 
 Por otra parte, acceder a archivos en el disco desde el celular era imposible, hasta que armé mi red 100% compatible con UPNP.
 
-[![](http://1.bp.blogspot.com/-yD2F5BIUp60/U6jMOZalVUI/AAAAAAAAZhs/mCj3W2QqJWo/s1600/dlna1.jpeg)](http://1.bp.blogspot.com/-yD2F5BIUp60/U6jMOZalVUI/AAAAAAAAZhs/mCj3W2QqJWo/s1600/dlna1.jpeg)
-
 UPNP es un protocolo que permite compartir datos en una red de manera transparente (entre otras cosas) 
 
-La arquitectura de red que armé es así:
+# Arquitectura
 
 [![](http://3.bp.blogspot.com/-aBPviHTaPGM/U6i2JGb5K2I/AAAAAAAAZgw/Y5_1ZZgVa2A/s1600/upnp.jpg)](http://3.bp.blogspot.com/-aBPviHTaPGM/U6i2JGb5K2I/AAAAAAAAZgw/Y5_1ZZgVa2A/s1600/upnp.jpg)
 

@@ -29,7 +29,6 @@ El resultado de hacer esto es el siguiente:
 A este Kit lo compre via mercadolibre [aquí](http://articulo.mercadolibre.com.ar/MLA-519664005-kit-raspberry-pi-b-completo-wifi-adapt-microsd-fuente--_JM#redirectedFromParent)
 
 Por otra parte, ya disponía de lo siguiente:  
-  
 
 1.  TV Samsung UN46F6100
 2.  HDD 2TB SATA2

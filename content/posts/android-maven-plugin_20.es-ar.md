@@ -15,8 +15,7 @@ Una de las ventajas al trabajar con maven son los arquetipos (archetypes) Un arq
 
 Usar un archetype permite una manera rápida y consistente de desarrollar, mediante el uso buenas practicas y recomendaciones.
  
-Los archetypes que tenemos disponibles para Android usando el plugin son los siguientes (tomados de [http://stand.spree.de/wiki\_details\_maven\_archetypes](http://stand.spree.de/wiki_details_maven_archetypes)):  
-  
+Los archetypes que tenemos disponibles para Android usando el plugin son los siguientes:  
 
 - __ANDROID-QUICKSTART-ARCHETYPE__
 
