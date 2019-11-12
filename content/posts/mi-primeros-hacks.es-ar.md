@@ -1,14 +1,14 @@
-+++ 
-draft = true
-date = 2019-11-12T03:52:10-05:00
-title = "Mis primeros hacks"
-description = ""
-slug = "Mis primeros hack" 
-tags = ['hack','epson lx-300']
-categories = ['relatos']
-externalLink = ""
-series = []
-+++
+--- 
+draft: true
+date: 2019-11-12T03:52:10-05:00
+title: "Mis primeros hacks"
+description: ""
+slug: "Mis primeros hack" 
+tags: ['hack','epson lx-300']
+categories: ['relatos']
+externalLink: ""
+series: []
+---
 Estaba charlando con un par de viajeros y me preguntaban que significa hackear y cuando fue la primera vez que lo hice...
 
 Antes que nada, tengo que aclarar algo. Sé que el termino hackear tiene una connotación negativa para la mayoría. En mi caso, mi definición de hackear es:
