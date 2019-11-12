@@ -8,15 +8,20 @@ series: []
 tags: [tutorial, xbmc, linux, UPnP, DLNA, Android]
 ---
 
-[![](http://4.bp.blogspot.com/-BXd6WvWMy9w/U6jMJ6lghuI/AAAAAAAAZhk/b3ro1XNlIOE/s1600/descarga.jpg)](https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2F4.bp.blogspot.com%2F-BXd6WvWMy9w%2FU6jMJ6lghuI%2FAAAAAAAAZhk%2Fb3ro1XNlIOE%2Fs1600%2Fdescarga.jpg&container=blogger&gadget=a&rewriteMime=image%2F*)Soy fanático de la música y el cine, de colgarme viendo varias películas en un dia. Usuario fiel de uTorrent y Transmission  
+[![](http://4.bp.blogspot.com/-BXd6WvWMy9w/U6jMJ6lghuI/AAAAAAAAZhk/b3ro1XNlIOE/s1600/descarga.jpg)](https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2F4.bp.blogspot.com%2F-BXd6WvWMy9w%2FU6jMJ6lghuI%2FAAAAAAAAZhk%2Fb3ro1XNlIOE%2Fs1600%2Fdescarga.jpg&container=blogger&gadget=a&rewriteMime=image%2F*)
+
+Soy fanático de la música y el cine, de colgarme viendo varias películas en un dia. Usuario fiel de uTorrent y Transmission  
+
 En mi casa tengo un disco duro externo de 2TB conectado a un SmartTV; en el guardo películas, música y otros archivos multimedia.  
-Uno de los inconvenientes que tenia era que no podía acceder a mis archivos multimedia desde otro de mis dispositivos:  Si bajaba alguna película nueva, tenia que desconectar el disco del televisor, copiar la película, bajar los subtítulos, conectar el disco al televisor y de ahí comenzar la reproducción. Si quería hacer lo mismo desde una computadora o notebook, tenia que repetir todos esos pasos. Un embole.  
+
+Uno de los inconvenientes que tenia era que no podía acceder a mis archivos multimedia desde otro de mis dispositivos:
+- Si bajaba alguna película nueva, tenia que desconectar el disco del televisor, copiar la película, bajar los subtítulos, conectar el disco al televisor y de ahí comenzar la reproducción. Si quería hacer lo mismo desde una computadora o notebook, tenia que repetir todos esos pasos. Un embole.  
 
 Por otra parte, acceder a archivos en el disco desde el celular era imposible, hasta que armé mi red 100% compatible con UPNP.
 
-  
+[![](http://1.bp.blogspot.com/-yD2F5BIUp60/U6jMOZalVUI/AAAAAAAAZhs/mCj3W2QqJWo/s1600/dlna1.jpeg)](http://1.bp.blogspot.com/-yD2F5BIUp60/U6jMOZalVUI/AAAAAAAAZhs/mCj3W2QqJWo/s1600/dlna1.jpeg)
 
-[![](http://1.bp.blogspot.com/-yD2F5BIUp60/U6jMOZalVUI/AAAAAAAAZhs/mCj3W2QqJWo/s1600/dlna1.jpeg)](http://1.bp.blogspot.com/-yD2F5BIUp60/U6jMOZalVUI/AAAAAAAAZhs/mCj3W2QqJWo/s1600/dlna1.jpeg)UPNP es un protocolo que permite compartir datos en una red de manera transparente (entre otras cosas) 
+UPNP es un protocolo que permite compartir datos en una red de manera transparente (entre otras cosas) 
 
 La arquitectura de red que armé es así:
 
@@ -26,13 +31,13 @@ En primer lugar, tengo un router Linksys E900 300 MBPS con un firmware personali
 
 Como clientes tengo un SmartTV, celulares Android, la play 3 y la notebook. El software que utilizo varia segun el dispositivo:
 
-*   El Smart TV Samsung y la PS3 utilizan el software de fabrica
-*   Para los dispositivos android utilizo BubbleUPNP 
-*   Para las computadoras utilizo XBMC que es multiplataforma.
+- El Smart TV Samsung y la PS3 utilizan el software de fabrica
+- Para los dispositivos android utilizo BubbleUPNP 
+- Para las computadoras utilizo XBMC que es multiplataforma.
 
-Nota: Tanto Bubble como XBMC permiten compartir la libreria local con otros dispositivos. 
-
-  
+{{% notice note %}}
+Tanto Bubble como XBMC permiten compartir la libreria local con otros dispositivos.
+{{% /notice %}}
 
 Veamos algunos ejemplos:
 
@@ -57,10 +62,6 @@ Lo bueno de tooodo esto es que ahora puedo poner una pelicula que descargue en e
 Ademas, habilité el servidor web de Transmission y uTorrent, lo que me permite agregar descargas sin estar al frente de la pc.
 
 Ejemplos aqui:
-
-  
-
-  
 
 [![](http://2.bp.blogspot.com/-upL4jIiiQD4/U6jLyPCqtYI/AAAAAAAAZhc/OrxfBy0o2kI/s1600/Pantallazo.png)](http://2.bp.blogspot.com/-upL4jIiiQD4/U6jLyPCqtYI/AAAAAAAAZhc/OrxfBy0o2kI/s1600/Pantallazo.png)
 

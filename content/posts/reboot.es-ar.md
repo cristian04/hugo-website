@@ -14,7 +14,7 @@ Después de un tiempo sin publicar, he decidido regresar con muchas cosas nuevas
 He estado limpiando mi huella digital con las siguientes herramientas:
 
 - Blog:
-  - Me voy de blogger y me cambio a Hugo. _Por qué_? No pude usar el dominio `.com.ar` debido a la burocracia argentina para renovarlo, y la migración al dominio` .me` no fue tan sencilla como esperaba. El blog anterior todavía está disponible en [https://blog.cristianmarquez.me] (https://blog.cristianmarquez.me)
+  - Me voy de blogger y me cambio a Hugo. _Por qué_? No pude usar el dominio `.com.ar` debido a la burocracia argentina para renovarlo, y la migración al dominio` .me` no fue tan sencilla como esperaba. El blog anterior todavía está disponible en [https://www.cristianmarquez.me] (https://www.cristianmarquez.me)
 
 - Facebook:
   - Archivar / eliminar mensajes: encontré un `gist` para archivar y eliminar mensajes de Facebook. Está disponible en [github](https://gist.github.com/tedmiston/c7ac401da96b55022aaf) y solo requiere javascript en la barra de direcciones.

@@ -4,16 +4,15 @@ date: 2013-10-20T17:14:00.004+13:00
 draft: false
 slug: 'Hackeando un Smart TV Samsung (UN46EH5300G)'
 externalLink: ""
-series: []
+series: ['hackeando tv samsung']
 tags: [tutorial, smart tv, hack, samsung, hacking]
 ---
 
 Hola a todos:  
 Hoy les voy a mostrar algunas pruebas que estuve haciendo con un Smart TV de Samsung (que de SMART no tiene nada, tan solo es un thinclient)  
-Disclaimer:  
-
-*   Entrar o cambiar la configuración en el menú de servicio sin entender el funcionamiento puede causar daños permanentes en tu televisor. Accede a este menú sólo si estás calificado y capacitado para hacer trabajos de reparación de televisores.
-
+{{% notice warning %}}
+Entrar o cambiar la configuración en el menú de servicio sin entender el funcionamiento puede causar daños permanentes en tu televisor. Accede a este menú sólo si estás calificado y capacitado para hacer trabajos de reparación de televisores.
+{{% /notice %}}
   
 Bueno, voy a comenzar por partes. Lo primero que hice al tener el tele fue conectarlo a internet y tirarle un nmap para ver que es lo que tenia por detras. Encontre esto:  
 
@@ -52,12 +51,6 @@ Con eso, estamos seteando un nivel de volumen al televisor, sin usar nuestro con
   
 Hasta aquí una primera parte  
   
-
-Parte 1 [https://blog.cristianmarquez.me/2013/10/hackeando-un-smart-tv-samsung.html](https://blog.cristianmarquez.me/2013/10/hackeando-un-smart-tv-samsung.html)
-
-Parte 2 [https://blog.cristianmarquez.me/2013/10/hackeando-un-smart-tv-samsung\_20.html](https://blog.cristianmarquez.me/2013/10/hackeando-un-smart-tv-samsung_20.html)
-
-Parte 3 [https://blog.cristianmarquez.me/2013/10/hackeando-un-smart-tv-samsung\_8226.html](https://blog.cristianmarquez.me/2013/10/hackeando-un-smart-tv-samsung_8226.html)
 ---
 ### Comments:
 #### Hola tengo una samsung EH5300 quisiera saber como ...

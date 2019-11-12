@@ -7,35 +7,31 @@ externalLink: ""
 series: []
 tags: [tutorial, selenium, automated testing, test, webdriver]
 ---
+[![](http://4.bp.blogspot.com/-6nxVbuLw47I/T8LE1YocjQI/AAAAAAAAMWk/FsHcyXlygpY/s1600/big-logo.png)](http://4.bp.blogspot.com/-6nxVbuLw47I/T8LE1YocjQI/AAAAAAAAMWk/FsHcyXlygpY/s1600/big-logo.png)
 
-  
-[![](http://4.bp.blogspot.com/-6nxVbuLw47I/T8LE1YocjQI/AAAAAAAAMWk/FsHcyXlygpY/s1600/big-logo.png)](http://4.bp.blogspot.com/-6nxVbuLw47I/T8LE1YocjQI/AAAAAAAAMWk/FsHcyXlygpY/s1600/big-logo.png)Hi all:  
-Recently the selenium team has released the safaridriver extension than allows the communication between WebDriver and the browser.  
-However, this extension is only available for Safari 5+ and you need  tune up you browser before you can install it. In addition, you need to compile the extension from the sources.  
-Here are all the steps with a few screenshots to help you in all the process.  
+Recently the selenium team has released the safaridriver extension than allows the communication between WebDriver and the browser.
+
+However, this extension is only available for Safari 5+ and you need  tune up you browser before you can install it. In addition, you need to compile the extension from the sources.
+
+Here are all the steps with a few screenshots to help you in all the process.
+
 I hope these steps be useful  
+
 Cheers,  
   
-  
-  
-**Requisites**  
-  
+## Requisites  
+  - You need Safari 5 +. You can get it from: [http://www.apple.com/es/safari/download/](http://www.apple.com/es/safari/download/)
 
-*   You need Safari 5 +. You can get it from: [http://www.apple.com/es/safari/download/](http://www.apple.com/es/safari/download/)
+## Installation steps
+### Safari Extension
+### Compiling
 
+{{% notice tip %}}
+_If you dont want to compile the extension, or if you have problems when compiling, you can use download a precompiled extension from [here](http://code.google.com/p/selenium/issues/detail?id=3827#c11) (look for the _**SafariDriver.safariextension.zip** _file_)
+{{% /notice %}} 
   
-**Installation steps**  
-**Safari Extension:**  
-**Compiling**  
-_If you dont want to compile the extension, or if you have problems when compiling, you can use download a precompiled extension from [here](http://code.google.com/p/selenium/issues/detail?id=3827#c11) (look for the _**SafariDriver.safariextension.zip** _file_)  
-  
-  
-
 1.  Checkout the 16670 version of the selenium project. Download all the project, not just the safariDriver folder. ~150Mb
 2.  Build the extension. You need java properly set in your system's settings.
-
-  
-  
 
 [![](http://3.bp.blogspot.com/-Ov-LFf4Mv5w/T8K0o2GrNCI/AAAAAAAAMU0/KpRvRFq9p8A/s400/1a-+checkout.png)](http://3.bp.blogspot.com/-Ov-LFf4Mv5w/T8K0o2GrNCI/AAAAAAAAMU0/KpRvRFq9p8A/s1600/1a-+checkout.png)
 
@@ -45,14 +41,7 @@ _If you dont want to compile the extension, or if you have problems when compili
 
 [![](http://4.bp.blogspot.com/-zieX3fH6OuY/T8K0qOM6l6I/AAAAAAAAMVM/lhysme-ecFw/s640/2b-+build.png)](http://4.bp.blogspot.com/-zieX3fH6OuY/T8K0qOM6l6I/AAAAAAAAMVM/lhysme-ecFw/s1600/2b-+build.png)
 
-  
-
-  
-
-  
-
-**Installation:**  
-  
+## Installation
 
 1.  Register as an Apple Developer in [https://developer.apple.com/programs/register/](https://developer.apple.com/programs/register/)
 2.  Join in the Safari development program [https://developer.apple.com/devcenter/safari/renew/index.action](https://developer.apple.com/devcenter/safari/renew/index.action)
@@ -71,16 +60,12 @@ _If you dont want to compile the extension, or if you have problems when compili
 
 [![](http://3.bp.blogspot.com/-AXQppKO2Khc/T8K2NkCuPLI/AAAAAAAAMWE/jdk3uuEs73s/s640/extension.png)](http://3.bp.blogspot.com/-AXQppKO2Khc/T8K2NkCuPLI/AAAAAAAAMWE/jdk3uuEs73s/s1600/extension.png)
 
-  
-
-  
-
 [![](http://2.bp.blogspot.com/-WhdNNrMixCU/T8K2OBGSbxI/AAAAAAAAMWM/PXplvb34NbM/s640/extensionbuilder.png)](http://2.bp.blogspot.com/-WhdNNrMixCU/T8K2OBGSbxI/AAAAAAAAMWM/PXplvb34NbM/s1600/extensionbuilder.png)
 
-**Call:**
+## Usage
 
-```
-/\*\*  
+{{< highlight java "linenos=table">}}
+   \**  
    \* Sets safari driver  
    \*   
    \* @param context  
@@ -105,21 +90,16 @@ _If you dont want to compile the extension, or if you have problems when compili
       Platform current = Platform.getCurrent();  
       return Platform.MAC.is(current) || Platform.WINDOWS.is(current);  
 }  
-
-```
+{{< /highlight >}}
 
 **Testing:**
 
 You can try with a JUnit class
 
-In example:
-
-  
-
-```
+{{< highlight java "linenos=table">}}
 @Test  
     public void StartSafariWD() {  
         browser.start("safariWD");  
         browser.stop();  
         }
-```
+{{< /highlight >}}

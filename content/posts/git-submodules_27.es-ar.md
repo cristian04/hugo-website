@@ -8,16 +8,17 @@ series: []
 tags: [tutorial, git, Ascentio, git submodules, svn]
 ---
 
-Durante la preparación de la migración de SVN a GIT (Ver [Migrando de svn a git](https://blog.cristianmarquez.me/2015/01/migrando-de-svn-git_11.html)) me encontré con  que en varios proyectos habían varios **trunks**. El árbol de directorios era algo así:  
+Durante la preparación de la migración de SVN a GIT (Ver [Migrando de svn a git](https://www.cristianmarquez.me/es-ar/posts/migrando-de-svn-a-git/)) me encontré con  que en varios proyectos habían varios **trunks**. El árbol de directorios era algo así:  
   
-**Proyecto**  
+**Proyecto** 
+``` 
 ├── tags  
 └── trunk  
           └── test  
                     ├── branches  
                     ├── tags  
                     └── trunk  
-  
+```
 
 Ignorando si esto es o no una buena práctica, probé de que manera hacer lo mismo utilizando GIT, lo que me llevo a probar **_git submodules._**
 
@@ -35,44 +36,24 @@ Después de crear varios repositorios, la estructura me quedó de esta manera:
 
 [![](http://2.bp.blogspot.com/-TKpoYRTlADw/VMZeiJYL-kI/AAAAAAAAchg/gtSBEv6YnX0/s1600/Selecci%C3%B3n_060.jpg)](http://2.bp.blogspot.com/-TKpoYRTlADw/VMZeiJYL-kI/AAAAAAAAchg/gtSBEv6YnX0/s1600/Selecci%C3%B3n_060.jpg)
 
-  
-
 Los repositorios "**A New Module**" y **" The New Hope"** serían los diferentes componentes de nuestro proyecto, y en **"Main Project"** estaría el árbol completo.
 
-### Armando la estructura
+# Armando la estructura
 
 Despues de hacer un **git clone** del repositorio **MainProject,** agregué los submodulos mediante los siguientes comandos:
 
-1.  **_git submodule add ssh://cmarquez@git.ascentio.com.ar:29418/A-New-Project/ANewModule.git ANewModule_** Para agregar ANewModule
-2.  _**git submodule add ssh://cmarquez@git.ascentio.com.ar:29418/A-New-Project/TheNewHope.git TheNewHope**_ Para agregar TheNewHope
+1. Para agregar __ANewModule__: `git submodule add ssh://cmarquez@git.ascentio.com.ar:29418/A-New-Project/ANewModule.git ANewModule` 
+2. Para agregar __TheNewHope__ `git submodule add ssh://cmarquez@git.ascentio.com.ar:29418/A-New-Project/TheNewHope.git TheNewHope` 
 
 [![](http://1.bp.blogspot.com/-hFtjkwTmDc8/VMZhWtdFl4I/AAAAAAAAchw/z_fZcqiEs2c/s1600/Selecci%C3%B3n_061.jpg)](http://1.bp.blogspot.com/-hFtjkwTmDc8/VMZhWtdFl4I/AAAAAAAAchw/z_fZcqiEs2c/s1600/Selecci%C3%B3n_061.jpg)
 
-  
-
 [![](http://4.bp.blogspot.com/-BZ1-xkRXBgs/VMZhWpvr7OI/AAAAAAAAchs/IMlHOzrETuI/s1600/Selecci%C3%B3n_062.jpg)](http://4.bp.blogspot.com/-BZ1-xkRXBgs/VMZhWpvr7OI/AAAAAAAAchs/IMlHOzrETuI/s1600/Selecci%C3%B3n_062.jpg)
-
-  
 
 La estructura de carpetas va quedando de la siguiente manera:
 
 [![](http://1.bp.blogspot.com/-1cRpitISFdA/VMZh_PV0oWI/AAAAAAAAch8/eP2m1N940fY/s1600/Selecci%C3%B3n_063.jpg)](http://1.bp.blogspot.com/-1cRpitISFdA/VMZh_PV0oWI/AAAAAAAAch8/eP2m1N940fY/s1600/Selecci%C3%B3n_063.jpg)
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-Si hacemos un **GitStatus**, podemos ver que se generó un archivo .**gitmodules**
+Si hacemos un **Git Status**, podemos ver que se generó un archivo **.gitmodules**
 
 [![](http://3.bp.blogspot.com/-n6XszRyZJLY/VMZibGj83HI/AAAAAAAAciE/-6ztb0fj0qo/s1600/Selecci%C3%B3n_064.jpg)](http://3.bp.blogspot.com/-n6XszRyZJLY/VMZibGj83HI/AAAAAAAAciE/-6ztb0fj0qo/s1600/Selecci%C3%B3n_064.jpg)
 

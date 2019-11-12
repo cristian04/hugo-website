@@ -11,8 +11,11 @@ tags: [tutorial, seguridad, camara, ip webcam, hacking, Android, camara ip, proy
 [![](http://2.bp.blogspot.com/-53Lb5CGbvsA/Uzl-5cUVW1I/AAAAAAAAXaE/53B_ctGh65A/s1600/images.jpg)](http://2.bp.blogspot.com/-53Lb5CGbvsA/Uzl-5cUVW1I/AAAAAAAAXaE/53B_ctGh65A/s1600/images.jpg)
 
 Hola!  
+
 En este pequeño post les dejo un tutorial para reutilizar los celulares de gama baja que ya no utilicen. De esta manera, podemos ahorrar unos pesos (las camaras IP estan por arriba de los $1000) y también evitamos venderlos por dos mangos, como así también la contaminación que generan.  
-Antes, un ejemplo de cómo queda:  
+Antes, un ejemplo de cómo queda:
+
+{{<youtube X1lJSbAStis>}}
 
 Lo primero que necesitan es disponer de un celular con sistema operativo Android. Lo ideal sería utilizar uno de gama baja, media-baja. En mi caso tengo un Samsung Galaxy Ace que compré a $500.  
 Luego, instalen [IP Webcam](https://play.google.com/store/apps/details?id=com.pas.webcam&hl=es_419), una aplicación disponible en el Store que genera un servicio http para la cámara.  
@@ -25,7 +28,7 @@ La configuración es sencilla, no se olviden de configurar un usuario y contrase
 
 Instalación del celu en mi dpto
 
-### Vision nocturna?
+# Vision nocturna?
 
 Si necesitan colocar la cámara en lugares oscuros, tienen dos alternativas: 
 

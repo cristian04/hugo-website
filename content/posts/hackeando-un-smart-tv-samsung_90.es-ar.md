@@ -4,7 +4,7 @@ date: 2013-10-20T17:45:00.002+13:00
 draft: false
 slug: 'Hackeando un Smart TV Samsung (UN46EH5300G) Parte 2'
 externalLink: ""
-series: []
+series: ['hackeando tv samsung']
 tags: [tutorial, smart tv, hack, samsung, pvr, hacking]
 ---
 
@@ -28,19 +28,10 @@ El otro menu se puede acceder con el televisor prendido. Solamente necesitamos t
 En las primeras versiones del firmware del tv, el modo de Hospitality Mode nos permitia editar la configuración del televisor, y una de esas opciones era habilitar PVR (personal video recording)  
 
 [![](http://4.bp.blogspot.com/-m7bn828-Y2s/UmNft10aqkI/AAAAAAAAWHQ/QaLww4IBDSI/s400/Pantallazo-3.png)](http://4.bp.blogspot.com/-m7bn828-Y2s/UmNft10aqkI/AAAAAAAAWHQ/QaLww4IBDSI/s1600/Pantallazo-3.png)
-
   
-  
-
-Parte 1 [https://blog.cristianmarquez.me/2013/10/hackeando-un-smart-tv-samsung.html](https://blog.cristianmarquez.me/2013/10/hackeando-un-smart-tv-samsung.html)
-
-Parte 2 [https://blog.cristianmarquez.me/2013/10/hackeando-un-smart-tv-samsung\_20.html](https://blog.cristianmarquez.me/2013/10/hackeando-un-smart-tv-samsung_20.html)
-
-Parte 3 [https://blog.cristianmarquez.me/2013/10/hackeando-un-smart-tv-samsung\_8226.html](https://blog.cristianmarquez.me/2013/10/hackeando-un-smart-tv-samsung_8226.html)  
-  
-Disclaimer:  
-
-*   Entrar o cambiar la configuración en el menú de servicio sin entender el funcionamiento puede causar daños permanentes en tu televisor. Accede a este menú sólo si estás calificado y capacitado para hacer trabajos de reparación de televisores.
+{{% notice warning %}}
+Entrar o cambiar la configuración en el menú de servicio sin entender el funcionamiento puede causar daños permanentes en tu televisor. Accede a este menú sólo si estás calificado y capacitado para hacer trabajos de reparación de televisores.
+{{% /notice %}}
 ---
 ### Comments:
 #### Hola, tengo un Smart TV Samsung EH 5300 40″ y modi...
@@ -699,7 +690,7 @@ Lo vendi porque me parecio que los Smart TV, al menos de Samsung, no son tan SMA
 Les recomiendo comprarse un televisor comun y agregarle algun dongle como Google Chromecast o se fabrican uno con rasbperry pi.  
 Saludos!  
   
-https://blog.cristianmarquez.me/2014/08/xbmc-transmission-dlna-en-raspberry-pi.html
+https://www.cristianmarquez.me/es-ar/posts/home-multimedia-center-con-raspberry/
 <hr />
 #### me pasa lo mismo, has tenido alguna solución??
 [khinncho](https://www.blogger.com/profile/01378571713484737892 "noreply@blogger.com") - <time datetime="2015-06-29T09:36:47.487+12:00">Jun 0, 2015</time>

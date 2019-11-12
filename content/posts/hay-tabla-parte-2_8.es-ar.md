@@ -12,14 +12,12 @@ tags: [hay tabla]
 
 Vuelve el popular **Hay Tabla!!** Un resumen de los "hay tabla" de los ultimos meses. Nerd 100%  
   
-  
-
-*   Si el repo es el "email", hay tabla
-*   Si usas SVN, hay tabla (prefiero el mail)
-*   Si no se puede usar Linux por "políticas", hay tabla
-*   Si no se puede trabajar desde casa, hay tabla
-*   Si me pedis instalar antivirus en Linux, hay tabla
-*   Si me decis "en mi maquina anda", hay tabla
-*   Si mandas librerias por mail, hay tabla
-*   Si no documentas lo que haces, hay tabla
-*   Si no comentan otros hay tabla, hay tabla
+- Si el repo es el "email", hay tabla
+- Si usas SVN, hay tabla (prefiero el mail)
+- Si no se puede usar Linux por "políticas", hay tabla
+- Si no se puede trabajar desde casa, hay tabla
+- Si me pedis instalar antivirus en Linux, hay tabla
+- Si me decis "en mi maquina anda", hay tabla
+- Si mandas librerias por mail, hay tabla
+- Si no documentas lo que haces, hay tabla
+- Si no comentan otros hay tabla, hay tabla

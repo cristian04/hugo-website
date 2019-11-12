@@ -4,14 +4,15 @@ date: 2013-10-20T17:59:00.002+13:00
 draft: false
 slug: 'Hackeando un Smart TV Samsung (UN46EH5300G) Parte 3'
 externalLink: ""
-series: []
+series: ['hackeando tv samsung']
 tags: [tutorial, smart tv, hack, samsung, pvr, hacking]
 ---
 
 Bueno, por ultimo voy a mostrarle algunas cosas interesantes que encontré con respecto al firmware del tv y algunos links.  
-Disclaimer:  
 
-*   Entrar o cambiar la configuración en el menú de servicio sin entender el funcionamiento puede causar daños permanentes en tu televisor. Accede a este menú sólo si estás calificado y capacitado para hacer trabajos de reparación de televisores.
+{{% notice warning %}}
+Entrar o cambiar la configuración en el menú de servicio sin entender el funcionamiento puede causar daños permanentes en tu televisor. Accede a este menú sólo si estás calificado y capacitado para hacer trabajos de reparación de televisores.
+{{% /notice %}}
 
 La ultima version disponible para el SmartTV al dia de hoy es [T-MST10PIBRC](http://downloadcenter.samsung.com/content/FM/201310/20131016121138905/T-MST10PIBRC.exe)  
 Como pueden ver, el archivo es un .EXE que descomprime una carpeta, vamos a analizar que es lo que tenemos aqui:  
@@ -27,7 +28,7 @@ Ahora vamos a enfocarnos en dos archivos .IMG. Para saber que es lo que tiene un
 
   
 
-> TIP: Tambien podemos usar el comando **binwalk** que nos muestra mas info, analizando el archivo integramente
+> : Tambien podemos usar el comando **binwalk** que nos muestra mas info, analizando el archivo integramente
 
  Ahora que conocemos el sistema de archivo de cada imagen, podemos montarlo haciendo lo siguiente:  
 
@@ -43,16 +44,6 @@ Les dejo dos links que me gustaron:
 2.  [http://marcoramilli.blogspot.com.ar/2013/05/firmware-hacking-samsung-smart-tv-turn.html](http://marcoramilli.blogspot.com.ar/2013/05/firmware-hacking-samsung-smart-tv-turn.html)
 
 Saludos!
-
-  
-
-  
-
-Parte 1 [https://blog.cristianmarquez.me/2013/10/hackeando-un-smart-tv-samsung.html](https://blog.cristianmarquez.me/2013/10/hackeando-un-smart-tv-samsung.html)
-
-Parte 2 [https://blog.cristianmarquez.me/2013/10/hackeando-un-smart-tv-samsung\_20.html](https://blog.cristianmarquez.me/2013/10/hackeando-un-smart-tv-samsung_20.html)
-
-Parte 3 [https://blog.cristianmarquez.me/2013/10/hackeando-un-smart-tv-samsung\_8226.html](https://blog.cristianmarquez.me/2013/10/hackeando-un-smart-tv-samsung_8226.html)
 ---
 ### Comments:
 #### hola, tenes idea si hay alguna forma (mediante hac...
