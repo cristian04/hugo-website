@@ -38,9 +38,9 @@ Parte 2 [https://blog.cristianmarquez.me/2013/10/hackeando-un-smart-tv-samsung\
 
 Parte 3 [https://blog.cristianmarquez.me/2013/10/hackeando-un-smart-tv-samsung\_8226.html](https://blog.cristianmarquez.me/2013/10/hackeando-un-smart-tv-samsung_8226.html)  
   
-Disclaimer:  
-
-*   Entrar o cambiar la configuración en el menú de servicio sin entender el funcionamiento puede causar daños permanentes en tu televisor. Accede a este menú sólo si estás calificado y capacitado para hacer trabajos de reparación de televisores.
+{{% notice warning %}}
+Entrar o cambiar la configuración en el menú de servicio sin entender el funcionamiento puede causar daños permanentes en tu televisor. Accede a este menú sólo si estás calificado y capacitado para hacer trabajos de reparación de televisores.
+{{% /notice %}}
 ---
 ### Comments:
 #### Hola, tengo un Smart TV Samsung EH 5300 40″ y modi...

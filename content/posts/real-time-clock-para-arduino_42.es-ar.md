@@ -7,308 +7,231 @@ externalLink: ""
 series: []
 tags: [tutorial, rtc, arduino]
 ---
-
 [![](http://3.bp.blogspot.com/-gt6t2BiO_-A/U7JEx1aXyxI/AAAAAAAAZqY/XFcyPiz30uY/s1600/10478656_10204082693930392_3698296316643171283_n.jpg)](http://3.bp.blogspot.com/-gt6t2BiO_-A/U7JEx1aXyxI/AAAAAAAAZqY/XFcyPiz30uY/s1600/10478656_10204082693930392_3698296316643171283_n.jpg) Pequeño tutorial para hacer funcionar un reloj tiempo real que utilizo para mi arduino.  
 El modelo es Tiny RTC I2C Modules y es el de la foto.  
 Como pueden ver, la batería es recargable.  
 La conexión es la siguiente:  
-  
-  
-  
+```  
 |     **RTC**       |   **Arduino** |  
 |     GND       |      GND   |  
 |     VCC       |        +5V   |  
 |     SDA       |        A4     |  
 |     SCL       |         A5     |  
 |     BAT       |      +3.3v   |  
-
-  
-
-  
+```
 
 [![](http://4.bp.blogspot.com/-PaoiVHkIndk/U7JFCNyl1EI/AAAAAAAAZqs/UHWFwozrTUY/s1600/Untitled+Sketch_bb.png)](http://4.bp.blogspot.com/-PaoiVHkIndk/U7JFCNyl1EI/AAAAAAAAZqs/UHWFwozrTUY/s1600/Untitled+Sketch_bb.png)
 
-  
+# Código:
 
-Código:
--------
+## Poner la hora
 
-### Poner la hora
+{{< highlight arduino "linenos=table">}}
+\* Downloaded from http://projectsfromtech.blogspot.com/
+\*Connect SCL, SDA, Vcc, and GND
+\*Set date in function below.
+\*Upload and enjoy!
+\*
 
-1.  /\* Downloaded from http://projectsfromtech.blogspot.com/
-    
-2.  \*Connect SCL, SDA, Vcc, and GND
-    
-3.  \*Set date in function below.
-    
-4.  \*Upload and enjoy!
-    
-5.  \*/
-    
+//Arduino 1.0+ Only
 
-8.  //Arduino 1.0+ Only
-    
+ #include "Wire.h"
+ #define DS1307\_ADDRESS 0x68
+ byte zero \= 0x00; //workaround for issue #527
 
-10.  #include "Wire.h"
-    
+ void setup(){
+   Wire.begin();
+   Serial.begin(9600);
+   setDateTime(); //MUST CONFIGURE IN FUNCTION
+ }
 
-12.  #define DS1307\_ADDRESS 0x68
-    
-13.  byte zero \= 0x00; //workaround for issue #527
-    
+ void loop(){
+   printDate();
+   delay(1000);
+ }
 
-15.  void setup(){
-    
-16.    Wire.begin();
-    
+ void setDateTime(){
 
-20.    Serial.begin(9600);
-    
-21.    setDateTime(); //MUST CONFIGURE IN FUNCTION
-    
-22.  }
-    
+   byte second \=     00; //0-59
 
-24.  void loop(){
-    
-25.    printDate();
-    
-26.    delay(1000);
-    
-27.  }
-    
+   byte minute \=      37; //0-59
 
-29.  void setDateTime(){
-    
+   byte hour \=        23; //0-23
 
-31.    byte second \=     00; //0-59
-    
-32.    byte minute \=      37; //0-59
-    
-33.    byte hour \=        23; //0-23
-    
-34.    byte weekDay \=    1; //1-7
-    
-35.    byte monthDay \=    30; //1-31
-    
-36.    byte month \=       7; //1-12
-    
-37.    byte year  \=       14; //0-99
-    
+   byte weekDay \=    1; //1-7
 
-39.    Wire.beginTransmission(DS1307\_ADDRESS);
-    
-40.    Wire.write(zero); //stop Oscillator
-    
+   byte monthDay \=    30; //1-31
 
-42.    Wire.write(decToBcd(second));
-    
-43.    Wire.write(decToBcd(minute));
-    
-44.    Wire.write(decToBcd(hour));
-    
-45.    Wire.write(decToBcd(weekDay));
-    
-46.    Wire.write(decToBcd(monthDay));
-    
-47.    Wire.write(decToBcd(month));
-    
-48.    Wire.write(decToBcd(year));
-    
+   byte month \=       7; //1-12
 
-50.    Wire.write(zero); //start
-    
+   byte year  \=       14; //0-99
 
-52.    Wire.endTransmission();
-    
+   Wire.beginTransmission(DS1307\_ADDRESS);
 
-54.  }
-    
+   Wire.write(zero); //stop Oscillator
 
-56.  byte decToBcd(byte val){
-    
-57.  // Convert normal decimal numbers to binary coded decimal
-    
-58.    return ( (val/10\*16) + (val%10) );
-    
-59.  }
-    
+   Wire.write(decToBcd(second));
 
-61.  byte bcdToDec(byte val)  {
-    
-62.  // Convert binary coded decimal to normal decimal numbers
-    
-63.    return ( (val/16\*10) + (val%16) );
-    
-64.  }
-    
+   Wire.write(decToBcd(minute));
 
-66.  void printDate(){
-    
+   Wire.write(decToBcd(hour));
 
-68.    // Reset the register pointer
-    
-69.    Wire.beginTransmission(DS1307\_ADDRESS);
-    
-70.    Wire.write(zero);
-    
-71.    Wire.endTransmission();
-    
+   Wire.write(decToBcd(weekDay));
 
-73.    Wire.requestFrom(DS1307\_ADDRESS, 7);
-    
+   Wire.write(decToBcd(monthDay));
 
-75.    int second \= bcdToDec(Wire.read());
-    
-76.    int minute \= bcdToDec(Wire.read());
-    
-77.    int hour \= bcdToDec(Wire.read() & 0b111111); //24 hour time
-    
-78.    int weekDay \= bcdToDec(Wire.read()); //0-6 -> sunday - Saturday
-    
-79.    int monthDay \= bcdToDec(Wire.read());
-    
-80.    int month \= bcdToDec(Wire.read());
-    
-81.    int year \= bcdToDec(Wire.read());
-    
+   Wire.write(decToBcd(month));
 
-83.    //print the date EG   3/1/11 23:59:59
-    
-84.    Serial.print(month);
-    
-85.    Serial.print("/");
-    
-86.    Serial.print(monthDay);
-    
-87.    Serial.print("/");
-    
-88.    Serial.print(year);
-    
-89.    Serial.print(" ");
-    
-90.    Serial.print(hour);
-    
-91.    Serial.print(":");
-    
-92.    Serial.print(minute);
-    
-93.    Serial.print(":");
-    
-94.    Serial.println(second);
-    
+   Wire.write(decToBcd(year));
 
-96.  }
-    
+   Wire.write(zero); //start
+
+   Wire.endTransmission();
+
+ }
+
+ byte decToBcd(byte val){
+
+ // Convert normal decimal numbers to binary coded decimal
+
+   return ( (val/10\*16) + (val%10) );
+
+ }
+
+ byte bcdToDec(byte val)  {
+
+ // Convert binary coded decimal to normal decimal numbers
+
+   return ( (val/16\*10) + (val%16) );
+
+ }
+
+ void printDate(){
+
+   // Reset the register pointer
+
+   Wire.beginTransmission(DS1307\_ADDRESS);
+
+   Wire.write(zero);
+
+   Wire.endTransmission();
+
+   Wire.requestFrom(DS1307\_ADDRESS, 7);
+
+   int second \= bcdToDec(Wire.read());
+
+   int minute \= bcdToDec(Wire.read());
+
+   int hour \= bcdToDec(Wire.read() & 0b111111); //24 hour time
+
+   int weekDay \= bcdToDec(Wire.read()); //0-6 -> sunday - Saturday
+
+   int monthDay \= bcdToDec(Wire.read());
+
+   int month \= bcdToDec(Wire.read());
+
+   int year \= bcdToDec(Wire.read());
+
+   //print the date EG   3/1/11 23:59:59
+
+   Serial.print(month);
+
+   Serial.print("/");
+
+   Serial.print(monthDay);
+
+   Serial.print("/");
+   Serial.print(year);
+   Serial.print(" ");
+   Serial.print(hour);
+   Serial.print(":");
+   Serial.print(minute);
+   Serial.print(":");
+   Serial.println(second);
+ }
+{{< /highlight >}}
+
 
 ### Obtener la hora
 
-1.  /\* Downloaded from http://projectsfromtech.blogspot.com/
-    
-2.  \*Connect SCL, SDA, Vcc, and GND
-    
-3.  \*Open Serial Monitor and enjoy!
-    
-4.  \*/
-    
+{{< highlight java "linenos=table">}}
+ /\* Downloaded from http://projectsfromtech.blogspot.com
+ \*Connect SCL, SDA, Vcc, and GND
+ \*Open Serial Monitor and enjoy!
+ \*/
+ 
+ //Arduino 1.0+ Only
+ #include "Wire.h"
+ #define DS1307\_ADDRESS 0x68
 
-6.  //Arduino 1.0+ Only
-    
+  void setup(){
+ 
+    Wire.begin();
+ 
+    Serial.begin(9600);
+ 
+  }
+ 
+  void loop(){
+    printDate();
+    delay(1000);
+  }
+ 
+  byte bcdToDec(byte val)  {
+  // Convert binary coded decimal to normal decimal numbers
+    return ( (val/16\*10) + (val%16) );
+  }
+ 
+  void printDate(){
+    // Reset the register pointer
+    Wire.beginTransmission(DS1307\_ADDRESS);
+    byte zero \= 0x00;
+    Wire.write(zero);
+ 
+    Wire.endTransmission();
+ 
+    Wire.requestFrom(DS1307\_ADDRESS, 7);
+ 
+    int second \= bcdToDec(Wire.read());
+ 
+    int minute \= bcdToDec(Wire.read());
+ 
+    int hour \= bcdToDec(Wire.read() & 0b111111); //24 hour time
+ 
+    int weekDay \= bcdToDec(Wire.read()); //0-6 -> sunday - Saturday
+ 
+    int monthDay \= bcdToDec(Wire.read());
+ 
+    int month \= bcdToDec(Wire.read());
+ 
+    int year \= bcdToDec(Wire.read());
+ 
+    //print the date EG   3/1/11 23:59:59
+ 
+    Serial.print(month);
+ 
+    Serial.print("/");
+ 
+    Serial.print(monthDay);
+ 
+    Serial.print("/");
+ 
+    Serial.print(year);
+ 
+    Serial.print(" ");
+ 
+    Serial.print(hour);
+ 
+    Serial.print(":");
+    Serial.print(minute);
+    Serial.print(":");
+    Serial.println(second);
+ 
+  }
+  {{< /highlight >}}
+ 
+## Bug
 
-8.  #include "Wire.h"
-    
-9.  #define DS1307\_ADDRESS 0x68
-    
-
-11.  void setup(){
-    
-12.    Wire.begin();
-    
-13.    Serial.begin(9600);
-    
-14.  }
-    
-
-16.  void loop(){
-    
-17.    printDate();
-    
-18.    delay(1000);
-    
-19.  }
-    
-
-21.  byte bcdToDec(byte val)  {
-    
-22.  // Convert binary coded decimal to normal decimal numbers
-    
-23.    return ( (val/16\*10) + (val%16) );
-    
-24.  }
-    
-
-26.  void printDate(){
-    
-
-28.    // Reset the register pointer
-    
-29.    Wire.beginTransmission(DS1307\_ADDRESS);
-    
-
-31.    byte zero \= 0x00;
-    
-32.    Wire.write(zero);
-    
-33.    Wire.endTransmission();
-    
-
-35.    Wire.requestFrom(DS1307\_ADDRESS, 7);
-    
-
-37.    int second \= bcdToDec(Wire.read());
-    
-38.    int minute \= bcdToDec(Wire.read());
-    
-39.    int hour \= bcdToDec(Wire.read() & 0b111111); //24 hour time
-    
-40.    int weekDay \= bcdToDec(Wire.read()); //0-6 -> sunday - Saturday
-    
-41.    int monthDay \= bcdToDec(Wire.read());
-    
-42.    int month \= bcdToDec(Wire.read());
-    
-43.    int year \= bcdToDec(Wire.read());
-    
-
-45.    //print the date EG   3/1/11 23:59:59
-    
-46.    Serial.print(month);
-    
-47.    Serial.print("/");
-    
-48.    Serial.print(monthDay);
-    
-49.    Serial.print("/");
-    
-50.    Serial.print(year);
-    
-51.    Serial.print(" ");
-    
-52.    Serial.print(hour);
-    
-53.    Serial.print(":");
-    
-54.    Serial.print(minute);
-    
-55.    Serial.print(":");
-    
-56.    Serial.println(second);
-    
-
-58.  }
-    
-
-**Bug:**
---------
-
-> Muestra una fecha invalida como **7/31/14 2:27:36**
+```
+A veces muestra Muestra una fecha invalida como 7/31/14 2:27:36
+```

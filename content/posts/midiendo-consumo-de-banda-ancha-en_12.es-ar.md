@@ -8,22 +8,24 @@ series: []
 tags: [UN32H5500, smart tv, hacking]
 ---
 
-Hola! En este post dejo algunas pruebas que hice con un smart tv para saber cuanto ancho de banda necesitamos.  
+Hola! En este post dejo algunas pruebas que hice con un smart tv para saber cuanto ancho de banda necesitamos.
+
 El smart en cuestion es un Samsung de 32 pulgadas, modelo UN32H5500.  
+
 ISP: Fibertel 12MB  
+
 Para medir estoy utilizando DDWRT  
   
 Los resultados fueron los siguientes:  
 
-### Netflix: 
+# Netflix: 
 
 [![](http://4.bp.blogspot.com/-tNy2Nb6QVPA/VLKbMEdkOVI/AAAAAAAAcck/twnDOm5eqqI/s1600/Untitled.png)](http://4.bp.blogspot.com/-tNy2Nb6QVPA/VLKbMEdkOVI/AAAAAAAAcck/twnDOm5eqqI/s1600/Untitled.png)
 
-### Youtube:
-
-  
+# Youtube:
 
 [![](http://3.bp.blogspot.com/-wg939gOhGHc/VLKeKdD-_xI/AAAAAAAAcdI/E2Irpge2U3o/s1600/Selection_002.png)](http://3.bp.blogspot.com/-wg939gOhGHc/VLKeKdD-_xI/AAAAAAAAcdI/E2Irpge2U3o/s1600/Selection_002.png)
+
 ---
 ### Comments:
 #### tengo arnet 6 megas youtube con vídeos a 720 p se ...

@@ -48,11 +48,12 @@ Luego me fui a hacer una denuncia y fin…
   
 Antes de terminar esto, uno de los policías que me hizo el control me dice: "Ojo con encontrarte con este de noche… " \[…\]  
   
-**Conclusión**:  
+## Conclusión  
   
 Tengo que tener cuidado que no me agarre este policía  
   
 Por si me pasa algo.. dejo fotos del amigo :-#
+
 ---
 ### Comments:
 #### jajajaja ta loco a vos te pasa stas cosas…pense q ...

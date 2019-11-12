@@ -8,11 +8,13 @@ series: []
 tags: [tutorial, extensiones, google chrome]
 ---
 
-[![](http://3.bp.blogspot.com/_YgRWyZGNN_Y/TQXdHiJPS9I/AAAAAAAAJXU/YsPdNKyzXyM/s1600/screenshot32.png)](http://3.bp.blogspot.com/_YgRWyZGNN_Y/TQXdHiJPS9I/AAAAAAAAJXU/YsPdNKyzXyM/s1600/screenshot32.png)Hace ya dos años que utilizo [Google Chrome](http://www.google.com/chrome?hl=es) como mi navegador por defecto, reemplazando a Firefox, que en este ultimo tiempo se puso muy pesado.  
+[![](http://3.bp.blogspot.com/_YgRWyZGNN_Y/TQXdHiJPS9I/AAAAAAAAJXU/YsPdNKyzXyM/s1600/screenshot32.png)](http://3.bp.blogspot.com/_YgRWyZGNN_Y/TQXdHiJPS9I/AAAAAAAAJXU/YsPdNKyzXyM/s1600/screenshot32.png)
+
+Hace ya dos años que utilizo [Google Chrome](http://www.google.com/chrome?hl=es) como mi navegador por defecto, reemplazando a Firefox, que en este ultimo tiempo se puso muy pesado. 
+
 Un par de características que me gustan de Chrome son la posibilidad de mantener todo sincronizado con mi cuenta de Google (marcadores, datos de formulario...) y la posibilidad de agregar extensiones.  
+
 Aquí les dejo un listado de las que a mi criterio son las mejores.  
-  
-  
 
 [![](http://1.bp.blogspot.com/_YgRWyZGNN_Y/TQXZDcvEJRI/AAAAAAAAJWM/7RvYeQFWZHE/s1600/screenshot14.png)](http://1.bp.blogspot.com/_YgRWyZGNN_Y/TQXZDcvEJRI/AAAAAAAAJWM/7RvYeQFWZHE/s1600/screenshot14.png)[AdBlock](https://chrome.google.com/extensions/detail/gighmmpiobklfepjocnamgkkbiglidom) Una de las extensiones mas populares de Google Chrome. Bloquea publicidades y anuncios de sitios web. Lo probé y bloquea todos los anuncios en Google, Gmail y otras webs. (Facebooks ads y Google AdSense)
 

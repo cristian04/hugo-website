@@ -7,24 +7,24 @@ externalLink: ""
 series: []
 tags: [tutorial, intel, emulador, virtualizacion, Android]
 ---
-
 [![](http://i.minus.com/i9LQfouPsXIvp.gif)](http://i.minus.com/i9LQfouPsXIvp.gif)
 
-Seguramente muchas personas que utilizan el emulador de android notaron que, para versiones superiores a 2.3, el rendimiento no es muy bueno. El emulador se vuelve lento y el tiempo de respuesta entre interacciones no es aceptable.  
+Seguramente muchas personas que utilizan el emulador de android notaron que, para versiones superiores a 2.3, el rendimiento no es muy bueno. El emulador se vuelve lento y el tiempo de respuesta entre interacciones no es aceptable.
+
 En el siguiente post les dejo un procedimiento para accelerar el performance del emulador, aprovechando instrucciones de virtualización de nuestro procesador.  
   
-  
-**Disclaimer: El siguiente procedimiento necesita de una maquina con procesador Intel, con las opciones Intel VT-x, EM64T yExecute Disable(XD) Bit habilitadas en el BIOS**  
-  
+{{% notice note %}}
+El siguiente procedimiento necesita de una maquina con procesador Intel, con las opciones Intel VT-x, EM64T yExecute Disable(XD) Bit habilitadas en el BIOS
+{{% /notice %}}
 
 ### Procedimiento para S.O. Windows:
 
-1.  Abrir SDK Manager
-2.  Descargar Intel x86 Emulator Accelerator y las imagen de sistema de Intel (Intel x86 Atom System Image) 
+- Abrir SDK Manager
+- Descargar Intel x86 Emulator Accelerator y las imagen de sistema de Intel (Intel x86 Atom System Image) 
     
     [![](http://software.intel.com/sites/default/files/haxm01.png)](http://software.intel.com/sites/default/files/haxm01.png)
     
-3.  Instalar IntelHaxm.exe, disponible en ANDROID\_HOME/extras/intel/Hardware\_Accelerated\_Execution\_Manager. 
+- Instalar IntelHaxm.exe, disponible en ANDROID\_HOME/extras/intel/Hardware\_Accelerated\_Execution\_Manager. 
     
     [![](http://software.intel.com/sites/default/files/haxm02.png)](http://software.intel.com/sites/default/files/haxm02.png) 
     
@@ -32,19 +32,16 @@ En el siguiente post les dejo un procedimiento para accelerar el performance del
     
     [![](http://software.intel.com/sites/default/files/haxm04.jpg)](http://software.intel.com/sites/default/files/haxm04.jpg)
     
-4.  Crear un nuevo Android Virtual Device (AVD) usando el AVD Manager. 
+- Crear un nuevo Android Virtual Device (AVD) usando el AVD Manager. 
     
     [![](http://software.intel.com/sites/default/files/haxm12.png)](http://software.intel.com/sites/default/files/haxm12.png)
     
-5.  Disfrutar
+- Disfrutar
 
-  
-  
+## Procedimiento para S.O. Linux:
 
-### Procedimiento para S.O. Linux: \*Próximamente 
-
-  
 Link oficial (en ingles): [http://software.intel.com/en-us/articles/speeding-up-the-android-emulator-on-intel-architecture](http://software.intel.com/en-us/articles/speeding-up-the-android-emulator-on-intel-architecture)
+
 ---
 ### Comments:
 #### Se nota el cambio, gracias. :)

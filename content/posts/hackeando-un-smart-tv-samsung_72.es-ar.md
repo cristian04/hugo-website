@@ -10,10 +10,9 @@ tags: [tutorial, smart tv, hack, samsung, hacking]
 
 Hola a todos:  
 Hoy les voy a mostrar algunas pruebas que estuve haciendo con un Smart TV de Samsung (que de SMART no tiene nada, tan solo es un thinclient)  
-Disclaimer:  
-
-*   Entrar o cambiar la configuración en el menú de servicio sin entender el funcionamiento puede causar daños permanentes en tu televisor. Accede a este menú sólo si estás calificado y capacitado para hacer trabajos de reparación de televisores.
-
+{{% notice warning %}}
+Entrar o cambiar la configuración en el menú de servicio sin entender el funcionamiento puede causar daños permanentes en tu televisor. Accede a este menú sólo si estás calificado y capacitado para hacer trabajos de reparación de televisores.
+{{% /notice %}}
   
 Bueno, voy a comenzar por partes. Lo primero que hice al tener el tele fue conectarlo a internet y tirarle un nmap para ver que es lo que tenia por detras. Encontre esto:  
 

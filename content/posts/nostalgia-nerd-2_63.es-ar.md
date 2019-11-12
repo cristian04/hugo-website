@@ -8,18 +8,26 @@ series: []
 tags: [nostalgia, relatos, recuerdos, memoria, retro]
 ---
 
-Después de escribir [Nostalgia Nerd](https://blog.cristianmarquez.me/2014/06/nostalgia-nerd.html) unos días atrás, empecé a recordar mas cosas de esos años gloriosos.  
+Después de escribir [Nostalgia Nerd](https://blog.cristianmarquez.me/2014/06/nostalgia-nerd.html) unos días atrás, empecé a recordar mas cosas de esos años gloriosos.
+
 Si bien hoy soy muy linuxero, debo confesar que no arranqué así. El primer sistema que pude tocar fue un DOS 6.algo  
-[![](http://1.bp.blogspot.com/-KC25xHtVVCI/U60GUfBFcnI/AAAAAAAAZiw/J1eBrtOY2Oo/s1600/19a.doswindow+(1).gif)](http://1.bp.blogspot.com/-KC25xHtVVCI/U60GUfBFcnI/AAAAAAAAZiw/J1eBrtOY2Oo/s1600/19a.doswindow+(1).gif)Como no tenia ni idea que hacer, recurrí a lo lógico: escribir **help** en la linea de comandos.  
-En esos años no teníamos acceso a Internet, y lo que aprendí al leer esa documentación es invaluable. Leí todo lo que pude, desde el primer  hasta el ultimo comando, y mientras tanto iba probando que hacia cada uno de ellos. Y sí, varias veces pude haber llegado a romper alguna maquina.  
-Con eso aprendí mucho sobre el arranque de una maquina: el himem.sys, io.sys... optimizar la memoria con memmaker, comprimir con dblspace, particionar y formatear, boludear con el microsoft diganostic,  hacer .bat bonitos (con un tip de José Wierna del Salesiano para meter ascii y hacerlos mas copados) Y hasta aprendí a programar usando Qbasic.  
-  
-Una de las primeras computadoras que tuve fue una Pentium 1 MMX 200Mhz con un disquito de 200MB aprox (Seagate ST3195A) el resto del mundo ya funcionaba con discos de 20 o 30GB. Gracias a saber de la existencia de **dblspace** pude tener algunas cositas mas: **3D Studio** y **Flash** para tratar de aprender algo. Nunca llegue a hacer nada, mi hermano Jesús siempre fué el artista de la familia.  
+
+Como no tenia ni idea que hacer, recurrí a lo lógico: escribir **help** en la linea de comandos.
+
+[![](http://1.bp.blogspot.com/-KC25xHtVVCI/U60GUfBFcnI/AAAAAAAAZiw/J1eBrtOY2Oo/s1600/19a.doswindow+(1).gif)](http://1.bp.blogspot.com/-KC25xHtVVCI/U60GUfBFcnI/AAAAAAAAZiw/J1eBrtOY2Oo/s1600/19a.doswindow+(1).gif)
+
+En esos años no teníamos acceso a Internet, y lo que aprendí al leer esa documentación es invaluable. Leí todo lo que pude, desde el primer  hasta el ultimo comando, y mientras tanto iba probando que hacia cada uno de ellos. Y sí, varias veces pude haber llegado a romper alguna maquina.
+
+Con eso aprendí mucho sobre el arranque de una maquina: el himem.sys, io.sys... optimizar la memoria con memmaker, comprimir con dblspace, particionar y formatear, boludear con el microsoft diganostic,  hacer .bat bonitos (con un tip de José Wierna del Salesiano para meter ascii y hacerlos mas copados) Y hasta aprendí a programar usando Qbasic.
+
+Una de las primeras computadoras que tuve fue una Pentium 1 MMX 200Mhz con un disquito de 200MB aprox (Seagate ST3195A) el resto del mundo ya funcionaba con discos de 20 o 30GB. Gracias a saber de la existencia de **dblspace** pude tener algunas cositas mas: **3D Studio** y **Flash** para tratar de aprender algo. Nunca llegue a hacer nada, mi hermano Jesús siempre fué el artista de la familia.
+
 En la parte de los juegos, me acuerdo de haber echo:  
 
-**C:\\> cd juegos**
-
-**C:\\juegos> **
+```msdos
+C:\>cd juegos
+C:\juegos>
+```
 
 Y haber jugado alguna vez al:
 

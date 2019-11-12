@@ -8,30 +8,36 @@ series: []
 tags: [pirelli, linux, telnet, Arnet, comandos, DRG A125G, hacking]
 ---
 
-[![](http://3.bp.blogspot.com/-XWWunV78Xvc/TVO0ckQfE4I/AAAAAAAAJiI/mkAe5nMc1-0/s200/777707812.jpg)](http://3.bp.blogspot.com/-XWWunV78Xvc/TVO0ckQfE4I/AAAAAAAAJiI/mkAe5nMc1-0/s1600/777707812.jpg)Aquí les dejo un video con algunas cositas que se pueden hacer con un módem de arnet, el Pirelli Wifi DRG A125G.  
-Como podran ver, el router tiene una distro de Linux embebida, por lo cual soporta un par de comandos.  
-Por lo menos disponemos de iptables y otros para jugar un rato.  
+[![](http://3.bp.blogspot.com/-XWWunV78Xvc/TVO0ckQfE4I/AAAAAAAAJiI/mkAe5nMc1-0/s200/777707812.jpg)](http://3.bp.blogspot.com/-XWWunV78Xvc/TVO0ckQfE4I/AAAAAAAAJiI/mkAe5nMc1-0/s1600/777707812.jpg)
+
+Aquí les dejo un video con algunas cositas que se pueden hacer con un módem de arnet, el Pirelli Wifi DRG A125G. 
+
+{{<youtube vbCCBrvLXbs >}}
+
+Como podran ver, el router tiene una distro de Linux embebida, por lo cual soporta un par de comandos.
+
+Por lo menos disponemos de iptables y otros para jugar un rato.
+
 Espero que les sirva.  
+
+{{% notice tip %}}
+En la parte que mostré el código fuente, ustedes pueden encontrar la contraseña y el usuario con el cual se conectan a Internet, lo mismo cuando hice el dump de la configuración: dumpcfg  
+
+{{% /notice %}}
   
-  
-  
-  
-P/D: En la parte que mostré el código fuente, ustedes pueden encontrar la contraseña y el usuario con el cual se conectan a Internet, lo mismo cuando hice el dump de la configuración: dumpcfg  
-  
-Actualizado 19/Feb/2011  
+### Actualizado 19/Feb/2011
+
 Dejo aquí la documentación y ejemplos de algunos comandos útiles.  
+
 Saludos  
-  
-  
-  
-  
-  
-**?**  
-**help**  
-**logout**  
-**reboot**  
-  
-**adsl**  
+
+{{< highlight bash "linenos=table">}}
+
+?  
+help  
+logout  
+reboot  
+adsl  
 \> adsl  
 Usage: adsl start \[--up\] \[--mod <a|d|l|t|2|p|e|m>\] \[--lpair <(i)nner|(o)uter>\]  
            \[--trellis <on|off>\] \[--snr <snrQ4>\] \[--bitswap <on|off>\] \[--sesdrop  
@@ -113,9 +119,9 @@ Bitswap:        3               1
   
   
   
-**atm**  
+atm  
   
-**brctl**  
+brctl  
   
 \> brctl  
 commands:  
@@ -146,25 +152,25 @@ br0             8000.021018010002       no              usb0
                                                         nas\_0\_0\_33  
   
   
-**cat**  
-**ddns**  
+cat  
+ddns  
 \> ddns  
 ddns add hostname --username username --password password --interface interface  
 \--service tzo|dyndns  
      remove hostname  
      show  
   
-**df**  
+df 
 \> df  
 Filesystem           1k-blocks      Used Available Use% Mounted on  
 /dev/mtdblock0            2752      2752         0 100% /  
 tmpfs                      320       148       172  46% /var  
   
-**dumpcfg**  
-**echo**  
-**ifconfig**  
-**kill**  
-**arp**  
+dumpcfg  
+echo  
+ifconfig  
+kill
+arp  
 \> arp show  
   
 IP address       HW type     Flags       HW address            Mask     Device  
@@ -175,7 +181,7 @@ IP address       HW type     Flags       HW address            Mas
 10.0.0.4         0x1         0x2         00:23:CD:BB:85:FC     \*        br0  
   
   
-**defaultgateway**  
+defaultgateway  
 \> defaultgateway  
   
 Usage: defaultgateway config auto  
@@ -190,7 +196,7 @@ Destination     Gateway         Genmask         Flags Metric Ref    
 10.0.0.0        \*               255.255.255.0   U     0      0        0 br0  
 default         200.3.60.21     0.0.0.0         UG    0      0        0 ppp\_0\_0\_33\_1  
   
-**dhcpserver**  
+dhcpserver
 \> dhcpserver  
   
 Usage: dhcpserver config <start IP address> <end IP address> <leased time (hour)  
@@ -208,8 +214,8 @@ option min\_lease 30
 option subnet 255.255.255.0  
 option router 10.0.0.2  
 option dns 10.0.0.2  
-  
-**dns**  
+
+dns  
 \> dns  
   
 Usage: dns config auto  
@@ -222,7 +228,7 @@ Usage: dns config static \[<primary DNS> \[<secondary DNS>\]\]
 Primary   200.45.191.35  
 Secondary 200.45.48.233  
   
-**lan**  
+lan  
 \> lan  
   
 Usage: lan config \[--ipaddr <primary|secondary> <IP address> <subnet mask>\]  
@@ -242,20 +248,20 @@ br0             Link encap:Ethernet  HWaddr 02:10:18:01:00:02
 br0:0           Link encap:Ethernet  HWaddr 02:10:18:01:00:02  
                 UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1  
   
-**passwd**  
+passwd 
 \> passwd  
   
 Usage: passwd <admin|support|user> <password>  
        passwd --help  
   
-**ppp**  
+ppp  
 \> ppp  
   
 Usage: ppp config <port.vpi.vci> \[<connection id>\] <up|down>  
        ppp --help  
        connect or disconnect ppp  
   
-**remoteaccess**  
+remoteaccess  
 \> remoteaccess  
   
 Usage: remoteaccess <enable|disable> \[--service <servicename>\]  
@@ -270,9 +276,9 @@ remote access for SSH is disabled
 remote access for TELNET is disabled  
 remote access for TFTP is disabled  
   
-**restoredefault**  
+restoredefault
   
-**route**  
+route  
 \> route  
   
 Usage: route add <IP address> <subnet mask> <\[<gateway>\] \[<interface>\]>  
@@ -287,9 +293,9 @@ Destination     Gateway         Genmask         Flags Metric Ref    
 10.0.0.0        \*               255.255.255.0   U     0      0        0 br0  
 default         200.3.60.21     0.0.0.0         UG    0      0        0 ppp\_0\_0\_33\_1  
   
-**save**  
+save  
   
-**swversion**  
+swversion 
 \> swversion  
   
 Usage: swversion show  
@@ -298,17 +304,16 @@ Usage: swversion show
 1550\_090908-3.10L.02.A2pB022e3.d20h  
  DCWF\_TA\_4\_0\_1  
   
-**logtrace**  
+logtrace 
 \> logtrace  
 command NOT executed  
 command executed  
   
-  
-**testled**  
+testled  
 \> testled  
 nothing done ...  
   
-**changemac**  
+changemac
   
 \> changemac  
 current num of mac: 13  
@@ -322,7 +327,7 @@ NEW base mac address: 02:10:18:01:00:02
         Done! ........... reboot  
   
   
-**wan**  
+wan
 \> wan  
   
 Usage: wan config <port.vpi.vci> \[<connection id>\]  
@@ -345,17 +350,17 @@ State   Status  IP
 0.0.33  1       UBR     Telecom Argentina       ppp\_0\_0\_33\_1    PPPoE   Disable  
 Enable  Enable  PPP Down  
   
-**ping**  
-**ps**  
-**pwd**  
+ping  
+ps  
+pwd  
   
-**siproxd**  
+siproxd
 siproxd <enable|disable|show>  
 siproxd --help  
 \> siproxd show  
 siproxd: SIP proxy is enabled.  
   
-**sntp**  
+sntp  
 sntp -s server \[ -s server2 \] -t "timezone"  
      disable  
      date  
@@ -363,7 +368,7 @@ sntp -s server \[ -s server2 \] -t "timezone"
 sntp --help>  
   
   
-**sysinfo**  
+sysinfo 
 \> sysinfo  
 Number of processes: 23  
  12:05am  up 5 min,  
@@ -373,7 +378,7 @@ load average: 1 min:0.00, 5 min:0.05, 15 min:0.02
  Swap:            0            0            0  
 Total:        14144         8900         5244  
   
-**tftp**  
+tftp  
 \> tftp  
 BusyBox v1.00 (2008.09.09-13:53+0000) multi-call binary  
   
@@ -388,7 +393,9 @@ Options:
 \-f      remote file name.  
 \-t      i for image and c for configuration data.  
   
-**wlctl**
+wlctl
+{{< /highlight >}}
+
 ---
 ### Comments:
 #### Hola Cristian, calculo q sos mi ultima esperanza, ...

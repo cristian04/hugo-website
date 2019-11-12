@@ -8,13 +8,17 @@ series: []
 tags: [blog de mierda, quejas, bodega, aj computacion, otro-tag-copado, relatos, defenza, cortala]
 ---
 
-[![](http://2.bp.blogspot.com/-OYiliJKgd-Y/Udzm1Qq3kqI/AAAAAAAAUxU/QKua9sZHG_o/s200/don-t-keep-calm-and-fuck-them-all.png)](http://2.bp.blogspot.com/-OYiliJKgd-Y/Udzm1Qq3kqI/AAAAAAAAUxU/QKua9sZHG_o/s1600/don-t-keep-calm-and-fuck-them-all.png)Sé que a veces (muchas) soy una persona que se la pasa criticando y puteando.  
+[![](http://2.bp.blogspot.com/-OYiliJKgd-Y/Udzm1Qq3kqI/AAAAAAAAUxU/QKua9sZHG_o/s200/don-t-keep-calm-and-fuck-them-all.png)](http://2.bp.blogspot.com/-OYiliJKgd-Y/Udzm1Qq3kqI/AAAAAAAAUxU/QKua9sZHG_o/s1600/don-t-keep-calm-and-fuck-them-all.png)
+
+Sé que a veces (muchas) soy una persona que se la pasa criticando y puteando.  
+
 Hace mucho mucho tiempo que me embolé con algunas empresas y decidí aprovechar éste blog para quejarme y compartirte mi experiencia. (Quizás era eso o simplemente para mandarlos a cagar)  
+
 Después de un tiempo, parece que a estas empresas les molestó bastante que haya escrito algo, cuando creo yo que deberían haberse comunicado conmigo y ver de resolver las cosas (PONELE).  
+
 Tal es el caso que después de haber publicado el post sobre [la bodega de mis alerces](https://blog.cristianmarquez.me/2012/04/mala-experiencia-con-mis-alerces-en.html) y sobre AJ Computacion recibí algunos mails....  
 
-Excelente Bodega de Junco y Madera
-----------------------------------
+## Excelente Bodega de Junco y Madera
 
 Desde Mis Alerces, se comunicaron diciendo algo mas o menos así:
 
@@ -30,8 +34,7 @@ Luego de consultar con abogados (obviamente no me iba a quedar de brazos cruzado
 2.  En ningún momento difamo a la empresa, tan solo comento mi experiencia en cuanto al producto que recibí y al trato que brindaron (violando, de paso,  la ley de defensa del consumidor)
 3.  En ningún momento aliento a la no compra. Lo único que hago es NO RECOMENDARLO.
 
-Estas leyendo cualquier cosa
-----------------------------
+## Estas leyendo cualquier cosa
 
 Por otro lado, también se comunico alguien de AJ Computación después de un post sobre [Windows desatendidos.](https://blog.cristianmarquez.me/2011/02/ojo-tecnicos-hay-tabla.html)  
 Sinceramente debo confesar que este me hizo reír muchísimo mas que el anterior por un par de cuestiones que ahora les comento.  

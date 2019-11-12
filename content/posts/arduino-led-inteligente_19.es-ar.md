@@ -16,37 +16,34 @@ Entren y pueden encontrar los materiales para hacerlo :) 
 
 Saludos 
 
-  
+# Requerimientos:
 
-#### Requerimientos:
+- Arduino Uno
+- ULN2003AG
+- Sound Detector Module
+- Tira de Leds
+- Transformador de 12V
 
-*   Arduino Uno
-*   ULN2003AG
-*   Sound Detector Module
-*   Tira de Leds
-*   Transformador de 12V
-
-#### Diagrama:
+# Diagrama:
 
 [![](http://1.bp.blogspot.com/-KHho9m9S-JI/UwNpJSeOm-I/AAAAAAAAWuw/d1W7GPP1loU/s1600/rgb+controller.png)](http://1.bp.blogspot.com/-KHho9m9S-JI/UwNpJSeOm-I/AAAAAAAAWuw/d1W7GPP1loU/s1600/rgb+controller.png)
 
-#### Código:
+# Código:
 
-1.  /\*\*
+/\*\*
+
+ \* Cristian Marquez https://blog.cristianmarquez.me
+
+ \* RGB controller with networking, potentiometer and android client
     
-2.   \* Cristian Marquez https://blog.cristianmarquez.me
-    
-3.   \* RGB controller with networking, potentiometer and android client
-    
-4.   \*\*/
-    
-5.  //External Libraries
-    
-6.  #include <SPI.h>
+ \*\*/
+
+//External Libraries
+
+#include <SPI.h>
     
 7.  #include <Ethernet.h>
     
-
 9.  //Network
     
 10.  byte mac\[\] \= {
