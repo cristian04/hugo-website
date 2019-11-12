@@ -1,6 +1,6 @@
 +++ 
 draft = true
-date = 2019-11-07T03:52:10-05:00
+date = 2019-11-12T03:52:10-05:00
 title = "Mis primeros hacks"
 description = ""
 slug = "Mis primeros hack" 

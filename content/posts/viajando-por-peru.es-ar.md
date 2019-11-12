@@ -11,6 +11,7 @@ series : ['Viajando por Peru']
 El viaje comenzó saliendo a las 5am desde Salta y llegando a Lima alrededor de las 8am (Hora de Lima). Justo me tocó hora pico, por lo que el taxi demoró aproximadamente dos horas en salir del aeropuerto y llegar a Miraflores.
 
 Ahi visité a unos amigos que conocí en Nueva Zelanda. Tuve la suerte de tenerlos porque me ayudaron a recorrer la ciudad y me recomendaron comida peruana (Uno de los motivos de mi viaje)
+
 ## Dia 1 - Barranco
 
 El primer lugar al que salimos fue Barranco. Justo estaban festejando el aniversario del municipio asi que pude ver algunos recitales al aire libre.
@@ -25,13 +26,14 @@ En Miraflores fuí al parque Kennedy, un parque lleno de gatos que son cuidados 
 Por alrededores podemos encontrar varios lugares para comer y hay de todo. El primer lugar que visité fué un local de `La Lucha` en donde venden sandwichs de todo tipo. Yo me pedí el de lomo y lo acompañé con una chicha morada, algo muy similar al api en Salta pero hecho con jugo de ananá y se toma frío. Exquisito!
 
 Al frente del parque se encuentra `El Museo del Pisco`. Entramos pero decidimos irnos al restaurante de un amigo de los chicos: `Costa Azul`. Ahí me enseñaron como preparar un buen Pisco Sour y, después de cenar Pollo a las brasas, pactamos encontrarnos al día siguiente para probar las especialidad de la casa: Mariscos.
-# Dia 3 - Miraflores y círculo mágico del agua
+# Dia 3 - Miraflores y circuito mágico del agua
 
 Tal y como lo habíamos prometido, fuimos al restaurante y tuve la suerte de poder compartir la mesa con familiares de mis amigos que me hicieron sentir como uno más de la familia. Ahi pedí un ceviche, un pisco sour de maracujá mas los snacks de la casa. EXCELENTE! Todo muy rico. Totalmente recomendado. 
 
-En la noche entramos al parque del circulo mágico del agua, justo en frente del estadio nacional de lima. Ahí encontramos un montón de fuentes con aguas danzantes, túneles de agua y un show con luces, proyecciones y láser.
+En la noche entramos al parque del circuito mágico del agua, justo en frente del estadio nacional de lima. Ahí encontramos un montón de fuentes con aguas danzantes, túneles de agua y un show con luces, proyecciones y láser.
 
 ___Costo___: $10 soles
+
 # Dia 4 - Camino a Cusco
 
 Tome el vuelo de las 2pm y llegue a Cusco alrededor de las 5pm. Hice el check in y me fui a recorrer la ciudad. Justo estaban haciendo la procesión del señor de los temblores. La historia es similar al Señor y Virgen del Milagro en Salta.
