@@ -32,8 +32,8 @@ root@xt925:/#
 1.  Abrir la base de datos de whatsapp usando sqlite3
 
 ```
-root@xt925:/#cd/data/data/com.whatsapp/databases
-root@xt925:/#**sqlite3** msgstore.db  
+root@xt925:/# cd /data/data/com.whatsapp/databases
+root@xt925:/# sqlite3 msgstore.db  
 ```
 
 2.  Seleccionar la tabla correspondiente y ver los mensajes ;)

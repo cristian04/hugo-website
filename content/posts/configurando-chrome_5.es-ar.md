@@ -16,13 +16,13 @@ Un par de características que me gustan de Chrome son la posibilidad de mantene
 
 Aquí les dejo un listado de las que a mi criterio son las mejores.  
 
-[![](http://1.bp.blogspot.com/_YgRWyZGNN_Y/TQXZDcvEJRI/AAAAAAAAJWM/7RvYeQFWZHE/s1600/screenshot14.png)](http://1.bp.blogspot.com/_YgRWyZGNN_Y/TQXZDcvEJRI/AAAAAAAAJWM/7RvYeQFWZHE/s1600/screenshot14.png)[AdBlock](https://chrome.google.com/extensions/detail/gighmmpiobklfepjocnamgkkbiglidom) Una de las extensiones mas populares de Google Chrome. Bloquea publicidades y anuncios de sitios web. Lo probé y bloquea todos los anuncios en Google, Gmail y otras webs. (Facebooks ads y Google AdSense)
+[![](http://1.bp.blogspot.com/_YgRWyZGNN_Y/TQXZDcvEJRI/AAAAAAAAJWM/7RvYeQFWZHE/s1600/screenshot14.png)](http://1.bp.blogspot.com/_YgRWyZGNN_Y/TQXZDcvEJRI/AAAAAAAAJWM/7RvYeQFWZHE/s1600/screenshot14.png)[AdBlock](https://chrome.google.com/extensions/detail/gighmmpiobklfepjocnamgkkbiglidom) 
 
-  
+Una de las extensiones mas populares de Google Chrome. Bloquea publicidades y anuncios de sitios web. Lo probé y bloquea todos los anuncios en Google, Gmail y otras webs. (Facebooks ads y Google AdSense)
 
-[![](http://2.bp.blogspot.com/_YgRWyZGNN_Y/TQXZFeG8ruI/AAAAAAAAJWk/qNt4vKBSBwQ/s1600/screenshot20.png)](http://2.bp.blogspot.com/_YgRWyZGNN_Y/TQXZFeG8ruI/AAAAAAAAJWk/qNt4vKBSBwQ/s1600/screenshot20.png)[FastestChrome - Browse Faster](https://chrome.google.com/extensions/detail/mmffncokckfccddfenhkhnllmlobdahm) Con tan solo seleccionar el texto, permite visualizar el resultado de búsquedas en wikipedia, Google y otros servicios sin salir de la pagina actual. Además auto pagina los sitios en la misma y muchas cosas mas...
+[![](http://2.bp.blogspot.com/_YgRWyZGNN_Y/TQXZFeG8ruI/AAAAAAAAJWk/qNt4vKBSBwQ/s1600/screenshot20.png)](http://2.bp.blogspot.com/_YgRWyZGNN_Y/TQXZFeG8ruI/AAAAAAAAJWk/qNt4vKBSBwQ/s1600/screenshot20.png)[FastestChrome - Browse Faster](https://chrome.google.com/extensions/detail/mmffncokckfccddfenhkhnllmlobdahm)
 
-  
+Con tan solo seleccionar el texto, permite visualizar el resultado de búsquedas en wikipedia, Google y otros servicios sin salir de la pagina actual. Además auto pagina los sitios en la misma y muchas cosas mas...
 
 [![](http://1.bp.blogspot.com/_YgRWyZGNN_Y/TQXZECK07sI/AAAAAAAAJWU/7OeHm01jp2c/s1600/screenshot16.png)](http://1.bp.blogspot.com/_YgRWyZGNN_Y/TQXZECK07sI/AAAAAAAAJWU/7OeHm01jp2c/s1600/screenshot16.png)[Chromed Bird](https://chrome.google.com/extensions/detail/encaiiljifbdbjlphpgpiimidegddhic) es mi cliente favorito para Twitter. Con esta extensión actualizo mi información de estado, y permite además: subir imágenes a TwitPic, acortar links y facilita la gestión de contactos.
 

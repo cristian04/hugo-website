@@ -16,7 +16,7 @@ Hace mucho mucho tiempo que me embolé con algunas empresas y decidí aprovechar
 
 Después de un tiempo, parece que a estas empresas les molestó bastante que haya escrito algo, cuando creo yo que deberían haberse comunicado conmigo y ver de resolver las cosas (PONELE).  
 
-Tal es el caso que después de haber publicado el post sobre [la bodega de mis alerces](https://blog.cristianmarquez.me/2012/04/mala-experiencia-con-mis-alerces-en.html) y sobre AJ Computacion recibí algunos mails....  
+Tal es el caso que después de haber publicado el post sobre [la bodega de mis alerces](https://www.cristianmarquez.me/es-ar/posts/mala-experiencia-con-mis-alerces-en-mercadolibre/) y sobre AJ Computacion recibí algunos mails....  
 
 ## Excelente Bodega de Junco y Madera
 
@@ -36,12 +36,12 @@ Luego de consultar con abogados (obviamente no me iba a quedar de brazos cruzado
 
 ## Estas leyendo cualquier cosa
 
-Por otro lado, también se comunico alguien de AJ Computación después de un post sobre [Windows desatendidos.](https://blog.cristianmarquez.me/2011/02/ojo-tecnicos-hay-tabla.html)  
+Por otro lado, también se comunico alguien de AJ Computación después de un post sobre [Windows desatendidos.](https://www.cristianmarquez.me/es-ar/posts/ojo-técnicos-hay-tabla/)  
 Sinceramente debo confesar que este me hizo reír muchísimo mas que el anterior por un par de cuestiones que ahora les comento.  
   
 Extracto del email.  
 
-> Yo no voy  a hacer las cosas como las haces vos, escudándote detrás de un blog, yo doy la cara, soy xxxxxx  y soy el Gerente técnico de AJ Computación, estuvimos viendo tu blog en la parte https://blog.cristianmarquez.me/2011/02/ojo-tecnicos-hay-tabla.html\[..\]. Yo te invito a que si tenés algún problema con la empresa, des la cara y lo hablemos personalmente, cara a cara, como verdaderamente se tratan los problemas y no acusando en forma casi anónima desde un blog como un cobarde.
+> Yo no voy  a hacer las cosas como las haces vos, escudándote detrás de un blog, yo doy la cara, soy xxxxxx  y soy el Gerente técnico de AJ Computación, estuvimos viendo tu blog en la parte https://www.cristianmarquez.me/es-ar/posts/ojo-técnicos-hay-tabla/ Yo te invito a que si tenés algún problema con la empresa, des la cara y lo hablemos personalmente, cara a cara, como verdaderamente se tratan los problemas y no acusando en forma casi anónima desde un blog como un cobarde.
 
 [![](http://4.bp.blogspot.com/-XSR2eb7Z4M8/Udzmbihew7I/AAAAAAAAUxM/cgB4H3yci9g/s1600/images.jpg)](http://4.bp.blogspot.com/-XSR2eb7Z4M8/Udzmbihew7I/AAAAAAAAUxM/cgB4H3yci9g/s1600/images.jpg)
 

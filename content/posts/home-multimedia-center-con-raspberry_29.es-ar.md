@@ -10,7 +10,7 @@ tags: [xbmc, transmission, openelec, torrent, linux, DLNA, proyectos, raspberry 
 
 Hola!  
 Hoy vuelvo a escribirles para presentar un proyecto que armé utilizando una Raspberry Pi y un par de componentes más.  
-Como ya les habia comentado un poco en el post de [Media Center Casero](https://blog.cristianmarquez.me/2014/06/media-center-casero-utilizando-upnpdlna.html), tuve la idea de utilizar una Raspberry para eso.
+Como ya les habia comentado un poco en el post de [Media Center Casero](/es-ar/posts/media-center-casero-utilizando-upnp/dlna/), tuve la idea de utilizar una Raspberry para eso.
 
 El resultado de hacer esto es el siguiente:
 

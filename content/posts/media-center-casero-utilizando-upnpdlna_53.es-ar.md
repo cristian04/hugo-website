@@ -63,10 +63,6 @@ Ademas, habilité el servidor web de Transmission y uTorrent, lo que me permite 
 
 Ejemplos aqui:
 
-  
-
-  
-
 [![](http://2.bp.blogspot.com/-upL4jIiiQD4/U6jLyPCqtYI/AAAAAAAAZhc/OrxfBy0o2kI/s1600/Pantallazo.png)](http://2.bp.blogspot.com/-upL4jIiiQD4/U6jLyPCqtYI/AAAAAAAAZhc/OrxfBy0o2kI/s1600/Pantallazo.png)
 
 Espero que les sirva y puedan armar su red asi!

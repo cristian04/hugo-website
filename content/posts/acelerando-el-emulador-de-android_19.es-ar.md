@@ -7,7 +7,6 @@ externalLink: ""
 series: []
 tags: [tutorial, intel, emulador, virtualizacion, Android]
 ---
-[![](http://i.minus.com/i9LQfouPsXIvp.gif)](http://i.minus.com/i9LQfouPsXIvp.gif)
 
 Seguramente muchas personas que utilizan el emulador de android notaron que, para versiones superiores a 2.3, el rendimiento no es muy bueno. El emulador se vuelve lento y el tiempo de respuesta entre interacciones no es aceptable.
 

@@ -13,7 +13,7 @@ I used the following tools to build this website:
   
 - Template: I'm using the ALPHA html5 template available on [html5up.net](http://html5up.net/). They are responsive!
 - GitHub: For source code management. The repo is [here](https://github.com/cristian04/cristianmarquez.me) 
-- [Ftploy](https://www.ftploy.com/): As a Continuous Delivery tool, publishing my master branch via ftp.
+- Ftploy: As a Continuous Delivery tool, publishing my master branch via ftp.
 
 # Additional tools:
 

@@ -67,7 +67,7 @@ En mi caso, luego de unos meses de desarrollo y testing he realizado mi propia v
 - Tweaks y configuraciones para aumentar el rendimiento y la seguridad del sistema
 
 {{% notice note %}}
-Mi Version desatendida de Windows XP es solamente para mis clientes, no esperen un link de descarga. Perdonen. Si necesitan de soporte técnico de calidad, [contactarme aquí](https://blog.cristianmarquez.me/p/vcard.html)
+Mi Version desatendida de Windows XP es solamente para mis clientes, no esperen un link de descarga. Perdonen. Si necesitan de soporte técnico de calidad, [contactarme aquí](/es-ar/contact/)
 {{% /notice %}}
 
 ## Como saber si tenes una "buena" version del Windows XP?  

@@ -4,7 +4,7 @@ date: 2013-10-20T17:59:00.002+13:00
 draft: false
 slug: 'Hackeando un Smart TV Samsung (UN46EH5300G) Parte 3'
 externalLink: ""
-series: []
+series: ['hackeando tv samsung']
 tags: [tutorial, smart tv, hack, samsung, pvr, hacking]
 ---
 
@@ -44,16 +44,6 @@ Les dejo dos links que me gustaron:
 2.  [http://marcoramilli.blogspot.com.ar/2013/05/firmware-hacking-samsung-smart-tv-turn.html](http://marcoramilli.blogspot.com.ar/2013/05/firmware-hacking-samsung-smart-tv-turn.html)
 
 Saludos!
-
-  
-
-  
-
-Parte 1 [https://blog.cristianmarquez.me/2013/10/hackeando-un-smart-tv-samsung.html](https://blog.cristianmarquez.me/2013/10/hackeando-un-smart-tv-samsung.html)
-
-Parte 2 [https://blog.cristianmarquez.me/2013/10/hackeando-un-smart-tv-samsung\_20.html](https://blog.cristianmarquez.me/2013/10/hackeando-un-smart-tv-samsung_20.html)
-
-Parte 3 [https://blog.cristianmarquez.me/2013/10/hackeando-un-smart-tv-samsung\_8226.html](https://blog.cristianmarquez.me/2013/10/hackeando-un-smart-tv-samsung_8226.html)
 ---
 ### Comments:
 #### hola, tenes idea si hay alguna forma (mediante hac...

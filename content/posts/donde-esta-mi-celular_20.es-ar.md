@@ -17,5 +17,3 @@ A diferencia de otras aplicaciones, el uso de este administrador no requiere la 
 [![](http://4.bp.blogspot.com/-PpjetPRw9oQ/UjsTzCVYthI/AAAAAAAAV-U/yimbq8ee6wU/s400/Android+Device+Manager+-+Google+Chrome_2013-09-19_12-09-33.png)](http://4.bp.blogspot.com/-PpjetPRw9oQ/UjsTzCVYthI/AAAAAAAAV-U/yimbq8ee6wU/s1600/Android+Device+Manager+-+Google+Chrome_2013-09-19_12-09-33.png)
 
 [![](http://1.bp.blogspot.com/-RdSX4n4lnD8/UjsUSw4nTsI/AAAAAAAAV-c/Kpu5JEKA7xk/s400/Screenshot_2013-09-19-11-49-56.png)](http://1.bp.blogspot.com/-RdSX4n4lnD8/UjsUSw4nTsI/AAAAAAAAV-c/Kpu5JEKA7xk/s1600/Screenshot_2013-09-19-11-49-56.png)
-
-¿Qué te parece el contenido de esta nota?

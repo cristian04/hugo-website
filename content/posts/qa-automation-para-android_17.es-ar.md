@@ -47,7 +47,7 @@ $./adb forward tcp:4444 tcp:8080
 
 En mi caso, configuro que las escuchas las realice en el puerto 4444 ya que estoy acostumbrado a la manera en la que trabaja selenium server.
 
-Probamos si todo funciona correctamente ingresando a [http://localhost:4444](http://localhost:4444/). Tienen que ver una pagina como la siguiente (no se preocupen por el 404 :D)
+Probamos si todo funciona correctamente ingresando a http://localhost:4444/. Tienen que ver una pagina como la siguiente (no se preocupen por el 404 :D)
 
 [![](http://3.bp.blogspot.com/-Wq9VR-1Y8Rs/TpvLBKf2N8I/AAAAAAAAJsc/RCCv3SOTxOM/s400/screenshot12.png)](http://3.bp.blogspot.com/-Wq9VR-1Y8Rs/TpvLBKf2N8I/AAAAAAAAJsc/RCCv3SOTxOM/s1600/screenshot12.png)
 
@@ -69,7 +69,7 @@ public class FirstTest extends TestCase {
    
  public void testGoogle() throws [Exception](http://java.sun.com/j2se/%3Cspan%20style=) {  
   WebDriver driver = new AndroidDriver("http://localhost:4444/wd/hub");  
-   //driver.get("https://blog.cristianmarquez.me");  
+   //driver.get("https://www.cristianmarquez.me");  
    driver.get("http://www.google.com.ar");  
    assertEquals("Google",  driver.getTitle());  
   driver.quit();  

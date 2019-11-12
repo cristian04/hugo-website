@@ -44,4 +44,4 @@ Ahora tengo Linux Mint 16 como distro oficial.
 
 Ya sé, Tux no es GNU
 
-[^1]: Gustavo es el hermano de José que mencione en [este otro post](https://blog.cristianmarquez.me/2014/01/el-desafio.html). Estudiaba en Tucumán y cada tanto iba a visitar y compartíamos info
+[^1]: Gustavo es el hermano de José que mencione en [este otro post](https://www.cristianmarquez.me/es-ar/posts/el-desafío/). Estudiaba en Tucumán y cada tanto iba a visitar y compartíamos info

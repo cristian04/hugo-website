@@ -8,7 +8,7 @@ series: []
 tags: [nostalgia, relatos, recuerdos, memoria, retro]
 ---
 
-Después de escribir [Nostalgia Nerd](https://blog.cristianmarquez.me/2014/06/nostalgia-nerd.html) unos días atrás, empecé a recordar mas cosas de esos años gloriosos.
+Después de escribir [Nostalgia Nerd](https://www.cristianmarquez.me/es-ar/posts/nostalgia-nerd/) unos días atrás, empecé a recordar mas cosas de esos años gloriosos.
 
 Si bien hoy soy muy linuxero, debo confesar que no arranqué así. El primer sistema que pude tocar fue un DOS 6.algo  
 

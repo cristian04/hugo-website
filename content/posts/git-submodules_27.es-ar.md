@@ -8,7 +8,7 @@ series: []
 tags: [tutorial, git, Ascentio, git submodules, svn]
 ---
 
-Durante la preparación de la migración de SVN a GIT (Ver [Migrando de svn a git](https://blog.cristianmarquez.me/2015/01/migrando-de-svn-git_11.html)) me encontré con  que en varios proyectos habían varios **trunks**. El árbol de directorios era algo así:  
+Durante la preparación de la migración de SVN a GIT (Ver [Migrando de svn a git](https://www.cristianmarquez.me/es-ar/posts/migrando-de-svn-a-git/)) me encontré con  que en varios proyectos habían varios **trunks**. El árbol de directorios era algo así:  
   
 **Proyecto** 
 ``` 

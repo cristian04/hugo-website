@@ -4,7 +4,7 @@ date: 2013-10-20T17:14:00.004+13:00
 draft: false
 slug: 'Hackeando un Smart TV Samsung (UN46EH5300G)'
 externalLink: ""
-series: []
+series: ['hackeando tv samsung']
 tags: [tutorial, smart tv, hack, samsung, hacking]
 ---
 
@@ -51,12 +51,6 @@ Con eso, estamos seteando un nivel de volumen al televisor, sin usar nuestro con
   
 Hasta aquí una primera parte  
   
-
-Parte 1 [https://blog.cristianmarquez.me/2013/10/hackeando-un-smart-tv-samsung.html](https://blog.cristianmarquez.me/2013/10/hackeando-un-smart-tv-samsung.html)
-
-Parte 2 [https://blog.cristianmarquez.me/2013/10/hackeando-un-smart-tv-samsung\_20.html](https://blog.cristianmarquez.me/2013/10/hackeando-un-smart-tv-samsung_20.html)
-
-Parte 3 [https://blog.cristianmarquez.me/2013/10/hackeando-un-smart-tv-samsung\_8226.html](https://blog.cristianmarquez.me/2013/10/hackeando-un-smart-tv-samsung_8226.html)
 ---
 ### Comments:
 #### Hola tengo una samsung EH5300 quisiera saber como ...

@@ -30,9 +30,10 @@ Saludos 
 
 # Código:
 
-/\*\*
+{{< highlight arduino "linenos=table">}}
+\**
 
- \* Cristian Marquez https://blog.cristianmarquez.me
+ \* Cristian Marquez https://www.cristianmarquez.me
 
  \* RGB controller with networking, potentiometer and android client
     
@@ -42,311 +43,304 @@ Saludos 
 
 #include <SPI.h>
     
-7.  #include <Ethernet.h>
-    
-9.  //Network
-    
-10.  byte mac\[\] \= {
-    
-11.    0xDE, 0xAD, 0xBE, 0xEF, 0xFE, 0xED };
-    
-12.  IPAddress ip(192,168,0,177);
-    
-13.  EthernetServer server(80);
-    
-14.  IPAddress gateway(192,168,0,1);
-    
-15.  IPAddress subnet(255, 255, 255, 0);
-    
+#include <Ethernet.h>
 
-17.  //LED
-    
-18.  int redLedPin \= 3;
-    
-19.  int greenLedPin \= 5;
-    
-20.  int blueLedPin \= 6;
-    
+//Network
 
-22.  //Sensors
-    
-23.  int soundDetectorAnalogPin\=A0;
-    
-24.  int soundDetectorDigitalPin\=8;
-    
-25.  int potentiometerAnalogPin\=A1;
-    
+ byte mac\[\] \= {
 
-28.  void setup()
-    
-29.  {
-    
-30.    Serial.begin(9600); //Just for debugging
-    
-31.    Ethernet.begin(mac, ip);
-    
-32.    server.begin();
-    
-33.    pinMode(soundDetectorDigitalPin, INPUT);
-    
-34.    pinMode(redLedPin, OUTPUT);    
-    
-35.    pinMode(greenLedPin, OUTPUT);    
-    
-36.    pinMode(blueLedPin, OUTPUT);    
-    
-37.  }
-    
+   0xDE, 0xAD, 0xBE, 0xEF, 0xFE, 0xED };
 
-39.  void loop()
-    
-40.  {
-    
-41.    if (digitalRead(soundDetectorDigitalPin)\==1){
-    
-42.      int rand \= random(1,11);
-    
-43.      switch (rand)
-    
-44.      {
-    
-45.      case 1:
-    
-46.        //red
-    
-47.        turnLights(random(100, 255),0,0);
-    
-48.        delay(150);
-    
-49.        break;
-    
-50.      case 2:
-    
-51.        //green
-    
-52.        turnLights(0,random(100, 255),0);
-    
-53.        delay(150);
-    
-54.        break;
-    
-55.      case 3:
-    
-56.        //blue
-    
-57.        turnLights(0,0,random(100, 255));
-    
-58.        delay(150);
-    
-59.        break;
-    
-60.      case 4:
-    
-61.        //red+green
-    
-62.        turnLights(random(100, 255),random(100, 255),0);
-    
-63.        delay(150);
-    
-64.        break;
-    
-65.      case 5:
-    
-66.        //red+blue
-    
-67.        turnLights(random(100, 255),0,random(100, 255));
-    
-68.        delay(150);
-    
-69.        break;
-    
-70.      case 6:
-    
-71.        //green+blue
-    
-72.        turnLights(0,random(100, 255),random(100, 255));
-    
-73.        delay(150);
-    
-74.        break;
-    
-75.      case 7:
-    
-76.        //red+green+blue
-    
-77.        turnLights(random(100, 255),random(100, 255),random(100, 255));
-    
-78.        delay(150);
-    
-79.        break;
-    
-80.      case 8:
-    
-81.        //yellow
-    
-82.        turnLights(255,255,0);
-    
-83.        delay(150);
-    
-84.        break;
-    
-85.      case 9:
-    
-86.        //white
-    
-87.        turnLights(255,255,255);
-    
-88.        delay(150);
-    
-89.        break;
-    
-90.      case 10:
-    
-91.        //violet
-    
-92.        turnLights(238,130,238);
-    
-93.        delay(150);
-    
-94.        break;    
-    
-95.      }
-    
+ IPAddress ip(192,168,0,177);
 
-97.    }
-    
-98.    else{
-    
-99.      turnLights(0,0,0);
-    
-100.    }
-    
-101.  }
-    
+ EthernetServer server(80);
 
-106.  void useSerial()
-    
-107.  {
-    
-108.    while (Serial.available() \> 0) {
-    
+ IPAddress gateway(192,168,0,1);
 
-110.      // look for the next valid integer in the incoming serial stream:
-    
-111.      int red \= Serial.parseInt();
-    
-112.      // do it again:
-    
-113.      int green \= Serial.parseInt();
-    
-114.      // do it again:
-    
-115.      int blue \= Serial.parseInt();
-    
-116.      if (Serial.read() \== '\\n') {
-    
-117.        turnLights(red,green,blue);
-    
-118.      }
-    
-119.    }
-    
-120.  }
-    
+ IPAddress subnet(255, 255, 255, 0);
 
-122.  void useEthernet()
-    
-123.  {
-    
-124.    EthernetClient client \= server.available();
-    
-125.    if (client) {
-    
-126.      // an http request ends with a blank line
-    
-127.      boolean currentLineIsBlank \= true;
-    
-128.      while (client.connected()) {
-    
-129.        if (client.available()) {
-    
-130.          char c \= client.read();
-    
-131.          // if you've gotten to the end of the line (received a newline
-    
-132.          // character) and the line is blank, the http request has ended,
-    
-133.          // so you can send a reply
-    
-134.          if (c \== '\\n' && currentLineIsBlank) {
-    
-135.            // send a standard http response header
-    
-136.            client.println("HTTP/1.1 150 OK");
-    
-137.            client.println("Content-Type: text/html");
-    
-138.            client.println();
-    
-139.            // print the current readings, in HTML format:
-    
-140.            client.print("Temperature: ");
-    
-141.            break;
-    
-142.          }
-    
-143.          if (c \== '\\n') {
-    
-144.            // you're starting a new line
-    
-145.            currentLineIsBlank \= true;
-    
-146.          }
-    
-147.          else if (c != '\\r') {
-    
-148.            // you've gotten a character on the current line
-    
-149.            currentLineIsBlank \= false;
-    
-150.          }
-    
-151.        }
-    
-152.      }
-    
-153.      // give the web browser time to receive the data
-    
-154.      delay(1);
-    
-155.      // close the connection:
-    
-156.      client.stop();
-    
-157.    }
-    
+ //LED
 
-159.  }
-    
+ int redLedPin \= 3;
 
-163.  void turnLights(int red, int green, int blue)
-    
-164.  {
-    
-165.    red \= constrain(red, 0, 255);
-    
-166.    green \=  constrain(green, 0, 255);
-    
-167.    blue \=  constrain(blue, 0, 255);
-    
-168.    analogWrite(redLedPin, red);
-    
-169.    analogWrite(greenLedPin, green);
-    
-170.    analogWrite(blueLedPin, blue);
-    
-171.  }
+ int greenLedPin \= 5;
+
+ int blueLedPin \= 6;
+
+ //Sensors
+
+ int soundDetectorAnalogPin\=A0;
+
+ int soundDetectorDigitalPin\=8;
+
+ int potentiometerAnalogPin\=A1;
+
+ void setup()
+
+ {
+
+   Serial.begin(9600); //Just for debugging
+
+   Ethernet.begin(mac, ip);
+
+   server.begin();
+
+   pinMode(soundDetectorDigitalPin, INPUT);
+
+   pinMode(redLedPin, OUTPUT);    
+
+   pinMode(greenLedPin, OUTPUT);    
+
+   pinMode(blueLedPin, OUTPUT);    
+
+ }
+
+ void loop()
+
+ {
+
+   if (digitalRead(soundDetectorDigitalPin)\==1){
+
+     int rand \= random(1,11);
+
+     switch (rand)
+
+     {
+
+     case 1:
+
+       //red
+
+       turnLights(random(100, 255),0,0);
+
+       delay(150);
+
+       break;
+
+     case 2:
+
+       //green
+
+       turnLights(0,random(100, 255),0);
+
+       delay(150);
+
+       break;
+
+     case 3:
+
+       //blue
+
+       turnLights(0,0,random(100, 255));
+
+       delay(150);
+
+       break;
+
+     case 4:
+
+       //red+green
+
+       turnLights(random(100, 255),random(100, 255),0);
+
+       delay(150);
+
+       break;
+
+     case 5:
+
+       //red+blue
+
+       turnLights(random(100, 255),0,random(100, 255));
+
+       delay(150);
+
+       break;
+
+     case 6:
+
+       //green+blue
+
+       turnLights(0,random(100, 255),random(100, 255));
+
+       delay(150);
+
+       break;
+
+     case 7:
+
+       //red+green+blue
+
+       turnLights(random(100, 255),random(100, 255),random(100, 255));
+
+       delay(150);
+
+       break;
+
+     case 8:
+
+       //yellow
+
+       turnLights(255,255,0);
+
+       delay(150);
+
+       break;
+
+     case 9:
+
+       //white
+
+       turnLights(255,255,255);
+
+       delay(150);
+
+       break;
+
+     case 10:
+
+       //violet
+
+       turnLights(238,130,238);
+
+       delay(150);
+
+       break;    
+
+     }
+
+   }
+
+   else{
+
+     turnLights(0,0,0);
+
+    }
+
+  }
+
+  void useSerial()
+
+  {
+
+    while (Serial.available() \> 0) {
+
+      // look for the next valid integer in the incoming serial stream:
+
+      int red \= Serial.parseInt();
+
+      // do it again:
+
+      int green \= Serial.parseInt();
+
+      // do it again:
+
+      int blue \= Serial.parseInt();
+
+      if (Serial.read() \== '\\n') {
+
+        turnLights(red,green,blue);
+
+      }
+
+    }
+
+  }
+
+  void useEthernet()
+
+  {
+
+    EthernetClient client \= server.available();
+
+    if (client) {
+
+      // an http request ends with a blank line
+
+      boolean currentLineIsBlank \= true;
+
+      while (client.connected()) {
+
+        if (client.available()) {
+
+          char c \= client.read();
+
+          // if you've gotten to the end of the line (received a newline
+
+          // character) and the line is blank, the http request has ended,
+
+          // so you can send a reply
+
+          if (c \== '\\n' && currentLineIsBlank) {
+
+            // send a standard http response header
+
+            client.println("HTTP/1.1 150 OK");
+
+            client.println("Content-Type: text/html");
+
+            client.println();
+
+            // print the current readings, in HTML format:
+
+            client.print("Temperature: ");
+
+            break;
+
+          }
+
+          if (c \== '\\n') {
+
+            // you're starting a new line
+
+            currentLineIsBlank \= true;
+
+          }
+
+          else if (c != '\\r') {
+
+            // you've gotten a character on the current line
+
+            currentLineIsBlank \= false;
+
+          }
+
+        }
+
+      }
+
+      // give the web browser time to receive the data
+
+      delay(1);
+
+      // close the connection:
+
+      client.stop();
+
+    }
+
+  }
+
+  void turnLights(int red, int green, int blue)
+
+  {
+
+    red \= constrain(red, 0, 255);
+
+    green \=  constrain(green, 0, 255);
+
+    blue \=  constrain(blue, 0, 255);
+
+    analogWrite(redLedPin, red);
+
+    analogWrite(greenLedPin, green);
+
+    analogWrite(blueLedPin, blue);
+
+  }
+{{< /highlight >}}
+
+
 ---
 ### Comments:
 #### hola cristian disculpa quisiera saber como conecta...
