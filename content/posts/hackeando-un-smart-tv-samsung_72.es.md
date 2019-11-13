@@ -1,5 +1,5 @@
 ---
-title: 'Hackeando un Smart TV Samsung (UN46EH5300G)'
+title: 'Hackeando un Smart TV - Parte 1'
 date: 2013-10-20T17:14:00.004+13:00
 draft: false
 slug: 'Hackeando un Smart TV Samsung (UN46EH5300G)'
@@ -9,7 +9,8 @@ tags: [tutorial, smart tv, hack, samsung, hacking]
 ---
 
 Hola a todos:  
-Hoy les voy a mostrar algunas pruebas que estuve haciendo con un Smart TV de Samsung (que de SMART no tiene nada, tan solo es un thinclient)  
+Hoy les voy a mostrar algunas pruebas que estuve haciendo con un Smart TV de Samsung (que de SMART no tiene nada, tan solo es un thinclient)
+
 {{% notice warning %}}
 Entrar o cambiar la configuración en el menú de servicio sin entender el funcionamiento puede causar daños permanentes en tu televisor. Accede a este menú sólo si estás calificado y capacitado para hacer trabajos de reparación de televisores.
 {{% /notice %}}
@@ -19,19 +20,14 @@ Bueno, voy a comenzar por partes. Lo primero que hice al tener el tele fue conec
 [![](http://1.bp.blogspot.com/-HhLR1ZtMk-w/UmNSuZuc94I/AAAAAAAAWGU/fRJm7zugnLs/s400/Pantallazo-2.png)](http://1.bp.blogspot.com/-HhLR1ZtMk-w/UmNSuZuc94I/AAAAAAAAWGU/fRJm7zugnLs/s1600/Pantallazo-2.png)
 
   
-
+```
 80/tcp   open  http
-
 443/tcp  open  https
-
 4443/tcp open  pharos
-
 6000/tcp open  X11
-
 7676/tcp open  imqbrokerd
-
 9090/tcp open  zeus-admin
-
+```
   
 
 De todos esos puertos, con los que pude jugar son el 80 y el 7676. Para el resto todavia estamos trabajando en encontrar que son y que tocar ;)  

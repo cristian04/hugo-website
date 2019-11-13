@@ -8,7 +8,7 @@ series: []
 tags: [tutorial, peliculas, linux, subtitulos]
 ---
 
-Como ya comenté en el post de [media center casero](/es-ar/posts/media-center-casero-utilizando-upnp/dlna/) , utilizo XBMC para la gestión de mis archivos multimedia.  
+Como ya comenté en el post de [media center casero](/es/posts/media-center-casero-utilizando-upnp/dlna/) , utilizo XBMC para la gestión de mis archivos multimedia.  
 [![](http://4.bp.blogspot.com/-r0hLHU31BLY/U7C4TesUY8I/AAAAAAAAZmg/_rp9gPBeBSc/s1600/Pantallazo-XBMC+Media+Center.png)](http://4.bp.blogspot.com/-r0hLHU31BLY/U7C4TesUY8I/AAAAAAAAZmg/_rp9gPBeBSc/s1600/Pantallazo-XBMC+Media+Center.png)En cuanto a la parte de subtitulos, XBMC tiene un plugin llamado **subtitles**, que permite descargarlos desde diferentes fuentes (subdivx, opensubtitles, argenteam, etc) y en diferentes idiomas.
 
 De todas maneras, tenia dos inconvenientes particulares con XBMC:  
@@ -28,7 +28,7 @@ periscope <path\>  \-l idioma
 
 El <path\> puede ser un archivo de video o un directorio. La búsqueda es recursiva.
 
-El idioma es el id del idioma: "**es**" español "**en**" ingles "**es-ar**" español argentina  
+El idioma es el id del idioma: "**es**" español "**en**" ingles "**es**" español argentina  
 
 Ejemplo:
 

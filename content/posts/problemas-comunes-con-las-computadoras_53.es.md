@@ -32,7 +32,7 @@ Uno de los problemas mas comunes, ya que la mayoría trabaja con copia ilegales 
 
 ## Windows me funciona mal y parece tener muchos virus
 
-Como primer medida, tenemos que saber que version de Windows tenemos instalada, y tratar de no instalar y **no aceptar** Windows Desatendidos (Hace tiempo escribi algo al respecto [aquí](https://www.cristianmarquez.me/es-ar/posts/page/3/)  
+Como primer medida, tenemos que saber que version de Windows tenemos instalada, y tratar de no instalar y **no aceptar** Windows Desatendidos (Hace tiempo escribi algo al respecto [aquí](https://www.cristianmarquez.me/es/posts/page/3/)  
 
 ![](http://2.bp.blogspot.com/-KX6Y5-hGQp8/Ujtv_HBUlNI/AAAAAAAAV_4/p8EumvQG6RY/s1600/images+(1).jpg)
 

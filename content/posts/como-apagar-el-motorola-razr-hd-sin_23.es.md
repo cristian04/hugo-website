@@ -10,7 +10,7 @@ tags: [tutorial, hacking, Android]
 
 [![](http://www.androidspain.es/wp-content/uploads/2013/04/Boton-apagado-Android-225x400.png)](http://www.androidspain.es/wp-content/uploads/2013/04/Boton-apagado-Android-225x400.png)
 
-El RAZR HD viene con una batería no removible y cuando [no te funciona el digitalizador](/es-ar/posts/leyendo-whatsapp-sin-pantalla/) es un embole.  
+El RAZR HD viene con una batería no removible y cuando [no te funciona el digitalizador](/es/posts/leyendo-whatsapp-sin-pantalla/) es un embole.  
 
 Aqui un pequeño tutorial para apagarlo usando dos herramientas: **uiautomatorviewer** e **input**  
 

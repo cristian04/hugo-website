@@ -26,18 +26,16 @@ Ya con la nueva maquina, empece nuevamente a probar todas sus funcionalidades, b
     
 De todas formas, le comento cual es el review general
 - Batidora: Solamente pude batir en 5 oportunidades hasta que se volvió a romper.  
-- Ralladora y Rebanadora: Si bien "andan" no sirven mucho, se traba la comida en la tapa ya que todo es de plastico (Perdon Juan S. por no hacerte caso =( )  
+- Ralladora y Rebanadora: Si bien "andan" no sirven mucho, se traba la comida en la tapa ya que todo es de plastico (Perdon `Juan S.` por no hacerte caso =( )  
 - Picadora: Creo que es una de las pocas cosas que funciona normal...  
-- Licuadora: Funciona bien pero... es como que tremendo equipaje para tener una mini pimmer comun ;=)  
+- Licuadora: Funciona bien pero... es como que tremendo equipaje para tener una mini pimmer comun :cry:  
   
 GENERAL: 3 Es una mini pimmer que vale $450-$500 =(
   
 Ahora voy a seguir renegando con la garantía a ver si me cambian el repuesto o el producto (si, sigo soñando)  
   
-Les aviso cualquier cosa  
-  
-P/D:  
-MORALEJA: NO COMPRAR EN RED MEGATONE Y NO COMPRAR EQUIPOS CON PARTES DE PLASTICO!!!!
+Les aviso cualquier cosa
+
 ---
 ### Comments:
 #### Hola..veo que tambien tienes problemas con red meg...

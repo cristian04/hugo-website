@@ -1,5 +1,5 @@
 ---
-title: 'Hackeando un Smart TV Samsung (UN46EH5300G) Parte 3'
+title: 'Hackeando un Smart TV - Parte 3'
 date: 2013-10-20T17:59:00.002+13:00
 draft: false
 slug: 'Hackeando un Smart TV Samsung (UN46EH5300G) Parte 3'

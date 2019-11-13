@@ -48,7 +48,7 @@ Generalmente:
 - Modifican el Sistema Operativo agregando y quitando cosas, entonces a veces provocan que los sistemas anden mas lentos, y otras veces que no puedas utilizar ciertas funcionalidades. Por ejemplo con Windows XP "FENIX" hay problemas para unirlas a un dominio Active Directory.
 - La instalacion de algunos programas es dudosa, como por ejemplo el Office que se descomprime y luego ejecuta algunos comandos para modificar el registro de Windows. Este Office tiene problemas luego para ejecutarse con otros usuarios.
 - El software instalado NO siempre es el mismo! Los requerimientos de los clientes varían, por lo cual no podemos estar entregando siempre el mismo producto! Un abogado necesita cierto software y ciertas funcionalidades, un medico otras; la calidad del servicio tiene que ser cumpliendo los requerimientos del cliente.
-- Creo que si un usuario baja e instala este SO, esta bien. Pero no perdono que los técnicos estén instalando esto. Menos empresas que ofrecen [Franquicias y un How-To](http://www.aj.com.ar/franquicias.asp).
+- Creo que si un usuario baja e instala este SO, esta bien. Pero no perdono que los técnicos estén instalando esto. Menos empresas que ofrecen franquicias.
 
 ## Mi Windows Desatendido:
 
@@ -58,7 +58,7 @@ Despues de lo comentado anteriormente, las ventajas que le encuentro al uso de W
 - Estandarizacion de instalaciones de Sistemas Operativos
 - Rapidez y comodidad para instalar software.
 
-En mi caso, luego de unos meses de desarrollo y testing he realizado mi propia versión de un Windows Desatendido. Para hacer la misma tuve que leer [muuucha documentacion](http://unattended.msfn.org/unattended.xp/) y hacer muucho testing (gracias virtualbox!) Demoré aproximadamente 5 Meses.
+En mi caso, luego de unos meses de desarrollo y testing he realizado mi propia versión de un Windows Desatendido. Para hacer la misma tuve que leer muuucha documentacion y hacer muucho testing (gracias virtualbox!) Demoré aproximadamente 5 Meses.
 
 ## Que es lo que hay de diferente en mi versión? 
 
@@ -67,10 +67,10 @@ En mi caso, luego de unos meses de desarrollo y testing he realizado mi propia v
 - Tweaks y configuraciones para aumentar el rendimiento y la seguridad del sistema
 
 {{% notice note %}}
-Mi Version desatendida de Windows XP es solamente para mis clientes, no esperen un link de descarga. Perdonen. Si necesitan de soporte técnico de calidad, [contactarme aquí](/es-ar/contact/)
+Mi Version desatendida de Windows XP es solamente para mis clientes, no esperen un link de descarga. Perdonen. Si necesitan de soporte técnico de calidad, [contactarme aquí](/es/contact/)
 {{% /notice %}}
 
-## Como saber si tenes una "buena" version del Windows XP?  
+## Como saber si tenes una "buena" version del Windows XP?
 
 Aqui vamos con un par de pasos:
 
@@ -82,7 +82,7 @@ Aqui vamos con un par de pasos:
 - Sistema o Edicion de Windows:
 - Service Pack: Si no figura esta palabra, no tenemos instalado ningun Service Pack lo que significa que estamos MUY expuestos a los virus y spyware. Tendria que salir Service Pack 3.
 - Ver si figura alguna de las siguientes palabras: Fenix, Fenixteam, Colossus, UE, Bj. En caso de que si figuren, tenes un windows desatendido.
-- Cualquier consulta, me comentan el post y lo vemos (Y)
+- Cualquier consulta, me comentan el post y lo vemos :smile:
 </catarsis>  
 </molesto>
 

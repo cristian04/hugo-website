@@ -1,5 +1,5 @@
 ---
-title: 'Hackeando un Smart TV Samsung (UN46EH5300G) Parte 2'
+title: 'Hackeando un Smart TV - Parte 2'
 date: 2013-10-20T17:45:00.002+13:00
 draft: false
 slug: 'Hackeando un Smart TV Samsung (UN46EH5300G) Parte 2'
@@ -690,7 +690,7 @@ Lo vendi porque me parecio que los Smart TV, al menos de Samsung, no son tan SMA
 Les recomiendo comprarse un televisor comun y agregarle algun dongle como Google Chromecast o se fabrican uno con rasbperry pi.  
 Saludos!  
   
-https://www.cristianmarquez.me/es-ar/posts/home-multimedia-center-con-raspberry/
+https://www.cristianmarquez.me/es/posts/home-multimedia-center-con-raspberry/
 <hr />
 #### me pasa lo mismo, has tenido alguna solución??
 [khinncho](https://www.blogger.com/profile/01378571713484737892 "noreply@blogger.com") - <time datetime="2015-06-29T09:36:47.487+12:00">Jun 0, 2015</time>

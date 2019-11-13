@@ -96,35 +96,35 @@ enableEmoji = true
         url = "/contact/"
 
 
-    [languages.es-ar]
+    [languages.es]
         languagename = "Español"
         title = "Cristian Márquez Russo"
 
-        [languages.es-ar.params]
+        [languages.es.params]
             author = "Cristian Márquez Russo"
             info = "Tecnología y Viajes"
             description = "Sitio con informacion sobre tecnologia y viajes."
             keywords = "devops, site reliabilty engineer, trips"
             footercontent = "🐇"
 
-        [languages.es-ar.menu]
+        [languages.es.menu]
 
-            [[languages.es-ar.menu.main]]
+            [[languages.es.menu.main]]
             name = "Acerca de mi"
             weight = 1
-            url = "/es-ar/about/"
+            url = "/es/about/"
 
-            [[languages.es-ar.menu.main]]
+            [[languages.es.menu.main]]
             name = "Blog"
             weight = 3
-            url = "/es-ar/posts/"
+            url = "/es/posts/"
 
-            #[[languages.es-ar.menu.main]]
+            #[[languages.es.menu.main]]
             #name = "Proyectos"
             #weight = 3
-            #url = "/es-ar/projects/"
+            #url = "/es/projects/"
 
-            [[languages.es-ar.menu.main]]
+            [[languages.es.menu.main]]
             name = "Contacto"
             weight = 5
             url = "/es-ar/contact/"

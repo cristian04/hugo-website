@@ -209,7 +209,7 @@ Me extraña que como comerciante m...
 
 Hola Anonimo:  
 Me extraña que como comerciante me acuses de "mala publicidad" y de "campaña" para joder al otro. En ningún momento estoy haciendo una campaña.  
-Me decís que "hable" con ellos, pero por lo que podes ver en este post, no se puede hablar con gente que falta constantemente el respeto. No se que querés decir con etiquetas políticas y derechos, pero si te fijás un poco en el post https://www.cristianmarquez.me/es-ar/posts/ese-blog-de-mierda/ vas a poder entender algunas cosas.  
+Me decís que "hable" con ellos, pero por lo que podes ver en este post, no se puede hablar con gente que falta constantemente el respeto. No se que querés decir con etiquetas políticas y derechos, pero si te fijás un poco en el post https://www.cristianmarquez.me/es/posts/ese-blog-de-mierda/ vas a poder entender algunas cosas.  
 Saludos
 <hr />
 #### Yo compro bandejas hace 3 años creo que todos los ...

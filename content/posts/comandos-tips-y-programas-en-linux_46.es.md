@@ -114,7 +114,7 @@ Como **root**, ejecutamos el comando **fdisk -l.** Ahi vamos a ver todas las par
 
 ## ¿Que dispositivos tengo en mi red local con UPNP y que puedo hacer con ellos?
 
-Esta un poco mas explicado en el post del [hacking al smart tv](/es-ar/posts/hackeando-un-smart-tv-samsung-un46eh5300g/) . **Upnp-inspector** es una tool escrita en python que permite ver que tenemos en nuestra red y como podemos interactuar con esos dispositivos.  
+Esta un poco mas explicado en el post del [hacking al smart tv](/es/posts/hackeando-un-smart-tv-samsung-un46eh5300g/) . **Upnp-inspector** es una tool escrita en python que permite ver que tenemos en nuestra red y como podemos interactuar con esos dispositivos.  
 
 [![](http://3.bp.blogspot.com/-XrfH72TrooM/U7I-6nbqSHI/AAAAAAAAZpw/EEu-0klDBhI/s1600/Pantallazo-UPnP+Inspector.png)](http://3.bp.blogspot.com/-XrfH72TrooM/U7I-6nbqSHI/AAAAAAAAZpw/EEu-0klDBhI/s1600/Pantallazo-UPnP+Inspector.png)
   

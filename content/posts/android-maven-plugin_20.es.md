@@ -9,7 +9,7 @@ tags: [tutorial, android-maven-plugin, Android, maven]
 ---
 [![](http://3.bp.blogspot.com/-dRn_mySFEJs/UjsKvliZrfI/AAAAAAAAV-E/ZY2pKn558xc/s200/Google+Image+Result+for+httpwww.itservices247.atwp-contentuploads201205a_2013-09-19_11-30-44.png)](http://3.bp.blogspot.com/-dRn_mySFEJs/UjsKvliZrfI/AAAAAAAAV-E/ZY2pKn558xc/s1600/Google+Image+Result+for+httpwww.itservices247.atwp-contentuploads201205a_2013-09-19_11-30-44.png)
 
-Después de la pequeña introducción que hice [aquí](/es-ar/posts/android-qa-automation/), les sigo comentando algunas cosas sobre __android-maven-plugin__  
+Después de la pequeña introducción que hice [aquí](/es/posts/android-qa-automation/), les sigo comentando algunas cosas sobre __android-maven-plugin__  
 
 Una de las ventajas al trabajar con maven son los arquetipos (archetypes) Un arquetipo es una plantilla de proyectos definido por patrones o modelos de proyectos similares.
 
