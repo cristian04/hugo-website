@@ -8,7 +8,9 @@ series: []
 tags: [hay tabla, aj computacion, colossus, relatos, ue, windows xp, reclamos, codelco, saltita, windows desatendidos, cordoba]
 ---
 
-[![](http://1.bp.blogspot.com/-Y2aZgzBy80U/TVOSpW_hIYI/AAAAAAAAJiE/ZfZDNqfxsF0/s200/Hay+Tabla.jpg)](http://1.bp.blogspot.com/-Y2aZgzBy80U/TVOSpW_hIYI/AAAAAAAAJiE/ZfZDNqfxsF0/s1600/Hay+Tabla.jpg)
+<p align="center">
+  <img src="http://1.bp.blogspot.com/-Y2aZgzBy80U/TVOSpW_hIYI/AAAAAAAAJiE/ZfZDNqfxsF0/s1600/Hay+Tabla.jpg" width="40%"/>
+</p>
 
 Hace un tiempo atrás, había posteado sobre trabajos de algunos técnicos en los cuales trabajaban con Windows Desatendidos como ser Windows UE y Colossus edition.  
 Hace unos dias, un NUEVO cliente me trajo su computadora porque tenía unos problemas para poder utilizarla. Al revisarla descubrí lo siguiente:  
