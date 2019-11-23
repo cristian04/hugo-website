@@ -1,5 +1,5 @@
 --- 
-draft: true
+draft: false
 date: 2019-11-19T12:59:47-03:00
 title: "Charla sobre Cloud Native en Mina Clavero"
 description: "Charla sobre Cloud Native en Mina Clavero"
@@ -16,7 +16,7 @@ Las dispositivas estan disponibles en Google Drive.
 
 Aqui pueden encontrar fotos del evento.
 
-Gracias a <a href="https://incluit.io">IncluIt</a> por haber facilitado el espacio para dicha charla.
+Gracias a <a href="https://incluit.com">IncluIt</a> por haber facilitado el espacio para dicha charla.
 
 
 <p align="center">
