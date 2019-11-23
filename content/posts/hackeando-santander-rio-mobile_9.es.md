@@ -8,9 +8,9 @@ series: []
 tags: [tarjeta, tutorial, logs, seguridad, santander rio, hacking, Android]
 ---
 
-[![](http://i.imgur.com/6Mxmsl7.gif)](http://i.imgur.com/6Mxmsl7.gif)
-
-  
+<p align="center">
+  <img src="http://i.imgur.com/6Mxmsl7.gif" width="40%"/>
+</p>
 
 Mientras estuve analizando algunas aplicaciones que bajé de Google Play, me encontré con algunas particularidades que me hicieron reír y, después, preocuparme. A continuación les muestro algunas de ellas.  
 
@@ -33,7 +33,9 @@ El uso de los logs tiene varios propósitos: muchas veces los developers lo usam
 
 Android viene con una herramienta: **[logcat](http://developer.android.com/tools/help/logcat.html)**. Con ella podemos acceder a uno de los logs principales del sistema. También podemos usar alguna aplicación como [catlog](https://play.google.com/store/apps/details?id=com.nolanlawson.logcat&hl=es) (disponible en Google Play) para visualizar y poder filtrar la info
 
-### [![](http://4.bp.blogspot.com/-KjuCXvKccGc/Un04I_gSRlI/AAAAAAAAWKE/AY-9RhK9Shc/s200/Screenshot_2013-11-08-15-46-39.png)](http://4.bp.blogspot.com/-KjuCXvKccGc/Un04I_gSRlI/AAAAAAAAWKE/AY-9RhK9Shc/s1600/Screenshot_2013-11-08-15-46-39.png)
+<p align="center">
+  <img src="http://4.bp.blogspot.com/-KjuCXvKccGc/Un04I_gSRlI/AAAAAAAAWKE/AY-9RhK9Shc/s1600/Screenshot_2013-11-08-15-46-39.png" width="40%"/>
+</p>
 
 ## Vamos a hacer algunas pruebas
 

@@ -9,7 +9,9 @@ tags: [cocina, liliana, relatos, review, am559, procesadora, red megatone]
 ---
 No, no estoy probando ningun procesador AMD o Intel. Esta vez voy a comentarles como me fue con una procesadora de las **todo en uno** que me compre hace 6 meses atrás.  
 
-[![](http://3.bp.blogspot.com/-QbLli0BcbNA/TnFtGSv_-iI/AAAAAAAAJq4/Wi0qbNyanN8/s200/120252g.jpg)](http://3.bp.blogspot.com/-QbLli0BcbNA/TnFtGSv_-iI/AAAAAAAAJq4/Wi0qbNyanN8/s1600/120252g.jpg)
+<p align="center">
+  <img src="http://3.bp.blogspot.com/-QbLli0BcbNA/TnFtGSv_-iI/AAAAAAAAJq4/Wi0qbNyanN8/s200/120252g.jpg" width="40%"/>
+</p>
 
 Como algunos sabran, me gusta mucho la cocina =) Hace unos meses me compre esta multiprocesadora porque que pensaba hacer tortas y comidas....  
 
