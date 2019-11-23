@@ -9,8 +9,6 @@ tags: [pirelli, linux, telnet, Arnet, comandos, DRG A125G, hacking]
 categories: [hackeando, tecnologia, redes]
 ---
 
-[![](http://3.bp.blogspot.com/-XWWunV78Xvc/TVO0ckQfE4I/AAAAAAAAJiI/mkAe5nMc1-0/s200/777707812.jpg)](http://3.bp.blogspot.com/-XWWunV78Xvc/TVO0ckQfE4I/AAAAAAAAJiI/mkAe5nMc1-0/s1600/777707812.jpg)
-
 Aquí les dejo un video con algunas cositas que se pueden hacer con un módem de arnet, el Pirelli Wifi DRG A125G. 
 
 {{<youtube vbCCBrvLXbs >}}

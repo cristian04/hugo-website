@@ -20,7 +20,9 @@ La conexión es la siguiente:
 |     BAT       |      +3.3v   |  
 ```
 
-[![](http://4.bp.blogspot.com/-PaoiVHkIndk/U7JFCNyl1EI/AAAAAAAAZqs/UHWFwozrTUY/s1600/Untitled+Sketch_bb.png)](http://4.bp.blogspot.com/-PaoiVHkIndk/U7JFCNyl1EI/AAAAAAAAZqs/UHWFwozrTUY/s1600/Untitled+Sketch_bb.png)
+<p align="center">
+  <img src="http://4.bp.blogspot.com/-PaoiVHkIndk/U7JFCNyl1EI/AAAAAAAAZqs/UHWFwozrTUY/s1600/Untitled+Sketch_bb.png" width="60%"/>
+</p>
 
 # Código:
 

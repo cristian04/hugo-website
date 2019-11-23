@@ -20,21 +20,29 @@ El siguiente procedimiento necesita de una maquina con procesador Intel, con las
 
 - Abrir SDK Manager
 - Descargar Intel x86 Emulator Accelerator y las imagen de sistema de Intel (Intel x86 Atom System Image) 
-    
-    [![](http://software.intel.com/sites/default/files/haxm01.png)](http://software.intel.com/sites/default/files/haxm01.png)
+<p align="center">
+<img src="http://software.intel.com/sites/default/files/haxm01.png" width="70%"/>
+</p>
     
 - Instalar IntelHaxm.exe, disponible en ANDROID\_HOME/extras/intel/Hardware\_Accelerated\_Execution\_Manager. 
     
-    [![](http://software.intel.com/sites/default/files/haxm02.png)](http://software.intel.com/sites/default/files/haxm02.png) 
-    
-    [![](http://software.intel.com/sites/default/files/haxm03.png)](http://software.intel.com/sites/default/files/haxm03.png) 
-    
-    [![](http://software.intel.com/sites/default/files/haxm04.jpg)](http://software.intel.com/sites/default/files/haxm04.jpg)
+<p align="center">
+<img src="http://software.intel.com/sites/default/files/haxm02.png" width="60%"/>
+</p>
+<p align="center">
+<img src="http://software.intel.com/sites/default/files/haxm03.png" width="60%"/>
+</p>
+
+<p align="center">
+<img src="http://software.intel.com/sites/default/files/haxm04.jpg" width="60%"/>
+</p>
     
 - Crear un nuevo Android Virtual Device (AVD) usando el AVD Manager. 
-    
-    [![](http://software.intel.com/sites/default/files/haxm12.png)](http://software.intel.com/sites/default/files/haxm12.png)
-    
+
+<p align="center">
+<img src="http://software.intel.com/sites/default/files/haxm12.png" width="60%"/>
+</p>
+
 - Disfrutar
 
 ## Procedimiento para S.O. Linux:

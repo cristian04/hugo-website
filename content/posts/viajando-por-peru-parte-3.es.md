@@ -30,6 +30,8 @@ El lugar estaba repleto de gente, y lamentablemente, no había cóndores. De tod
 
 Aproximadamente una hora después, pude observar dos cóndores planeando a la distancia. Y finalmente el momento llegó: Un cóndor joven (alas doradas) pasó a menos de 10 metros mío y se quedó dando un par de vueltas por el mirador. Después fueron dos cóndores los que se quedaron planeando un poco más por el lugar y se fueron.
 
-![Condor Pasa](/images/condor.jpg)
+<p align="center">
+  <img src="/images/condor.jpg" width="100%"/>
+</p>
 
 Terminada esta visita, volvimos a almorzar a otro buffet y retornamos hacia `Arequipa`.

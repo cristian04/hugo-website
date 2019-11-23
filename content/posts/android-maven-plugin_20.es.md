@@ -7,7 +7,10 @@ externalLink: ""
 series: []
 tags: [tutorial, android-maven-plugin, Android, maven]
 ---
-[![](http://3.bp.blogspot.com/-dRn_mySFEJs/UjsKvliZrfI/AAAAAAAAV-E/ZY2pKn558xc/s200/Google+Image+Result+for+httpwww.itservices247.atwp-contentuploads201205a_2013-09-19_11-30-44.png)](http://3.bp.blogspot.com/-dRn_mySFEJs/UjsKvliZrfI/AAAAAAAAV-E/ZY2pKn558xc/s1600/Google+Image+Result+for+httpwww.itservices247.atwp-contentuploads201205a_2013-09-19_11-30-44.png)
+
+<p align="center">
+<img src="http://3.bp.blogspot.com/-dRn_mySFEJs/UjsKvliZrfI/AAAAAAAAV-E/ZY2pKn558xc/s1600/Google+Image+Result+for+httpwww.itservices247.atwp-contentuploads201205a_2013-09-19_11-30-44.png" width="100%"/>
+</p>
 
 Después de la pequeña introducción que hice [aquí](/es/posts/android-qa-automation/), les sigo comentando algunas cosas sobre __android-maven-plugin__  
 
@@ -66,11 +69,13 @@ Para generar un proyecto desde 0 con maven, debemos ejecutar lo siguiente:
 
 Recuerden cambiar  los valores de **groupId**, **artifactId** y **package** por los de su preferencia o empresa.  
 
-[![](http://2.bp.blogspot.com/-TTa9XOG073w/UjsHmN_ztfI/AAAAAAAAV9I/hitX_dpZMq4/s400/CWindowssystem32cmd.exe_2013-09-19_11-15-24.png)](http://2.bp.blogspot.com/-TTa9XOG073w/UjsHmN_ztfI/AAAAAAAAV9I/hitX_dpZMq4/s1600/CWindowssystem32cmd.exe_2013-09-19_11-15-24.png)
+<p align="center">
+ <img src="http://2.bp.blogspot.com/-TTa9XOG073w/UjsHmN_ztfI/AAAAAAAAV9I/hitX_dpZMq4/s1600/CWindowssystem32cmd.exe_2013-09-19_11-15-24.png" width="100%"/>
+</p>
 
-  
-
-[![](http://4.bp.blogspot.com/-pnLxVtT-RFU/UjsHzU5s5dI/AAAAAAAAV9Q/gnjRg-liuQo/s400/CWindowssystem32cmd.exe_2013-09-19_11-15-39.png)](http://4.bp.blogspot.com/-pnLxVtT-RFU/UjsHzU5s5dI/AAAAAAAAV9Q/gnjRg-liuQo/s1600/CWindowssystem32cmd.exe_2013-09-19_11-15-39.png)
+<p align="center">
+<img src="http://4.bp.blogspot.com/-pnLxVtT-RFU/UjsHzU5s5dI/AAAAAAAAV9Q/gnjRg-liuQo/s1600/CWindowssystem32cmd.exe_2013-09-19_11-15-39.png" width="100%"/>
+</p>
 
 Como se puede observar en las imagenes, maven nos generó el proyecto y estamos listos para trabajar. En el caso de tener algun emulador o device corriendo, podemos probar nuestra aplicacion ejecutando  
 
@@ -78,12 +83,18 @@ Como se puede observar en las imagenes, maven nos generó el proyecto y estamos 
 > mvn clean install
 ```
 
-[![](http://2.bp.blogspot.com/-4SkT5zipUks/UjsI45f1NOI/AAAAAAAAV9k/BwhT41u9BU8/s400/CWindowssystem32cmd.exe_2013-09-19_11-17-28.png)](http://2.bp.blogspot.com/-4SkT5zipUks/UjsI45f1NOI/AAAAAAAAV9k/BwhT41u9BU8/s1600/CWindowssystem32cmd.exe_2013-09-19_11-17-28.png)
+<p align="center">
+<img src="http://2.bp.blogspot.com/-4SkT5zipUks/UjsI45f1NOI/AAAAAAAAV9k/BwhT41u9BU8/s1600/CWindowssystem32cmd.exe_2013-09-19_11-17-28.png" width="100%"/>
+</p>
 
-  
+<p align="center">
+<img src="http://1.bp.blogspot.com/-SO1SfChXyVI/UjsIiaLLBUI/AAAAAAAAV9c/fdNEQ3dIu_A/s1600/CWindowssystem32cmd.exe_2013-09-19_11-16-02.png" width="100%"/>
+</p>
 
-[![](http://1.bp.blogspot.com/-SO1SfChXyVI/UjsIiaLLBUI/AAAAAAAAV9c/fdNEQ3dIu_A/s400/CWindowssystem32cmd.exe_2013-09-19_11-16-02.png)](http://1.bp.blogspot.com/-SO1SfChXyVI/UjsIiaLLBUI/AAAAAAAAV9c/fdNEQ3dIu_A/s1600/CWindowssystem32cmd.exe_2013-09-19_11-16-02.png)
+<p align="center">
+<img src="http://2.bp.blogspot.com/-DRK2QoBGlAQ/UjsI-sLjnUI/AAAAAAAAV9s/qnatR31gQFQ/s1600/CWindowssystem32cmd.exe_2013-09-19_11-17-15.png" width="100%"/>
+</p>
 
-[![](http://2.bp.blogspot.com/-DRK2QoBGlAQ/UjsI-sLjnUI/AAAAAAAAV9s/qnatR31gQFQ/s400/CWindowssystem32cmd.exe_2013-09-19_11-17-15.png)](http://2.bp.blogspot.com/-DRK2QoBGlAQ/UjsI-sLjnUI/AAAAAAAAV9s/qnatR31gQFQ/s1600/CWindowssystem32cmd.exe_2013-09-19_11-17-15.png)
-
-[![](http://2.bp.blogspot.com/-_EAuxBqFDN0/UjsJtf_3BgI/AAAAAAAAV94/tyKelcZTIdo/s320/Screenshot_2013-09-19-11-24-29.png)](http://2.bp.blogspot.com/-_EAuxBqFDN0/UjsJtf_3BgI/AAAAAAAAV94/tyKelcZTIdo/s1600/Screenshot_2013-09-19-11-24-29.png)
+<p align="center">
+<img src="http://2.bp.blogspot.com/-_EAuxBqFDN0/UjsJtf_3BgI/AAAAAAAAV94/tyKelcZTIdo/s1600/Screenshot_2013-09-19-11-24-29.png" width="100%"/>
+</p>

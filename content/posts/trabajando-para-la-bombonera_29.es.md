@@ -19,7 +19,9 @@ Cuando quise pasar a ver a **La Bombonera **me di cuenta que no se podía porq
   
 Le pregunto a uno de la fila cuando compró la entrada y me dice "**Recién**". Como tenia una mochila llena de cosas incautables pensé en comprar una entrada y después dejar la mochila en alguna casa o en algún restaurant. O me llevo la entrada como recuerdo y listo... Al final las cosas salieron de una manera diferente..  
 
-[![](http://4.bp.blogspot.com/-2MmeV3Ht4a4/U6-A2TOWXQI/AAAAAAAAZl8/PCbjv0FmW30/s1600/Foto-0091+(2).jpg)](http://4.bp.blogspot.com/-2MmeV3Ht4a4/U6-A2TOWXQI/AAAAAAAAZl8/PCbjv0FmW30/s1600/Foto-0091+(2).jpg)
+<p align="center">
+  <img src="http://4.bp.blogspot.com/-2MmeV3Ht4a4/U6-A2TOWXQI/AAAAAAAAZl8/PCbjv0FmW30/s1600/Foto-0091+(2).jpg)" width="100%"/>
+</p>
 
 Compro la entrada con los $20 de la comida y vuelvo a la fila, cuando llega mi turno para el cacheo, se me ocurre decirle "**Buenas tardes, estoy trabajando para La Bombonera**". Ahí nomás saque toda la documentación que tenia que presentar en La Rural para que me dejen entrar: autorizaciones, carnets, etc...  
   
