@@ -1,5 +1,5 @@
 ---
-title: "Viajando Por Peru"
+title: "Viajando Por Peru - Parte 1"
 date: 2019-11-02T21:39:00-05:00
 draft: false
 description : "Notas sobre mi viaje por Perú"

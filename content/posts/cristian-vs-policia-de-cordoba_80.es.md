@@ -8,11 +8,7 @@ series: []
 tags: [Mala Suerte, Policia, Yeta, relatos]
 ---
 
-  
 Bueno … ésta es la primera historia de esta semana  
-  
-
-[![](http://1.bp.blogspot.com/-JOP9oCeVz6M/TnGAldD-x4I/AAAAAAAAJq8/MO6bPgFYiJA/s1600/policia.jpg)](http://1.bp.blogspot.com/-JOP9oCeVz6M/TnGAldD-x4I/AAAAAAAAJq8/MO6bPgFYiJA/s1600/policia.jpg)
 
 Resulta que el pasado Lunes 9, saliendo de las oficinas de Y2K y yendo para mi casa a almorzar (alrededor de las 12:30 13:00) me para un control de policía para hacer los controles de rutina de la moto… papeles, licencia, DNI, etc.  
   

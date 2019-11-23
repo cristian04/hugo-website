@@ -127,4 +127,4 @@ enableEmoji = true
             [[languages.es.menu.main]]
             name = "Contacto"
             weight = 5
-            url = "/es-ar/contact/"
+            url = "/es/contact/"

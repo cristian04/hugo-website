@@ -8,30 +8,36 @@ series: ['hackeando tv samsung']
 tags: [tutorial, smart tv, hack, samsung, pvr, hacking]
 ---
 
-Continuamos con el hacking para el UN46EH5300G. Ahora vamos a entrar en algunos menues ocultos y, si tenemos suerte, habilitar una opcion para que el televisor pueda grabar videos en un dispositivo USB.  
-  
-Basicamente, muchos dispositivios tienen la posibilidad de acceder a funciones de ingenieria o fabrica para realizara acciones mas complejas. Algunos controles remotos de televisores antiguos (+10 años) disponian de uno o varios botones escondidos en la circuito, de manera que para acceder a ellos habia que desarmar el control.  
-  
-En nuestro modelo, disponemos de dos menues ocultos: Service Mode y Hotel Mode  
-Para entrar en Service Mode tenemos que apagar el TV y presionar las teclas MUTE 1 8 2 POWER  
-El televisor se va a prender y vamos a ver un menu con varias opciones. A recorrer cada una señores! ;)  
+Continuamos con el hacking para el UN46EH5300G. Ahora vamos a entrar en algunos menues ocultos y, si tenemos suerte, habilitar una opcion para que el televisor pueda grabar videos en un dispositivo USB.
 
-[![](http://4.bp.blogspot.com/-eU4b3Ll8uQ0/UmNcSmAOvyI/AAAAAAAAWG4/HpxJpdrcfss/s320/IMG_20131020_012528_769.jpg)](http://4.bp.blogspot.com/-eU4b3Ll8uQ0/UmNcSmAOvyI/AAAAAAAAWG4/HpxJpdrcfss/s1600/IMG_20131020_012528_769.jpg)
-
-  
-  
-El otro menu se puede acceder con el televisor prendido. Solamente necesitamos tocar MUTE 1 1 9 OK y ya estamos en Hospitality Mode!  
-
-[![](http://3.bp.blogspot.com/-OI7nz9Kepso/UmNcYofk1TI/AAAAAAAAWHE/qU5l3yWVsXg/s320/IMG_20131020_012858_273.jpg)](http://3.bp.blogspot.com/-OI7nz9Kepso/UmNcYofk1TI/AAAAAAAAWHE/qU5l3yWVsXg/s1600/IMG_20131020_012858_273.jpg)
-
-  
-En las primeras versiones del firmware del tv, el modo de Hospitality Mode nos permitia editar la configuración del televisor, y una de esas opciones era habilitar PVR (personal video recording)  
-
-[![](http://4.bp.blogspot.com/-m7bn828-Y2s/UmNft10aqkI/AAAAAAAAWHQ/QaLww4IBDSI/s400/Pantallazo-3.png)](http://4.bp.blogspot.com/-m7bn828-Y2s/UmNft10aqkI/AAAAAAAAWHQ/QaLww4IBDSI/s1600/Pantallazo-3.png)
-  
 {{% notice warning %}}
 Entrar o cambiar la configuración en el menú de servicio sin entender el funcionamiento puede causar daños permanentes en tu televisor. Accede a este menú sólo si estás calificado y capacitado para hacer trabajos de reparación de televisores.
 {{% /notice %}}
+  
+Basicamente, muchos dispositivos tienen la posibilidad de acceder a funciones de ingenieria o fabrica para realizara acciones mas complejas. Algunos controles remotos de televisores antiguos (+10 años) disponian de uno o varios botones escondidos en la circuito, de manera que para acceder a ellos habia que desarmar el control.  
+  
+En este modelo, disponemos de dos menus ocultos: Service Mode y Hotel Mode.
+
+Para entrar en Service Mode tenemos que `apagar el TV` y presionar las teclas `MUTE 1 8 2 POWER`
+
+El televisor se va a prender y vamos a ver un menu con varias opciones. A recorrer cada una señores! :smile: (Sin cambiar nada!)  
+
+<p align="center">
+  <img src="http://4.bp.blogspot.com/-eU4b3Ll8uQ0/UmNcSmAOvyI/AAAAAAAAWG4/HpxJpdrcfss/s1600/IMG_20131020_012528_769.jpg" width="100%"/>
+</p>
+
+El otro menu se puede acceder con el televisor prendido. Solamente necesitamos tocar `MUTE 1 1 9 OK` y ya estamos en `Hospitality Mode`!
+
+<p align="center">
+  <img src="http://3.bp.blogspot.com/-OI7nz9Kepso/UmNcYofk1TI/AAAAAAAAWHE/qU5l3yWVsXg/s1600/IMG_20131020_012858_273.jpg" width="100%"/>
+</p>
+
+En las primeras versiones del firmware del tv, el modo de `Hospitality Mode` nos permitia editar la configuración del televisor, y una de esas opciones era habilitar `PVR` (personal video recording)  
+
+<p align="center">
+  <img src="http://4.bp.blogspot.com/-m7bn828-Y2s/UmNft10aqkI/AAAAAAAAWHQ/QaLww4IBDSI/s1600/Pantallazo-3.png" width="100%"/>
+</p>
+
 ---
 ### Comments:
 #### Hola, tengo un Smart TV Samsung EH 5300 40″ y modi...

@@ -8,7 +8,9 @@ series: []
 tags: [hay tabla, aj computacion, colossus, relatos, ue, windows xp, reclamos, codelco, saltita, windows desatendidos, cordoba]
 ---
 
-[![](http://1.bp.blogspot.com/-Y2aZgzBy80U/TVOSpW_hIYI/AAAAAAAAJiE/ZfZDNqfxsF0/s200/Hay+Tabla.jpg)](http://1.bp.blogspot.com/-Y2aZgzBy80U/TVOSpW_hIYI/AAAAAAAAJiE/ZfZDNqfxsF0/s1600/Hay+Tabla.jpg)
+<p align="center">
+  <img src="http://1.bp.blogspot.com/-Y2aZgzBy80U/TVOSpW_hIYI/AAAAAAAAJiE/ZfZDNqfxsF0/s1600/Hay+Tabla.jpg" width="40%"/>
+</p>
 
 Hace un tiempo atrás, había posteado sobre trabajos de algunos técnicos en los cuales trabajaban con Windows Desatendidos como ser Windows UE y Colossus edition.  
 Hace unos dias, un NUEVO cliente me trajo su computadora porque tenía unos problemas para poder utilizarla. Al revisarla descubrí lo siguiente:  
@@ -20,7 +22,9 @@ Hace unos dias, un NUEVO cliente me trajo su computadora porque tenía unos prob
 - Problemas con el WGA, las notificaciones molestas de que Windows es ilegal.
 - Otra cosa que me llamo la atención es que habían instalado una versión de Windows con más de 9 años de antiguedad (si, el XP es del 2002 y todavía le siguen haciendo parches hasta el 2014), siendo que el HW del equipo soportaba una versión mas nueva de Windows ([Windows 7](http://windows.microsoft.com/es-ES/windows7/products/system-requirements)), o una versión de Linux.
 
-[![](http://4.bp.blogspot.com/-dqjMs-tq00c/TVOSo8bP6lI/AAAAAAAAJiA/Lsa_neTI13g/s320/Aj+Propiedades+Pc.jpg)](http://4.bp.blogspot.com/-dqjMs-tq00c/TVOSo8bP6lI/AAAAAAAAJiA/Lsa_neTI13g/s1600/Aj+Propiedades+Pc.jpg)
+<p align="center">
+  <img src="http://4.bp.blogspot.com/-dqjMs-tq00c/TVOSo8bP6lI/AAAAAAAAJiA/Lsa_neTI13g/s1600/Aj+Propiedades+Pc.jpg" width="40%"/>
+</p>
 
 Me molesto más saber que el servicio técnico que le habían hecho a la computadora, unas semanas atrás,  lo había realizado una empresa muy importante esparcida en Córdoba: **AJ Computación.**
 
@@ -34,10 +38,11 @@ No me parece mucho ese precio, pero no le encuentro cual es el valor agregado qu
 
 # El reclamo:
 
-[![](http://2.bp.blogspot.com/-8KbIw39j7X0/TVOSnpCgoOI/AAAAAAAAJh8/6ESRoShGjnw/s400/Aj+Face.png)](http://2.bp.blogspot.com/-8KbIw39j7X0/TVOSnpCgoOI/AAAAAAAAJh8/6ESRoShGjnw/s1600/Aj+Face.png)
+<p align="center">
+  <img src="http://2.bp.blogspot.com/-8KbIw39j7X0/TVOSnpCgoOI/AAAAAAAAJh8/6ESRoShGjnw/s1600/Aj+Face.png" width="100%"/>
+</p>
 
 El reclamo lo hice por Facebook en la pagina de Fans de AJ, y obviamente tambien en este POST.
-
 
 Bueno ahora:
 
@@ -74,7 +79,9 @@ Mi Version desatendida de Windows XP es solamente para mis clientes, no esperen 
 
 Aqui vamos con un par de pasos:
 
-[![](http://t1.gstatic.com/images?q=tbn:ANd9GcSG4SjOnoAez9E8CGCrPTUQAD4pwMyabVMUQ8nQBrBS9JVcYMy9cQ)](http://t1.gstatic.com/images?q=tbn:ANd9GcSG4SjOnoAez9E8CGCrPTUQAD4pwMyabVMUQ8nQBrBS9JVcYMy9cQ)
+<p align="center">
+  <img src="http://t1.gstatic.com/images?q=tbn:ANd9GcSG4SjOnoAez9E8CGCrPTUQAD4pwMyabVMUQ8nQBrBS9JVcYMy9cQ" width="50%"/>
+</p>
 
 1.  En el Escritorio, click con el boton derecho sobre `Mi Pc -> Propiedades`  (O un atajo del teclado es tocar la tecla windows+pausa)
 2.  Se abrirá el menú `Propiedades del Sistema`. Leer detenidamente las siguientes partes:

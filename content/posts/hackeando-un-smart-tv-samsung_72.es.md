@@ -17,7 +17,9 @@ Entrar o cambiar la configuración en el menú de servicio sin entender el funci
   
 Bueno, voy a comenzar por partes. Lo primero que hice al tener el tele fue conectarlo a internet y tirarle un nmap para ver que es lo que tenia por detras. Encontre esto:  
 
-[![](http://1.bp.blogspot.com/-HhLR1ZtMk-w/UmNSuZuc94I/AAAAAAAAWGU/fRJm7zugnLs/s400/Pantallazo-2.png)](http://1.bp.blogspot.com/-HhLR1ZtMk-w/UmNSuZuc94I/AAAAAAAAWGU/fRJm7zugnLs/s1600/Pantallazo-2.png)
+<p align="center">
+  <img src="http://1.bp.blogspot.com/-HhLR1ZtMk-w/UmNSuZuc94I/AAAAAAAAWGU/fRJm7zugnLs/s1600/Pantallazo-2.png" width="100%"/>
+</p>
 
   
 ```
@@ -30,19 +32,20 @@ Bueno, voy a comenzar por partes. Lo primero que hice al tener el tele fue conec
 ```
   
 
-De todos esos puertos, con los que pude jugar son el 80 y el 7676. Para el resto todavia estamos trabajando en encontrar que son y que tocar ;)  
+De todos esos puertos, con los que pude jugar son el `80` y el `7676`. Para el resto todavia estamos trabajando en encontrar que son y que tocar ;)  
   
-El televisor usa el protocolo uPNP, por lo que si utilizamos alguna tool de sniffing, podemos encontrar muchas cosas con las cuales interactuar en nuestro TV.  
+El televisor usa el protocolo `uPNP`, por lo que si utilizamos alguna tool de sniffing, podemos encontrar muchas cosas con las cuales interactuar en nuestro TV.  
   
-En linux tenemos uPNP Inspector (hecha en Python) y utilizando esta tool podemos obtener una lista de eventos y métodos que expone nuestro televisor, como así también enviar y recibir comandos:  
+En linux tenemos `uPNP Inspector` (hecha en Python) y utilizando esta tool podemos obtener una lista de eventos y métodos que expone nuestro televisor, como así también enviar y recibir comandos:  
 
-[![](http://2.bp.blogspot.com/--0B8djarp9A/UmNYbMoQwbI/AAAAAAAAWGk/BivSXRhs0YU/s320/Pantallazo-UPnP+Inspector.png)](http://2.bp.blogspot.com/--0B8djarp9A/UmNYbMoQwbI/AAAAAAAAWGk/BivSXRhs0YU/s1600/Pantallazo-UPnP+Inspector.png)
+<p align="center">
+  <img src="http://2.bp.blogspot.com/--0B8djarp9A/UmNYbMoQwbI/AAAAAAAAWGk/BivSXRhs0YU/s1600/Pantallazo-UPnP+Inspector.png" width="40%"/>
+</p>
 
-  
+<p align="center">
+  <img src="http://3.bp.blogspot.com/-FzhG5G2chi4/UmNYmJozEjI/AAAAAAAAWGs/PFf19F7ljzg/s1600/Pantallazo-Invoke+Action+SetVolume.png" width="40%"/>
+</p>
 
-[![](http://3.bp.blogspot.com/-FzhG5G2chi4/UmNYmJozEjI/AAAAAAAAWGs/PFf19F7ljzg/s320/Pantallazo-Invoke+Action+SetVolume.png)](http://3.bp.blogspot.com/-FzhG5G2chi4/UmNYmJozEjI/AAAAAAAAWGs/PFf19F7ljzg/s1600/Pantallazo-Invoke+Action+SetVolume.png)
-
-  
 Con eso, estamos seteando un nivel de volumen al televisor, sin usar nuestro control remoto y mediante nuestra computadora. De esta manera, tambien podemos hacer nuestro cliente mobile para manejar el televisor desde nuestro celular  
   
 Hasta aquí una primera parte  
