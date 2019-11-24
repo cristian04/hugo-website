@@ -14,6 +14,8 @@ Allí di una charla introductoria a `Cloud Native`, en donde hicimos un repaso s
 
 Las dispositivas estan disponibles en Google Drive.
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ3hgAptkmTdMX7qXs7jA_Uht6o3pSJqlTuyM0o_WPGjFU_yvqZWw_ExmnmTS-dGjVivFndKc1lF5g9/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 Aqui pueden encontrar fotos del evento.
 
 Gracias a <a href="https://incluit.com">IncluIt</a> por haber facilitado el espacio para dicha charla.
@@ -25,8 +27,4 @@ Gracias a <a href="https://incluit.com">IncluIt</a> por haber facilitado el espa
 
 <p align="center">
 <img src="/images/mina2.jpg" width="100%"/>
-</p>
-
-<p align="center">
-<img src="/images/mina_polo.jpg" width="100%"/>
 </p>
