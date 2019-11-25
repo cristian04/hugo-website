@@ -44,7 +44,7 @@ enableEmoji = true
     maxSeeAlsoItems = 5
 
     # Custom CSS
-    custom_css = []
+    custom_css = ['google-slides.css']
     
     # Custom JS
     custom_js = []
