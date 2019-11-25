@@ -60,4 +60,4 @@ linkchecker:
   only:
   - master
   script:
-  - https://www.cristianmarquez.me -t 100 -o html
+  - linkchecker https://www.cristianmarquez.me -t 100 -o html
