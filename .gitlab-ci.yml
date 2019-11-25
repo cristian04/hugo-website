@@ -29,7 +29,7 @@ deploy:
   script:
     - aws configure set preview.cloudfront true
     - aws s3 sync ./public s3://$BUCKET_NAME --delete;
-    #- aws cloudfront create-invalidation --distribution-id $CLOUDFRONT_DIST_ID  --paths "/*";
+    - aws cloudfront create-invalidation --distribution-id $CLOUDFRONT_DIST_ID  --paths "/*";
 
   only:
   - master
