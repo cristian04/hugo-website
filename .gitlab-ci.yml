@@ -52,3 +52,12 @@ smoke-test:
     paths:
     - ./report.html
     expire_in: 1 week
+
+linkchecker:
+  image: linkchecker/linkchecker
+  stage: smoke-test
+  environment: Production
+  only:
+  - master
+  script:
+  - https://www.cristianmarquez.me -t 100 -o html
