@@ -14,7 +14,11 @@ Allí di una charla introductoria a `Cloud Native`, en donde hicimos un repaso s
 
 Las dispositivas estan disponibles en Google Drive.
 
+<div class="google-slides-container">
+
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ3hgAptkmTdMX7qXs7jA_Uht6o3pSJqlTuyM0o_WPGjFU_yvqZWw_ExmnmTS-dGjVivFndKc1lF5g9/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+</div>
 
 Aqui pueden encontrar fotos del evento.
 
