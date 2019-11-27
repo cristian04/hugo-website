@@ -28,3 +28,9 @@ La entrada es libre y gratuita
 Más info en la página de la UNSa [https://www.ing.unsa.edu.ar/servicios/cursos/item/1183-meetup-arquitectura-it-cloud-native](https://www.ing.unsa.edu.ar/servicios/cursos/item/1183-meetup-arquitectura-it-cloud-native)
 
 ![Cloud Native - Argentina](/images/Charla_Cloud_Native-01.jpg "Cloud Native - UNSA" )
+
+<div class="google-slides-container">
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSMl2lO7OQRQWlX3ydEzF74mNRvcAePwyeZdXkSlaSlgmMTgyfYmHFaW30-kuN1BzQnO439KG_K3kG_/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+</div>
