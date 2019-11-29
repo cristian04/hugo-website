@@ -4,8 +4,6 @@ const BASE_CACHE_FILES = [
     '/google-slides.css',
     '/manifest.json',
     'images/me.jpg',
-    'css/coder.css',
-    'css/coder-inverted.css',
 ];
 
 const OFFLINE_CACHE_FILES = [
