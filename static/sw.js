@@ -1,28 +1,28 @@
 const CACHE_VERSION = 2.5;
 
 const BASE_CACHE_FILES = [
-    '/style.css',
-    '/script.js',
-    '/search.json',
+    '/google-slides.css',
     '/manifest.json',
-    '/favicon.png',
+    'images/me.jpg',
+    'css/coder.css',
+    'css/coder-inverted.css',
 ];
 
 const OFFLINE_CACHE_FILES = [
-    '/style.css',
-    '/script.js',
-    '/offline/index.html',
-    '/es',
-    'es/posts',
+    '/about/',
+    '/posts/',
+    '/contact/',
+    '/es/',
+    'es/about/',
+    'es/contact/',
+    'es/posts/',
 ];
 
 const NOT_FOUND_CACHE_FILES = [
-    '/style.css',
-    '/script.js',
     '/404.html',
 ];
 
-const OFFLINE_PAGE = '/offline/index.html';
+const OFFLINE_PAGE = '/404.html';
 const NOT_FOUND_PAGE = '/404.html';
 
 const CACHE_VERSIONS = {
