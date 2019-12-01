@@ -23,3 +23,11 @@ Los componentes que estoy utilizando son:
 - Reloj rtc para guardar la hora y poder controlar las luces y la bomba de agua
 
 El codigo esta en [github](https://github.com/cristian04/jardinArduino)
+
+{{< youtube 14qnDv-UNxM >}}
+
+<p align="center">Prueba de Concepto 1</p>
+
+{{< youtube IlWC_w6Qs2w >}}
+
+<p align="center">Prueba de Concepto 2</p>
