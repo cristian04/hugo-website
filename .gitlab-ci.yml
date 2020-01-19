@@ -11,7 +11,7 @@ variables:
   GIT_SUBMODULE_STRATEGY: recursive
 
 build:
-  image: jojomi/hugo
+  image: jojomi/hugo:0.59.1
   stage: build
   script:
     - hugo
