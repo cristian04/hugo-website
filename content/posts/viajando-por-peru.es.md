@@ -67,8 +67,6 @@ Para subir tuve que encontrarme con mi guía en la plaza de armas de Aguas Calie
 
 El lugar es enorme y hay mucho para recorrer. Yo solamente hice el Machu Picchu pero también se puede ir a la puerta del sol y subir por la montaña. Este ultimo requiere una reserva por internet de al menos dos meses.
 
-{{< instagram B4X1Bh3Jrh6 hidecaption >}}
-
 Después de recorrer el mirador y las ruinas, decidí volver caminando. Esto me tomó aproximadamente 2 horas y el camino es moderado, con muchos escalones altos.
 
 Al llegar a Aguas Calientes me fui a las aguas termales que se encuentran arriba del pueblo. Ahi tienen un bar y también se pueden alquilar trajes de baño.
