@@ -18,6 +18,7 @@ disqusShortname = "cristianmarquez"
 
 enableEmoji = true
 
+enableRobotsTXT = true
 
 [params]
     author = "Cristian Márquez Russo"
