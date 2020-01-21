@@ -1,7 +1,7 @@
 ---
 title: "Opening ports with magic"
 date: 2020-01-20T07:07:27+13:00
-draft: true
+draft: false
 slug: "Opening ports with magic"
 series: [upnp]
 tags: ['my republic new zealand', 'open ports', 'upnp' , 'networking']
