@@ -1,5 +1,5 @@
 --- 
-draft: true
+draft: false
 date: 2019-11-12T03:52:10-05:00
 title: "Mis primeros hacks"
 description: ""
@@ -9,29 +9,19 @@ categories: ['relatos']
 externalLink: ""
 series: []
 ---
-Estaba charlando con un par de viajeros y me preguntaban que significa hackear y cuando fue la primera vez que lo hice...
 
-Antes que nada, tengo que aclarar algo. Sé que el termino hackear tiene una connotación negativa para la mayoría. En mi caso, mi definición de hackear es:
-
-> _aprender, analizar algo para ver y entender como funciona, y si es posible, modificarlo y mejorarlo._
-
-Una de las definiciones que más me gusta esta en el glosario de internet y dice:
-
-> **Hacker**: _Una persona que se deleita en tener una comprensión íntima del funcionamiento interno de un sistema, computadoras y redes de computadoras._ - [RFC 1392](https://tools.ietf.org/html/rfc1392)
-
-# La impresora
-
-Alrededor del año 2000, mi papá trajo a casa una impresora matricial Epson LX-300, pero al no tener computadora, era prácticamente al pedo tenerla: No se podía hacer nada.
+Alrededor del año 2000, mi papá trajo a casa una impresora matricial `Epson LX-300`, pero como la computadora no andaba, era prácticamente al pedo tenerla.
 
 ![Impresora](/images/epson-lx-300.png)
 
-Una día, me puse a probar tocando diferentes botones para ver que pasaba, hasta que encontré la magia: manteniendo el botón de `pausa` antes de prenderla hace que la impresora imprima un manual de prueba y configuración.
+Una día me puse a probar tocando diferentes botones para ver que pasaba, hasta que descubrí que manteniendo el botón de `pausa` antes de prender la impresora hacía que imprima un manual de prueba y configuración.
 
-Usando los botones de selección de fuente, avanzar y retroceder pagina, junto al botón de pausa, se podía acceder y modificar las diferentes opciones.
+Usando los botones de selección de fuente, avanzar y retroceder pagina, junto al botón de pausa, se podía acceder y modificar las opciones que mostraba el menu.
+
 
 ## Para qué me sirvió esto?
 
-Años mas tarde, mientras trabajaba arreglando computadoras en Salta, me llego un cliente con un problema relacionado con esta impresora. 
+Años mas tarde, mientras trabajaba arreglando computadoras en Salta, me llegó un cliente con un problema relacionado con esta impresora. 
 
 Por aquellos entonces, esta impresora era una de las pocas homologadas por la AFIP para la impresión de tickets fiscales.
 
@@ -41,11 +31,14 @@ Por aquellos entonces, esta impresora era una de las pocas homologadas por la AF
 
 # Conectando a la UNSa
 
-Cuando estaba estudiando en Salta, me pidieron ayuda en el centro de estudiantes de ciencias exactas (CECE) para poder conectar las computadoras a internet
+Cuando estaba estudiando en Salta, alredor del año 2005, me pidieron ayuda en el centro de estudiantes de ciencias exactas para poder conectar las computadoras a internet. Al centro de estudiantes solamente llegaba un cable desde el área de computos, y muchas veces el internet no andaba debido a problemas con el proxy.
 
-# 
+La solución que encontré fue implementar IP Aliasing, una funcionalidad que agrega una interfaz virtual a la placa de red. Esto me permitió obtener otra dirección IP. Lamentablemente esto duró poco porque los de cómputo necesitaban esa IP y tuvimos que devolverla.
 
-Aprovecho para dejar un video de un colega y mentor, Juanjo Ciarlante.
+Años después, En el 2008, mientras estudiaba Ingenieria en Computacion en la Universidad Nacional de Córdoba, tuve la oportunidad de asistir a una charla que dictó Juan Jose Ciarlante, en esos momentos Site Reliabiliy Engineer de Google. Vaya casualidad cuando me enteré que él es el autor de IP Aliasing. En esa charla también aprendí sobre las complejidades de operar sistemas distribuidos a escala global.
+
+Dejo una charla de Juanjo en donde habla sobre Permiso para hackear.
+
 
 {{<youtube RoXoerNW3zY>}}
 

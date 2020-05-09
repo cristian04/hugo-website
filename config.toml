@@ -34,7 +34,7 @@ enableRobotsTXT = true
     hideCopyright = false
 
     # Git Commit in Footer, uncomment the line below to enable it.
-    # commit = "https://github.com/cristian04/hugo-website/commits/master"
+    commit = "https://github.com/cristian04/my-blog-using-hugo/commits/master"
 
     rtl = false
     
@@ -60,14 +60,24 @@ enableRobotsTXT = true
     weight = 1
     url = "https://github.com/cristian04"
 [[params.social]]
+    name = "Gitlab"
+    icon = "fab fa-gitlab"
+    weight = 2
+    url = "https://gitlab.com/cristian04"
+[[params.social]]
+    name = "DockerHub"
+    icon = "fab fa-docker"
+    weight = 3
+    url = "https://hub.docker.com/u/cristian04"
+[[params.social]]
     name = "Twitter"
     icon = "fab fa-twitter"
-    weight = 3
+    weight = 4
     url = "https://twitter.com/cmarquezrusso"
 [[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin"
-    weight = 4
+    weight = 5
     url = "https://www.linkedin.com/in/cristianmarquezrusso"
 
 
