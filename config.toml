@@ -79,6 +79,11 @@ enableRobotsTXT = true
     icon = "fab fa-linkedin"
     weight = 5
     url = "https://www.linkedin.com/in/cristianmarquezrusso"
+[[params.social]]
+    name = "YouTube"
+    icon = "fab fa-youtube"
+    weight = 6
+    url = "https://www.youtube.com/user/cristian04salta"
 
 
 [languages]
