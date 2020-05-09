@@ -1,5 +1,4 @@
 baseurl = "https://www.cristianmarquez.me"
-title = "Cristian Márquez Russo"
 
 theme = ["hugo-notice","hugo-cloak-email","hugo-coder"]
 googleAnalytics = "UA-66128333-1"
@@ -21,10 +20,6 @@ enableEmoji = true
 enableRobotsTXT = true
 
 [params]
-    author = "Cristian Márquez Russo"
-    description = "I post about technology and trips"
-    keywords = "Cloud, Docker, Kubernetes, Trips, Travel, Holidays"
-    info = "A blog about tech, trips and random stuff."
     moreposts = "Hay mas contenido en Español"
     footercontent = "🐇"
 
@@ -88,6 +83,11 @@ enableRobotsTXT = true
 
 [languages]
     [languages.en]
+        author = "Cristian Márquez Russo"
+        title = "Cristian Márquez Russo | Tech and Travel"
+        description = "I post about tech, trips and random stuff"
+        keywords = "Cloud, Docker, Kubernetes, Trips, Travel, Holidays, New Zealand, Argentina"
+        info = "A blog about tech, trips and random stuff."
         avatarurl = "/images/me.jpg"
 
         languagename = "English"
@@ -114,15 +114,15 @@ enableRobotsTXT = true
 
 
     [languages.es]
-        avatarurl = "/images/me2.jpg"
+        title = "Cristian Márquez Russo | Viajes y Tecnología"
         languagename = "Español"
-        title = "Cristian Márquez Russo"
+        author = "Cristian Márquez Russo"
 
         [languages.es.params]
-            author = "Cristian Márquez Russo"
-            info = "Un blog sobre tecnología, viajes y cosas random."
-            description = "Sitio con informacion sobre tecnologia y viajes."
-            keywords = "devops, site reliabilty engineer, trips"
+            description = "En este blog van a encontrar noticias sobre tecnologia, algunos de mis viajes y relatos."
+            keywords = "Cloud, Docker, Kubernetes, Trips, Travel, Holidays, New Zealand, Argentina"
+            info = "A blog about tech, trips and random stuff."
+            avatarurl = "/images/me2.jpg"
             moreposts = "There is more content in English"
             footercontent = "🐇"
 
