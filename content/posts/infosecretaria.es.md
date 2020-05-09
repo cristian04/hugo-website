@@ -2,6 +2,9 @@
 title: "El día que casi me rajan"
 date: 2020-05-08T05:20:55+12:00
 draft: false
+slug: el dia que casi me rajan
+categories: [Relatos]
+tags: [msn, bot]
 ---
 
 Para los que se acuerdan del Messenger (MSN) les voy a contar una anécdota que casi me costó el trabajo.
@@ -9,23 +12,23 @@ Para los que se acuerdan del Messenger (MSN) les voy a contar una anécdota que 
 ![Messenger](/images/msn.jpeg "MSN")
 
 
-Por el año 2007 el MSN estaba en todos lados, era la herramienta mas usada de comunicación. Durante ese entonces yo estaba trabajando como programador en una startup en Córdoba. Tuve la suerte que el dueño siempre tenia ideas nuevas y muy copadas. En ese momento preguntó si era posible hacer un sistema que se conecte con el MSN y, después de un par de pruebas (wireshark <3), terminamos desarrollando un SDK para generar bots. Fué el primero a nivel mundial [^1] 
+Por el año 2007 el MSN estaba en todos lados, era la herramienta mas usada de comunicación. Por ese entonces yo estaba trabajando como programador en una startup en Córdoba. Tuve la suerte que el dueño siempre tenia ideas nuevas y muy copadas. En ese momento preguntó si era posible hacer un sistema que se conecte con el MSN y, después de un par de pruebas (wireshark :heart: ), terminamos desarrollando un SDK para generar bots. Fué el primero a nivel mundial [^1] 
 
 [^1]: Info incomprobable. Había un par de SDK chinos pero eran prehistoricos y habian sido discontinuados.
 
 El primer proyecto de este SDK fue crear un asistente virtual para un cliente cordobés. Este proyecto mandaba alertas con las noticias de negocios y contactos locales. Fué bastante revolucionario en su momento y cada día se sumaba mas gente :)
 
-Un día se me ocurrió la genial idea de hacerle una broma a un compañero del área de marketing. Cambié mi nombre y mi foto de perfil del MSN, imitando al asistente virtual. Le escribí y le puse:
+Un día se me ocurrió la genial idea de hacerle una broma a un compañero del área de marketing. Cambié mi nombre y mi foto de perfil del MSN, imitando al asistente virtual. Por aquel entonces era muy facil hacer este tipo de `phising`. Le escribí y le puse:
 
--- "Sabias que ABC invertirá 10 millones de dólares en Argentina?"
+-- "Sabías que ABC invertirá 10 millones de dólares en Argentina?"
 
-**ABC** era el principal competidor de la empresa 😈  
+**ABC** era el principal competidor de la empresa :smiling_imp: 
 
 Hice lo mismo con dos compañeros más. Les mandé mensajes al estilo "Sabías que 2 y 2 son 4 y 4 y 2 son 6?" hasta que empezaron a decir "Algo le pasa al bot, se volvió loco"
 
 Les recuerdo que todo esto era saliendo desde mi MSN personal, no había riesgos. Se podía ver mi email en el chat pero al tener todo con el estilo del asistente era dificil ver la diferencia. Cuando se dieron cuenta se cagaron de risa y me dijeron. **Mandale esto a "Miguel" (El dueño)**
 
-Miguel estaba de viaje por Buenos Aires pero estaba conectado 😈 Vinieron _todos_ a mi computadora para ayudarme. Teníamos que pensar muy bien en el contenido para que caiga. Escribí el mensaje y lo mandé. El mensaje decía algo así:
+Miguel estaba de viaje por Buenos Aires pero estaba conectado :smiling_imp: Vinieron _todos_ a mi computadora para ayudarme. Teníamos que pensar muy bien en el contenido para que caiga. Escribí el mensaje y lo mandé. El mensaje decía algo así:
 
 > "Hola, sabías que ABC inagurará 3 oficinas en Argentina? Después de haber recibido una inversión de más de 10 millones de dólares, ABC piensa extender su presencia en Lationamérica."
 
@@ -53,4 +56,4 @@ Apenas se cortó, todo el mundo me miró y me dijo _"Hay Saltita, estás en el h
 
 Al final, "Miguel" se comunicó con el cliente, pidió disculpas y les dijó que fue una joda del equipo. Volvió a los pocos días y nos reíamos de la situación. 
 
-Él aprendió a tranquilizarse, y yo a no usar mi cuenta personal para bromas.
+Él aprendió a tranquilizarse, y yo a no boludear tanto.

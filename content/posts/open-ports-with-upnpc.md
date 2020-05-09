@@ -92,7 +92,3 @@ nc <public-ip> 3128
 Some ISP's, like [MyRepublic](https://support-nz.myrepublic.net/hc/en-us/articles/218141743-Setting-up-a-port-forwarding-rule), require a **Static Public IP** to enable **port-forwarding**. This is due to [Carrier-Grade NAT (CGN)](https://en.wikipedia.org/wiki/Carrier-grade_NAT) restrictions.
 
 {{% /notice %}}
-
-
-
-
