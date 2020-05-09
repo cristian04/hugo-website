@@ -14,7 +14,7 @@ build:
   image: jojomi/hugo:0.59.1
   stage: build
   script:
-    - hugo
+    - hugo --minify --enableGitInfo
   artifacts:
     paths:
     - public/
