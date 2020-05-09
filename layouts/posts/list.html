@@ -1,0 +1,21 @@
+{{ define "title" }}
+  {{ .Title }} · {{ .Site.Title }} 
+{{ end }}
+{{ define "content" }}
+
+  <section class="container list">
+
+    <span style="float:right;">{{.Site.Params.MorePosts}} <i class="fa fa-arrow-up" aria-hidden="true"></i>
+    </span>
+
+    <h1 class="title">{{ .Title }} </h1>
+
+    <ul>
+      {{- range .Paginator.Pages -}}
+        {{- .Render "li" -}}
+      {{- end -}}
+    </ul>
+
+    {{ partial "pagination.html" . }}
+  </section>
+{{ end }}

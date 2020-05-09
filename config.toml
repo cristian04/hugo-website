@@ -24,8 +24,8 @@ enableRobotsTXT = true
     author = "Cristian Márquez Russo"
     description = "I post about technology and trips"
     keywords = "Cloud, Docker, Kubernetes, Trips, Travel, Holidays"
-    info = "Technology and Trips"
-    avatarurl = "/images/me.jpg"
+    info = "A blog about tech, trips and random stuff."
+    moreposts = "Hay mas contenido en Español"
     footercontent = "🐇"
 
     dateformat = "January 2, 2006"
@@ -37,9 +37,8 @@ enableRobotsTXT = true
     # commit = "https://github.com/cristian04/hugo-website/commits/master"
 
     rtl = false
-
-    # Use inverted colors
-    inverted = true
+    
+    colorscheme = "auto"
 
     # Series see also post count
     maxSeeAlsoItems = 5
@@ -74,6 +73,8 @@ enableRobotsTXT = true
 
 [languages]
     [languages.en]
+        avatarurl = "/images/me.jpg"
+
         languagename = "English"
 
         [[languages.en.menu.main]]
@@ -98,14 +99,16 @@ enableRobotsTXT = true
 
 
     [languages.es]
+        avatarurl = "/images/me2.jpg"
         languagename = "Español"
         title = "Cristian Márquez Russo"
 
         [languages.es.params]
             author = "Cristian Márquez Russo"
-            info = "Tecnología y Viajes"
+            info = "Un blog sobre tecnología, viajes y cosas random."
             description = "Sitio con informacion sobre tecnologia y viajes."
             keywords = "devops, site reliabilty engineer, trips"
+            moreposts = "There is more content in English"
             footercontent = "🐇"
 
         [languages.es.menu]
