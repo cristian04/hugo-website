@@ -19,7 +19,7 @@ He estado limpiando mi huella digital con las siguientes herramientas:
 - Facebook:
   - Archivar / eliminar mensajes: encontré un `gist` para archivar y eliminar mensajes de Facebook. Está disponible en [github](https://gist.github.com/tedmiston/c7ac401da96b55022aaf) y solo requiere javascript en la barra de direcciones.
 
-- Twitter: actualmente estoy usando [semiphemeral](https://github.com/micahflee/semiphemeral) para eliminar viejos tweets.
+- Twitter: actualmente estoy usando [semiphemeral](https://github.com/micahflee/semiphemeral) para eliminar tweets viejos.
 
 ¡A partir de ahora, publicaré más a menudo y, posiblemente, en dos idiomas!
 

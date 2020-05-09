@@ -8,13 +8,9 @@ series: []
 tags: [el desafio, relatos]
 ---
 
-Hace unos días envíe una carta al diario __El Tribuno de  Salta__, para ser publicada en la sección __carta  al  lector__. Ahí comentaba un poco el cómo me inicié con mi carrera, y principalmente, agradecía el espacio y tiempo que me brindo mi profesor de computación: __Luis Lefort__, como así también al colegio __Salesiano de Salta__  
+En mi cabeza tengo 3 o 4 recuerdos que me inspiraron a meterme en informática.
 
-Todo esto nace cuando me preguntan como arranque y mis amigos no me creen cuando les cuento que no tuve pc hasta el año 2012.
-
-# Por qué computación 
-
-En mi cabeza tengo 3 o 4 recuerdos que me inspiraron a meterme. El primero es estar en el trabajo de mi papá (__Pedro Márquez__, quien en ese momento trabajaba en el __Consejo General de Educación de Salta__) Por esa altura tenía unos 7 u 8 años y me sentaron en una máquina con el monitor monocromático en verde, con un editor de texto "para jugar". No pasó mucho tiempo que me embole de escribir, y leyendo la pantalla logré salir del programa y acceder a otros. Se asustaron.  
+El primero es estar en el trabajo de mi papá (__Pedro Márquez__, quien en ese momento trabajaba en el __Consejo General de Educación de Salta__) Por esa altura tenía unos 7 u 8 años y me sentaron en una máquina con un monitor monocromático verde, con un editor de texto "para jugar". No pasó mucho tiempo que me embolé de escribir, y leyendo la pantalla logré salir del programa y acceder a otros. Se asustaron.  
 
 El otro recuerdo es una película. __Los exploradores__, donde unos chicos inventan un programa que les permite armar una nave y viajar.  
 
@@ -22,39 +18,43 @@ Por último, otra película llamada __Juegos de Guerra__, en donde un chango ent
 
 # La Sala
 
-Cuando estaba arrancando 3° o 4°  grado se empezaba a armar la __sala de computación__ en el Salesiano. Las clases no eran de programación ni de reparación. 
+Cuando estaba arrancando 3° o 4°  grado se empezaba a armar la __sala de computación__ en el Salesiano.
 
-A veces veíamos imágenes de como era la Compu por dentro o como entrar y salir de windows ( el 3.1) y la mayoría de las veces íbamos a escribir en un procesador de texto o copiar lo que decían las enciclopedias. Un desperdicio.  
+Las clases no eran de programación ni de reparación. A veces veíamos imágenes de como era la Compu por dentro o como entrar y salir de windows ( el 3.11) y la mayoría de las veces íbamos a escribir en un procesador de texto o copiar lo que decían las enciclopedias. Un desperdicio.
 
-Pero gracias al profesor, muchas veces iba en los recreos y ututeaba que podía aprender. Hice el tutorial de __Windows 3.1__ y en 30 minutos ya entendía varias cosas. 
+Pero gracias al profesor, muchas veces iba en los recreos y ututeaba para ver que podía aprender. Hice el tutorial de __Windows 3.11__ y en 30 minutos ya entendía lo basico.
 
-Después leí el `help` en `MS-DOS` y empecé a ver cada comando, hasta que encontré el `QBasic`. Ahí arrancó otra etapa, en donde aprendí a programar.  
+Después leí el `help` en `MS-DOS` y empecé a ver cada comando, hasta que encontré el `QBasic`. Ahí arrancó la etapa en donde aprendí a programar.  
 
-En ese momento éramos tres los nerds: `Angel Valdez`, el profesor y yo.  
+En ese momento éramos tres los nerds: `Angel Valdez`, `Luis` y yo.  
 
-Arrancamos haciendo programas matemáticos, y terminamos en intentos de videojuegos. 
+Arrancamos haciendo programas matemáticos, y terminamos con algunos intentos de videojuegos. 
 
-Ahí también aprendí a meter mano en `3D Studio.`
+Ahí también aprendí a meter mano en `3D Studio` , entender como funcionaba el DOS y hasta hacer redes usando el puerto de la impresora LPT1.
+
+Sumado a eso, empece a ir a `La Ventana Joven`, una agrupación sin fines de lucro que se organizaba en el colegio y que repartia revistas gratuitas sobre las misiones salesianas. Ahí aprendí sobre diseño gráfico usando *Corel Draw* y a compaginar revistas, además del PCFutbol y FIFA.
+
 
 # Trabajando
 
-Unos años después estaba en el secundario y las puertas de la sala seguían abiertas. 
+Unos años después estaba en el secundario y las puertas de la sala seguían abiertas.
 
-Aprendía linux (conectiva) y programaba en `PHP`. 
+A eso de los 16 años tenía clientes para reparaciones y empezaba el boom de los cibers. Aprendí a armar redes y servidores
 
-A eso de los 14 o 15 años tenía clientes para reparaciones y empezaba el boom de los cibers. Aprendí a armar redes y servidores.  
+Ya en los ultimos años del secundario conocí a `Miguel Toro`. El me abrió las puertas de `Edinor`, un ciber de Salta que también hacia servicio tecnico. Ahi aprendí mas linux (conectiva) y programaba en `PHP` (php-nuke)
 
-También conocí a `José BJ Jiménez`, otro técnico ututo que me abrió las puertas de su casa para que ututee en su máquina. Ahí le metimos más mano a linux.
+También conocí a `José BJ Jiménez`, otro técnico ututo que me abrió las puertas de su casa para que ututee en su máquina. Ahí le metimos más mano a linux y eramos los tecnicos oficiales de la zona sur de Salta.
 
-# Desafío
+## El Desafío
+------
 
-Lo más importante en todo esto que les acabo de contar es una sola GRAN cosa: la disponibilidad  en  el  espacio  y  tiempo  para  que  alguien  pueda  aprender. 
+Lo más importante en todo esto que les acabo de contar es: la disponibilidad  en  el  espacio  y  tiempo  para  que  alguien  pueda  aprender.
 
-Personalmente este post es para agradecer a estas personas por eso.  
+Personalmente este post es para agradecer a todas estas personas por eso. Por haberme permitido aprender.
 
-Considero que estas dedicaciones deberían darse siempre y todos deberíamos hacerlo. 
+Considero que estas dedicaciones deberían darse siempre y todos deberíamos hacerlo.
 
-Sería muy lindo ver que se enseñe programación básica a chicos de 8 años. Que puedan inventar cosas con arduino, con luces y sonido. 
+Sería muy lindo ver que se enseñe programación básica a chicos de 8 años. Que puedan inventar cosas con arduino, con luces y sonido. Que puedan inventar sus propios juegos.
 
 Este post es plantear este desafío para el que lo lee, y un MUCHAS GRACIAS por hacerlo.
 

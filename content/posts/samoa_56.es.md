@@ -61,10 +61,6 @@ To Sua Ocean Trench
 Un cangrejo de Coco
 
 <p align="center">
-  <img src="https://1.bp.blogspot.com/-5mWIe6wELxk/VzOOhUfPn5I/AAAAAAAAidU/rUHfynveA_UQoxvjF7875o_mQV1bI47HgCLcB/s1600/DSCN2336.JPG" width="100%"/>
-</p>
-
-<p align="center">
   <img src="https://2.bp.blogspot.com/-13f8Rus4pao/VzOOiy9rXHI/AAAAAAAAidY/3jYeGyma1BkbWhbsJvjMmxzXcAmldnimACLcB/s1600/DSCN2343.JPG" width="100%"/>
 </p>
 
@@ -86,7 +82,6 @@ Un cangrejo de Coco
 
 Una de las fales en donde me quede. Esto era en la otra isla, Savaii 
 
-[![](https://1.bp.blogspot.com/-HPE6WLRL0vg/VzOOnQHjHTI/AAAAAAAAids/vJwusF4N-FYRphrGJ7PM8h2ZK9YTyronwCLcB/s400/DSCN2757.JPG)]()
 
 <p align="center">
   <img src="https://1.bp.blogspot.com/-HPE6WLRL0vg/VzOOnQHjHTI/AAAAAAAAids/vJwusF4N-FYRphrGJ7PM8h2ZK9YTyronwCLcB/s1600/DSCN2757.JPG" width="100%"/>
@@ -127,33 +122,27 @@ Los chicos con los que hice comida a la canasta con el pollo que me habia sobrad
 </p>
 
 
-[![](https://1.bp.blogspot.com/-EzELm2kSX98/VzOOybEcRhI/AAAAAAAAieM/NbD5KKSWQkwETLtAYaVEpl93ugoLNLMLQCLcB/s400/IMG_20151226_201112.jpg)]()
+Mis sobrinas samoanas !jaja 
 
-Mis sobrinas!jaja 
 
-[![](https://4.bp.blogspot.com/-PhGddP7p4tE/VzOO0ref2-I/AAAAAAAAieY/RriEUZNJb7gGrIaVA4zU4VRfOkd7cpXPQCLcB/s400/IMG_20151229_182847.jpg)](https://4.bp.blogspot.com/-PhGddP7p4tE/VzOO0ref2-I/AAAAAAAAieY/RriEUZNJb7gGrIaVA4zU4VRfOkd7cpXPQCLcB/s1600/IMG_20151229_182847.jpg)
+<p align="center">
+  <img src="https://4.bp.blogspot.com/-PhGddP7p4tE/VzOO0ref2-I/AAAAAAAAieY/RriEUZNJb7gGrIaVA4zU4VRfOkd7cpXPQCLcB/s400/IMG_20151229_182847.jpg" width="100%"/>
+</p>
 
 Gaby y Coti, un par de Cordobeses que conoci por alla
 
-[![](https://2.bp.blogspot.com/-UWfnQkBFmFQ/VzOO0UK8V9I/AAAAAAAAieU/YZkJnTe98OUWwK07pslqL2JmyX7ixzTcACLcB/s400/IMG_20151230_151219.jpg)](https://2.bp.blogspot.com/-UWfnQkBFmFQ/VzOO0UK8V9I/AAAAAAAAieU/YZkJnTe98OUWwK07pslqL2JmyX7ixzTcACLcB/s1600/IMG_20151230_151219.jpg)
-
-Jugando al Take 2
-
-[![](https://3.bp.blogspot.com/-PytWLe2AQCw/VzOO0ylXUzI/AAAAAAAAiec/AWaVrw3Ndlo3QCRYdSOJ1o4yn2pACku9wCLcB/s400/IMG_20151231_121257.jpg)](https://3.bp.blogspot.com/-PytWLe2AQCw/VzOO0ylXUzI/AAAAAAAAiec/AWaVrw3Ndlo3QCRYdSOJ1o4yn2pACku9wCLcB/s1600/IMG_20151231_121257.jpg)
-
-Dia de Kayak
-
-[![](https://1.bp.blogspot.com/-CJsUtz7N9bE/VzOO2K50fUI/AAAAAAAAieg/i3RAfRfpxq8YM4pmNZecAW78zmOn38MbwCLcB/s400/IMG_20151231_223034.jpg)](https://1.bp.blogspot.com/-CJsUtz7N9bE/VzOO2K50fUI/AAAAAAAAieg/i3RAfRfpxq8YM4pmNZecAW78zmOn38MbwCLcB/s1600/IMG_20151231_223034.jpg)
+<p align="center">
+  <img src="https://1.bp.blogspot.com/-CJsUtz7N9bE/VzOO2K50fUI/AAAAAAAAieg/i3RAfRfpxq8YM4pmNZecAW78zmOn38MbwCLcB/s400/IMG_20151231_223034.jpg" width="100%"/>
+</p>
 
 Festejando año nuevo con un uruguayo y dos chicas q recien llegaban y ni idea de donde eran
 
-[![](https://3.bp.blogspot.com/-Ftfxxy1oPXE/VzOO2U9SzvI/AAAAAAAAiek/yo7-i_VxJV0-wQGQX5_lKqJn7hdrpHyvwCLcB/s400/IMG_20151231_223532.jpg)](https://3.bp.blogspot.com/-Ftfxxy1oPXE/VzOO2U9SzvI/AAAAAAAAiek/yo7-i_VxJV0-wQGQX5_lKqJn7hdrpHyvwCLcB/s1600/IMG_20151231_223532.jpg)
+<p align="center">
+  <img src="https://3.bp.blogspot.com/-Ftfxxy1oPXE/VzOO2U9SzvI/AAAAAAAAiek/yo7-i_VxJV0-wQGQX5_lKqJn7hdrpHyvwCLcB/s400/IMG_20151231_223532.jpg" width="100%"/>
+</p>
 
 El mejor mozo de la historia
 
-[![](https://3.bp.blogspot.com/-UIXz5YPbAtY/VzOO2ediW1I/AAAAAAAAieo/3_JTa2BhYgAoqqFwt2BF_xLPj-1quJEbgCLcB/s400/IMG_20151231_223604.jpg)](https://3.bp.blogspot.com/-UIXz5YPbAtY/VzOO2ediW1I/AAAAAAAAieo/3_JTa2BhYgAoqqFwt2BF_xLPj-1quJEbgCLcB/s1600/IMG_20151231_223604.jpg)
-
-Unos chicos ingleses que conoci y a los dos dias se comprometieron (por eso la felicidad de ella! jaja)
 ---
 ### Comments:
 #### que grande cuki marques ruso!!!dan ganas de irse p...

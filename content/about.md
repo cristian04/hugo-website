@@ -4,7 +4,7 @@ date: 2019-06-23T01:25:34+12:00
 ---
 Hi there :)
 
-My name is <b>Cristian Marquez Russo</b> and I began to love IT when I was around 14 years old. I was building batch scripts and programs on QBasic back then.
+My name is <b>Cristian Marquez Russo</b> and I began to love tech when I was around 14 years old. I was building batch scripts and programs on QBasic back then.
 
 I ran my own "startup" fixing computers and building internet cafes years after. I implemented "automation scripts"  using Norton Ghost and Deep Freeze.
 
