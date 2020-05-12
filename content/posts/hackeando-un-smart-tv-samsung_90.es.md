@@ -41,7 +41,7 @@ En las primeras versiones del firmware del tv, el modo de `Hospitality Mode` nos
 ---
 ### Comments:
 #### Hola, tengo un Smart TV Samsung EH 5300 40″ y modi...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2014-05-10T14:13:54.371+12:00">May 5, 2014</time>
+[Anonymous](https://www.blogger.com "noreply@blogger.com") - <time datetime="2014-05-10T14:13:54.371+12:00">May 5, 2014</time>
 
 Hola, tengo un Smart TV Samsung EH 5300 40″ y modifique por error la opcion de AV calibration en las opciones de configuracion. Ahora la opcion figura como “failure” y desde ese momento la imagen a traves del servicio de cable se nota muy oscura y algo borrosa. Me gustaria saber si esto tiene solucion y si se puede recalibrar. Probe con algunas imagenes a traves de un DVD, pero no logro recalibrarlo. Tambien tengo un Smart TV Samsung EH 5300 46" y no tiene ningu problema.
 <hr />
@@ -51,7 +51,7 @@ Hola, tengo un Smart TV Samsung EH 5300 40″ y modifique por error la opcion de
 Debes desactivar el Hotel Option, para que puedas habilitar nuevamente la opción de AV calibration
 <hr />
 #### Hola como están. Espero que alguien me pueda ayuda...
-[PAtto_UY]( "noreply@blogger.com") - <time datetime="2014-06-26T14:53:09.249+12:00">Jun 3, 2014</time>
+[PAtto_UY](https://www.blogger.com "noreply@blogger.com") - <time datetime="2014-06-26T14:53:09.249+12:00">Jun 3, 2014</time>
 
 Hola como están. Espero que alguien me pueda ayudar. Tengo un Smart TV Samsung UN40EH5300, Tenia problemas con el WI-FI y entre al menú oculto para restaurar y sin querer cambie una opción que se quedo como cargando, pasaron un par de minutos y seguía, la intente apagar pero no asía nada desde el control ni de los botones, la desenchufe de la corriente espere unos segundos y la conecte pero no hace nada, ni siquiera el LED de Stand-by enciende. Hay alguna manera de restablecer el software por complicado que sea. Les estaría muy agradecido que me pudieran ayudar. Gracias...
 <hr />
