@@ -8,7 +8,9 @@ series: []
 tags: [Servicio Tecnico, Reparacion de PC, Notebooks]
 ---
 
-[![](http://2.bp.blogspot.com/-GZL1xRaBAOg/Ujtu_7_aKpI/AAAAAAAAV_s/K8hIw7XfUD8/s200/33cba0d.jpg)](http://2.bp.blogspot.com/-GZL1xRaBAOg/Ujtu_7_aKpI/AAAAAAAAV_s/K8hIw7XfUD8/s1600/33cba0d.jpg)
+
+<img src="http://2.bp.blogspot.com/-GZL1xRaBAOg/Ujtu_7_aKpI/AAAAAAAAV_s/K8hIw7XfUD8/s200/33cba0d.jpg" alt="Android" style="float:left; width:280px; padding:10px;"/>
+
 
 En los próximos días vamos a estar arrancando con la primavera, y con ella viene un aumento notable en la temperatura. Es muy importante tener en cuenta que nuestras computadoras (escritorio y portátiles) necesitan mantenimiento para trabajar normalmente.  
 

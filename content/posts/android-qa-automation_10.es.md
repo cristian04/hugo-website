@@ -7,9 +7,9 @@ externalLink: ""
 series: []
 tags: [tutorial, testing, bdd, automated testing, qa automation, desarrollo, qa, testing automatizado de android en argentina, Robotium, Android]
 ---
-<p align="center">
-  <img src="http://3.bp.blogspot.com/-Yw_VZ0zQeqU/Udz6ITmYJWI/AAAAAAAAUxk/zV5jIN2ZOO8/s200/descarga.jpg" width="40%"/>
-</p>
+
+<img src="http://3.bp.blogspot.com/-Yw_VZ0zQeqU/Udz6ITmYJWI/AAAAAAAAUxk/zV5jIN2ZOO8/s200/descarga.jpg" alt="Android" style="float:left; width:280px; padding:10px;"/>
+
 
 Hace mas o menos 3 años arranque con desarrollo de aplicaciones en Android. Hoy quiero aprovechar mi experiencia e introducirlos en otra rama, el testing.
 
