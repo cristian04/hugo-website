@@ -45,7 +45,7 @@ Ahora una pregunta: ¿vos usas alguna extensión para trabajar?
 ---
 ### Comments:
 #### QUE BUENO LO DE GOOGLE Y TWITTER pa con la gente d...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2011-02-10T15:17:17.248+13:00">Feb 3, 2011</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2011-02-10T15:17:17.248+13:00">Feb 3, 2011</time>
 
 QUE BUENO LO DE GOOGLE Y TWITTER pa con la gente de Egipto!!! Bue.....supongo q esto si vale la pena!! pa vos q te gusta tanto las redes sociales.....en esta me prendo,siempre a favor de la reunion face to face!! Cariñosss!!
 <hr />

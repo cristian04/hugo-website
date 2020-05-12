@@ -29,7 +29,7 @@ Los resultados fueron los siguientes:
 ---
 ### Comments:
 #### tengo arnet 6 megas youtube con vídeos a 720 p se ...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2015-06-01T12:13:19.129+12:00">May 0, 2015</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2015-06-01T12:13:19.129+12:00">May 0, 2015</time>
 
 tengo arnet 6 megas youtube con vídeos a 720 p se corta a cada rato para cargar
 <hr />

@@ -131,7 +131,7 @@ Also, you should remove all `Debug` tracing calls that you added to your code,
 ---
 ### Comments:
 #### Deberias informar a santander rio de esto
-[Anonymous]( "noreply@blogger.com") - <time datetime="2013-11-10T07:45:28.308+13:00">Nov 6, 2013</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2013-11-10T07:45:28.308+13:00">Nov 6, 2013</time>
 
 Deberias informar a santander rio de esto
 <hr />

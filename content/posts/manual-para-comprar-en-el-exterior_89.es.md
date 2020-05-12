@@ -110,7 +110,7 @@ En cuanto a los costos, el kit de display + digitalizador + gorila glass + carca
 Saludos!
 <hr />
 #### Como era el sistema antes de esta nueva ley? Por q...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2014-04-21T14:08:13.379+12:00">Apr 0, 2014</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2014-04-21T14:08:13.379+12:00">Apr 0, 2014</time>
 
 Como era el sistema antes de esta nueva ley? Por que ahora me suena que hay que dar muchas vueltas :S y hay que pagar otros costos ademas de la del producto y el envio, no? si es asi cuanto es mas o menos lo que se debe pagar por que estoy confundida... Gracias...
 <hr />
@@ -182,7 +182,7 @@ Hola Cristian.
 Una consulta, quien te dio el Numero de Seguimiento de Argentina? Yo tengo una compra y el unico numero de seguimiento que tengo hasta ahora es el de Singapore... Gracias Saludos
 <hr />
 #### Hola, muy buen post, yo antes compraba en el exter...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2014-06-05T01:45:37.551+12:00">Jun 3, 2014</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2014-06-05T01:45:37.551+12:00">Jun 3, 2014</time>
 
 Hola, muy buen post, yo antes compraba en el exterior, q presentas como factura?
 <hr />
@@ -258,7 +258,7 @@ Saludos y suerte!
 en realidad soy de bs as,jaja gracias por contestar, estaba viendo que para sacar el formulario de la afip necesito tener nivel 2 pero no soy mono (tributista) ni nada no tengo un joraca pago a nombre mio de nada de nada! como cuernos hago? serviria de algo lo que pague en aduana de bs as cuando me mandaron hardware? eso esta registrado? y si sirve como consigo el comprobante o hago el tramite. gracias creo que ya es mucho pedir :P
 <hr />
 #### Que es el invoice que hay que presentar cuando uno...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2014-08-12T12:36:26.562+12:00">Aug 1, 2014</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2014-08-12T12:36:26.562+12:00">Aug 1, 2014</time>
 
 Que es el invoice que hay que presentar cuando uno compra a ebay?  
 Gracias.
@@ -269,7 +269,7 @@ Gracias.
 La factura que te mandan a email
 <hr />
 #### Hola Cristian. Al completar el formulario 4550, ¿C...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2014-09-01T03:08:24.274+12:00">Aug 0, 2014</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2014-09-01T03:08:24.274+12:00">Aug 0, 2014</time>
 
 Hola Cristian. Al completar el formulario 4550, ¿Cómo ingresaste los datos del KIT? . Porque éste formulario pide ingresar los datos individuales de cada producto (tipo, precio, cantidad) y entiendo que el KIT incluye a todos sin discriminar individualmente cada uno de ellos.  
 Gracias
@@ -290,7 +290,7 @@ hola cristian yo solo quiero comprar una linterna que sale 22 dolares.. tambien 
 Si che.. un embole
 <hr />
 #### Una pregunta: por qué no pusiste que sí en la fran...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2014-09-30T15:25:02.508+13:00">Sep 1, 2014</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2014-09-30T15:25:02.508+13:00">Sep 1, 2014</time>
 
 Una pregunta: por qué no pusiste que sí en la franquicia? No te hacían un descuento de 25 dolares si ponías que sí?
 <hr />
@@ -310,14 +310,14 @@ Buenas.. el 50% es sobre el producto o el total del producto mas el envío?
 Che exelentes datos me estan por mandar un celulara desde españa le pedi me mande la factura no se como podre generar el vep ya que el articulo lo paga mi tio de españa le dije me mande la factura si o si por mail y en el paquete, se te ocurre qu eme puedan hacer lios??? gracias
 <hr />
 #### Hola cristian! yo compre en aliexpress un mouse qu...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2014-12-30T02:38:31.776+13:00">Dec 1, 2014</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2014-12-30T02:38:31.776+13:00">Dec 1, 2014</time>
 
 Hola cristian! yo compre en aliexpress un mouse que aca sale 500 pesos a 4.90 USD Y un pendrive con tarjeta sd 32 gb y adaptador a 7 USD... lo hice ayer a la noche con tarjeta visa, ahora que hago? me van a llamar para ir a buscarlo? lleno todos los papeles y blablabla y despues voy? y como es eso de los impuestos, el total de mi compra seria de 100 pesos por ahi, me van a cobrar 50 pesos? o como es...  
 Gracias gabriel!  
 \-Ulises
 <hr />
 #### Hola!Queria saber si pudiste traer tu celular de e...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2015-01-28T06:20:41.699+13:00">Jan 2, 2015</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2015-01-28T06:20:41.699+13:00">Jan 2, 2015</time>
 
 Hola!Queria saber si pudiste traer tu celular de españa. Yo tambien me quiero comprar un celular de españa, un conocido me lo mandaria por correo.Tuviste algun problema??Como has hecho??Gracias. Saludos cordiales.
 <hr />
@@ -354,7 +354,7 @@ This comment has been removed by the author.
 Hola Cristian, necesitaría asesoramiento con algunas dudas que tengo para realizar toda la tramitación para ir a retirar envios procedentes del extranjero (Compras en China y Australia). Si aún dominás el tema como veo en tu Manual para Comprar en el Exterior, necesitaria de tu ayuda referida a la documentación de las compras que hice hace pocos dias. Soy del interior de Santa Fe y mis vias de contacto: mvm.pautasso@gmail.com y mvmap@arnet.com.ar. Desde ya te agradezco tu atención. Miguel
 <hr />
 #### Hola Cristina, te hago una consulta, tema celulare...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2015-04-25T19:54:20.427+12:00">Apr 6, 2015</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2015-04-25T19:54:20.427+12:00">Apr 6, 2015</time>
 
 Hola Cristina, te hago una consulta, tema celulares. ¿sabes si llegan completos o le sacan los cargadores? ¿si pido que el envio lo hagan por fedex o algun repartidor los tramites los hacen ellos o igualmente tengo que ir a aduana? soy de Rosario, ¿tendria por logica que ir a la aduana correspondiente a mi localidad no?  
 Gracias
@@ -370,7 +370,7 @@ This comment has been removed by the author.
 Cristian, buenas tardes, hace 2 meses hice una compra en DX, se genero un solo pedido pero el problema es que desde origen me enviaron 3 paquetes de los cuales 2 llegaron hace 10 días y los pude retirar sin problemas y hoy el correo me avisa q llego el parcial que faltaba, la consulta es: "Lo voy a poder retirar de la aduana??" Aguardo tu repuesta por si o por No, Gracias Saludos. Juan C mi email es jcrodriguez81@hotmail.com
 <hr />
 #### Hola saludos a todos n ecios que iguran e...una pr...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2015-04-30T15:51:10.738+12:00">Apr 4, 2015</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2015-04-30T15:51:10.738+12:00">Apr 4, 2015</time>
 
 Hola saludos a todos n ecios que iguran e...una pregunta los precios que figuran en ETradesuppli.com...son precios en dolares o pesos...cuanto cuesta aproximadamente un envio de repuestos de celulares...?......gracias...buenas vibras
 <hr />

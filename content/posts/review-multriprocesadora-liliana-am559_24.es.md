@@ -46,7 +46,7 @@ Les aviso cualquier cosa
 Hola..veo que tambien tienes problemas con red megatone... yo estoy en bs as y hace bastante tiempo que nos tienen esperando por un Tovo lcd fallado... lo mejor que podes hacer es presentar tu caso a defensa del consumidor.
 <hr />
 #### Huy q embole!!! pero averiguate si aun te cubre la...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2011-09-16T07:43:20.552+12:00">Sep 4, 2011</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2011-09-16T07:43:20.552+12:00">Sep 4, 2011</time>
 
 Huy q embole!!! pero averiguate si aun te cubre la garantia o pedi otro producto a cambio....todo bien con tu moraleja cariño... pero los productos de otro material no salen 500 mangos =P  
 Itan

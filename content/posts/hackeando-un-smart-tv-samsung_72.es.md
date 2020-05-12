@@ -58,7 +58,7 @@ Hasta aquí una primera parte
 Hola tengo una samsung EH5300 quisiera saber como puedo activar el pvr en modo hospitality. Te agradezco la colaboración
 <hr />
 #### Hola mi smart funciona solo que no esta disponible...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2015-05-01T08:03:50.994+12:00">Apr 4, 2015</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2015-05-01T08:03:50.994+12:00">Apr 4, 2015</time>
 
 Hola mi smart funciona solo que no esta disponible la funcion de canales si funcionaba hasta que busque canales hd. Espero alguien me pueda ayudar. Gracias
 <hr />
@@ -73,7 +73,7 @@ Hola. Que tal? Tengo un problema con un samsung EH5300, cuando quiero ver canale
 Le movi y ahora no prendeee... que hagooo
 <hr />
 #### Hey sabes como activar el control por voz en la se...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2015-10-03T08:22:17.765+13:00">Oct 5, 2015</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2015-10-03T08:22:17.765+13:00">Oct 5, 2015</time>
 
 Hey sabes como activar el control por voz en la serie h6400 que viene desactivada de fabrica ???
 <hr />
@@ -88,7 +88,7 @@ hola, tengo un led 3d de 55 pulgadas, no andaba el 3d y lo reinicie, al iniciar 
 Buenas Tardes... tengo una un55f8000 y de pronto netflix dejo de funcionar y cada vez que quiero abrir me sale el error "Open method fail" he intentado de todo y no hay manera de reiniciar la app ni restaurando la configuración de fábrica... por favor su ayuda gracias...!
 <hr />
 #### Hola: le di reset (Factory Reset) a una samsung tv...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2016-09-26T10:50:30.479+13:00">Sep 0, 2016</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2016-09-26T10:50:30.479+13:00">Sep 0, 2016</time>
 
 Hola: le di reset (Factory Reset) a una samsung tv smart 5500 y ahora no aparece valida la posibilidad de emision (broadcasting) que es lo que debo hacer para volver a activarla nuevamente. En el soporte de Samsung no ayudan en lo mas minimo.  
 gracias por ayudar

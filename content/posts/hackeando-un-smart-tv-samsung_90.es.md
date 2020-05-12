@@ -56,7 +56,7 @@ Debes desactivar el Hotel Option, para que puedas habilitar nuevamente la opció
 Hola como están. Espero que alguien me pueda ayudar. Tengo un Smart TV Samsung UN40EH5300, Tenia problemas con el WI-FI y entre al menú oculto para restaurar y sin querer cambie una opción que se quedo como cargando, pasaron un par de minutos y seguía, la intente apagar pero no asía nada desde el control ni de los botones, la desenchufe de la corriente espere unos segundos y la conecte pero no hace nada, ni siquiera el LED de Stand-by enciende. Hay alguna manera de restablecer el software por complicado que sea. Les estaría muy agradecido que me pudieran ayudar. Gracias...
 <hr />
 #### hola a todos, me gustaria(si es posible), que me d...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2014-06-30T18:30:27.588+12:00">Jun 1, 2014</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2014-06-30T18:30:27.588+12:00">Jun 1, 2014</time>
 
 hola a todos, me gustaria(si es posible), que me dijeran lo que hace la opcon de panel key en al menu service mode, ya que lo cambie por error y no se como venia por defecto, tambien cambie uno que dice algo de led que esta justo debajo y tambien me gustaria saber la opcion por defecto. gracias de antemano
 <hr />
@@ -66,7 +66,7 @@ hola a todos, me gustaria(si es posible), que me dijeran lo que hace la opcon de
 Te hago una consulta, tengo un smart de 32 mod. 5500 y e inte tado borrar el historial de las aplicaciones de todas las.maneras y no puedo.
 <hr />
 #### Estimados, tengo un 40eh5300 traido desde chile y ...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2014-07-15T10:46:02.256+12:00">Jul 1, 2014</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2014-07-15T10:46:02.256+12:00">Jul 1, 2014</time>
 
 Estimados, tengo un 40eh5300 traido desde chile y quiero cambiar el pais asignado a argentina, ya que me instala siempre aplicaciones para chile, en el menu oculto no se puede cambiar el pais ya que sale en gris. Hay forma de hacerlo?, saludos.
 <hr />
@@ -77,7 +77,7 @@ Si. Proba con presionar 2, 8, 9 y el boton de rebobinar .
 Eso te muestra el menu de seleccion de pais para el Samsung Hub
 <hr />
 #### Hola quería saber como hago para apagar el televis...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2014-07-21T02:35:03.841+12:00">Jul 0, 2014</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2014-07-21T02:35:03.841+12:00">Jul 0, 2014</time>
 
 Hola quería saber como hago para apagar el televisor Samsung eh5300 para que no quede en modo stand by sin tener que desenchufarlo ya que no me permite
 <hr />
@@ -94,7 +94,7 @@ lo he desenchufado y no hace nada.
 a mi me paso lo mismo y aun no tengo solucion, tu has podido?
 <hr />
 #### ami me oaso lo mismo pero no se como desactivar el...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2014-08-07T09:45:23.875+12:00">Aug 3, 2014</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2014-08-07T09:45:23.875+12:00">Aug 3, 2014</time>
 
 ami me oaso lo mismo pero no se como desactivar el hotel option
 <hr />
@@ -135,7 +135,7 @@ Esto quizas puede servir. http://wiki.samygo.tv/index.php5?title=Ex-Link\_Cable\
 Saludos
 <hr />
 #### me pasó o mismo estaba en el menú oculto, active a...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2014-08-22T11:48:03.949+12:00">Aug 4, 2014</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2014-08-22T11:48:03.949+12:00">Aug 4, 2014</time>
 
 me pasó o mismo estaba en el menú oculto, active algo, aparecia wait, y como estaba trabada la apagué y ya no volvió a encender. Si alguien sabe como solucionar esto , se los agradecería la información.
 <hr />
@@ -150,22 +150,22 @@ Bienvenido al club. A mi me costó en Samsung más de 1500 pesos. Es cambio de m
 gracias Ari lev, si no hay remedio. no me queda de otra gracias. vivo em México, ese es el costo aproximado para repararla? Gracias por la información
 <hr />
 #### Vete al menú oculto y le das reset factory y te va...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2014-08-26T13:22:42.573+12:00">Aug 1, 2014</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2014-08-26T13:22:42.573+12:00">Aug 1, 2014</time>
 
 Vete al menú oculto y le das reset factory y te va a apagar la tele y la configuras como si fuera cuando la compraste
 <hr />
 #### hola que tal he comprado un smart tv samsung y qui...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2014-09-02T15:51:15.128+12:00">Sep 2, 2014</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2014-09-02T15:51:15.128+12:00">Sep 2, 2014</time>
 
 hola que tal he comprado un smart tv samsung y quisiera saber como es el tema para saber el estado de la memoria del televisor ya que me dice qeu tiene la mitad de la memoria disponible.. tambine me gustaria saber como se hace para borrar el historial.. y como tener una mejor forma de ingresar a los daros del televisor o archibos si es que exite eso es que soy nuevo en esto y mucho no entiendo pero por lo qeu veo es como una pc y queria saber eso..
 <hr />
 #### Hola instale una aplicacion de control remoto y ah...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2014-09-07T02:34:45.004+12:00">Sep 6, 2014</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2014-09-07T02:34:45.004+12:00">Sep 6, 2014</time>
 
 Hola instale una aplicacion de control remoto y ahora prende y apaga solo cada unos minutos que puedo hacer?
 <hr />
 #### Hola, tengo un samsung Tv f8000, a el conectado un...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2014-09-11T09:26:24.711+12:00">Sep 3, 2014</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2014-09-11T09:26:24.711+12:00">Sep 3, 2014</time>
 
 Hola, tengo un samsung Tv f8000, a el conectado un Mac mini, mi problema tiene q ver con la protección de video de Apple DRM, hace un tiempo entré en el menú oculto y lo cambie, pero alguna actualización, me la quito y ahora no recuerdo como se hace.
 <hr />
@@ -187,7 +187,7 @@ Hola tengo un smar tv y hace poco me sale solo en ingles no puedo cambiarlo y el
 Tengo un smart tv Samsung un40f6800 3D como puedo entrar al menú oculto ya que tengo lo control remoto táctil como sería la secuencia gracias
 <hr />
 #### hola me pueden ayudar tengo un smart tv UN46FH5303...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2014-10-08T14:37:51.980+13:00">Oct 2, 2014</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2014-10-08T14:37:51.980+13:00">Oct 2, 2014</time>
 
 hola me pueden ayudar tengo un smart tv UN46FH5303G lo compre en peru y lo lleve a ecuador y no recibo la señal de cable es mas solo tiene la señal aire y en el menu me pone k la opcion de sistema no esta disponible no puedo acceder para cambiar de aire a cable k puedo hacer gracias
 <hr />
@@ -202,7 +202,7 @@ hola a todos tengo un problema con la app del youtube no la puede seleccionar, t
 Hola, tengo un tv Un46H5300D y estuve curioseando en el menú oculto y le he cambiado en Front Color y ahora solo me pone error y en Type tambien le cambie. Hay alguna forma de restablecer los valores del menú oculto? De antemano muchas gracias!!!
 <hr />
 #### Pudiste solucionarlo..?? Estoy en la misma.. avisa...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2014-11-01T15:14:41.461+13:00">Oct 5, 2014</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2014-11-01T15:14:41.461+13:00">Oct 5, 2014</time>
 
 Pudiste solucionarlo..?? Estoy en la misma.. avisame
 <hr />
@@ -222,7 +222,7 @@ Hola tengo una samsung smart UN48H253 QUIERO PONERLE UN LIMITE DE BLOQUEO AL AUD
 TRABAJO DE NOCHE Y EN LA MAÑANA PRENDEN LA TV Y ES UN MARTIRIO PORFAVOR.!
 <hr />
 #### eres gay??
-[Anonymous]( "noreply@blogger.com") - <time datetime="2014-11-20T21:32:05.502+13:00">Nov 4, 2014</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2014-11-20T21:32:05.502+13:00">Nov 4, 2014</time>
 
 eres gay??
 <hr />
@@ -250,7 +250,7 @@ Hola, soy uno de esos que se meten en el menú oculto y tocan donde no deben. Mi
 Gracias.
 <hr />
 #### Vamos a ver,… mi problema es que después de varias...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2014-12-27T04:53:01.155+13:00">Dec 5, 2014</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2014-12-27T04:53:01.155+13:00">Dec 5, 2014</time>
 
 Vamos a ver,… mi problema es que después de varias semanas funcionando perfectamente, conectando a mi red wifi perfectamente, viendo pelis en streaming, utilizando sin problemas las app del smart hub, etc ... un día enciendo y resulta que no se me conecta a mi red.  
 Pensando que era culpa de mi router, lo reinicio, pero nada, seguía igual, mi sorpresa viene cuando me voy al menú configuración de red y le doy a buscar redes inalámbrica... pues resulta que no pasa de la primer pantalla, se queda en buscando redes y cuando pasa un minuto y pico, desaparece el mensaje y me quedo en el botón empezar otra vez, ni mensaje de que no hay redes, ni lista de redes ni nada ... y de ahí no lo saco, de pronto ha dejado de detectar las redes, es decir, NO VA EL WIFI, no detecta nada.  
@@ -261,7 +261,7 @@ Este texto fue sacado de internet de alguien que le sucedió exactamente lo mism
 Mi compra fue hecha 30/09/2013 en un local de GARBARINO adquiriendo una cobertura adicional a 36 meses (incluye garantía del fabricante) en la localidad de General Pico La Pampa, o sea …LA GARANTÍA VENCE EL 30/09/2016.Alguien puede saber algo del tema????? gracias....
 <hr />
 #### He desabilitado el Hotel opcion y siempre aparece ...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2014-12-28T14:03:20.437+13:00">Dec 6, 2014</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2014-12-28T14:03:20.437+13:00">Dec 6, 2014</time>
 
 He desabilitado el Hotel opcion y siempre aparece el AV calibration como Failure, y la tele aun se ve oscura y algo borroso en los canales de clable
 <hr />
@@ -286,7 +286,7 @@ Después de que los listos del ST de Samsung me dijeran por teléfono que era la
 Lo que pongo en conocimiento del personal por si alguien más trastea en el menú oculto. Y recuerdos al s.t. de Samsung.
 <hr />
 #### A mi me paso lo mismo a los 3 meses de comprarlo, ...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2015-01-07T12:20:11.475+13:00">Jan 2, 2015</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2015-01-07T12:20:11.475+13:00">Jan 2, 2015</time>
 
 A mi me paso lo mismo a los 3 meses de comprarlo, como estaba en garantia lo lleve al servicio tecnico y lo repararon en un par de dias, sin abonar una moneda. Desde ahi, un año y medio funcionando sin problemas hasta la fecha. Lei en internet que a mucha gente tambien le ha pasado lo mismo. Saludos
 <hr />
@@ -296,29 +296,29 @@ A mi me paso lo mismo a los 3 meses de comprarlo, como estaba en garantia lo lle
 Por favor ayúdame este es mi correo starkiller41@hotmail.com yo también anduve ahí y el tv tiene colores opacos y la pantalla se ve oscura y ya no se conecta internet. Quiero volver a instalar el software de fábrica.
 <hr />
 #### Alguien sabe que lleva por default una samsung UN3...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2015-01-15T08:28:39.892+13:00">Jan 3, 2015</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2015-01-15T08:28:39.892+13:00">Jan 3, 2015</time>
 
 Alguien sabe que lleva por default una samsung UN32D5550RFXZX en Type, Local Set y Front Color Option. O alguien que se pueda fijar en su pantalla  
   
 saludos
 <hr />
 #### si papi....kiero verga....
-[Anonymous]( "noreply@blogger.com") - <time datetime="2015-01-28T06:53:01.628+13:00">Jan 2, 2015</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2015-01-28T06:53:01.628+13:00">Jan 2, 2015</time>
 
 si papi....kiero verga....
 <hr />
 #### Tengo un Samsung UN40F5500AG, se enciende y apaga ...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2015-02-04T07:10:55.076+13:00">Feb 2, 2015</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2015-02-04T07:10:55.076+13:00">Feb 2, 2015</time>
 
 Tengo un Samsung UN40F5500AG, se enciende y apaga solo, ya le hice el reset de fabrica, y me descargue el ultimo firmware y lo instale por USB, nada sigue igual. El problema es que ahora ya ni siquiera consigo entrar al menú oculto con MUTE 1 8 2 Power, ni tampoco con la tecla menú del control, ya que se me apaga enseguida. Alguna idea?. Para la próxima me compro una TV china, estas smart TV Samsung son un dolor de cabeza!
 <hr />
 #### tengo un Samsung UN40D5500RG y se enciende sale el...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2015-02-04T14:24:38.732+13:00">Feb 2, 2015</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2015-02-04T14:24:38.732+13:00">Feb 2, 2015</time>
 
 tengo un Samsung UN40D5500RG y se enciende sale el logo de Samsung Smart luego la pantalla negra donde dice hdmi/dvi y se apaga y asi todo el tiempo... como hago para actualizar firmware si no da el tiempo porque se apaga
 <hr />
 #### buenas noches tengo una tv samsung UH50EH5300F ,,Y...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2015-02-04T16:54:51.478+13:00">Feb 3, 2015</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2015-02-04T16:54:51.478+13:00">Feb 3, 2015</time>
 
 buenas noches tengo una tv samsung UH50EH5300F ,,Y me metí al menú oculto,,y no se que le moví y después la tv ya no quiso encender...no hace nada quedo muerta...alguien sabe que tengo que hacer para solucionar el problema,,,,gracias a todos..espero que alguien me pueda ayudar.
 <hr />
@@ -332,12 +332,12 @@ Todo a ocurrido al actualizar el firmware......
 Alguien me puede ayudar.......??????
 <hr />
 #### A mi me paso con un smart tv serie 5 de 40", ...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2015-02-14T04:36:11.752+13:00">Feb 5, 2015</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2015-02-14T04:36:11.752+13:00">Feb 5, 2015</time>
 
 A mi me paso con un smart tv serie 5 de 40", me diagnosticaron falla en la placa main y wifi, USD 200 cambiarlas.
 <hr />
 #### Buenas, tengo un TV Led Samsung Type UN40C5000 Mod...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2015-02-23T03:08:11.025+13:00">Feb 0, 2015</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2015-02-23T03:08:11.025+13:00">Feb 0, 2015</time>
 
 Buenas, tengo un TV Led Samsung Type UN40C5000 Mode Código UN40C5000QRXZL Quisiera me colaboraran indicándome al entrar al menú secreto que referencias aparecen en Type: y en Model:  
 Gracias
@@ -349,7 +349,7 @@ Hola... En mi caso....para entrar al menu secreto.... es pulsando seguido las te
 espero que te sirva. ...
 <hr />
 #### Que puedo hacer, mi tv samsung serie 5 de 37, de u...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2015-02-25T14:37:21.093+13:00">Feb 2, 2015</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2015-02-25T14:37:21.093+13:00">Feb 2, 2015</time>
 
 Que puedo hacer, mi tv samsung serie 5 de 37, de un momento a otro a perdido la calidad de los colores, es decir, tiene mucho blanco y no se ve bien. Gracias
 <hr />
@@ -384,17 +384,17 @@ Me dijeron por TE que es un problema de los servidores de samsung, que lo estari
 This comment has been removed by the author.
 <hr />
 #### Hola, ingrese al menu oculto, en SVU, y presione u...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2015-02-27T04:06:08.815+13:00">Feb 4, 2015</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2015-02-27T04:06:08.815+13:00">Feb 4, 2015</time>
 
 Hola, ingrese al menu oculto, en SVU, y presione update. Apareció un mensaje de "wait". Luego de mucho tiempo, decidi apagar la tv. Ahora al encenderla no se ve imagen ni sonido, aunque la TV está encendida. Tampoco se ve el led rojo al borde inferior derecho. Veo que les pasó a varios. Alguien pudo resolverlo? gracias
 <hr />
 #### pudiste solucionarlo? me paso lo mismo
-[Anonymous]( "noreply@blogger.com") - <time datetime="2015-03-05T09:34:15.383+13:00">Mar 3, 2015</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2015-03-05T09:34:15.383+13:00">Mar 3, 2015</time>
 
 pudiste solucionarlo? me paso lo mismo
 <hr />
 #### Saludos, tengo un UN50H5303AG, no funciona netflix...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2015-03-12T03:13:39.559+13:00">Mar 3, 2015</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2015-03-12T03:13:39.559+13:00">Mar 3, 2015</time>
 
 Saludos, tengo un UN50H5303AG, no funciona netflix, me dice que el fabricante tiene que proporcinarme el numero ESN como consiguo o activo ese numero?, tambien como puedo cambiar el pais ya que esta fijo en chile. Entre al menu oculto: "mute+182+power" pero ahi no hay nada hacerca de ese numero ESN y tampoco me deja cambiar el pais. Gracias!.
 <hr />
@@ -414,7 +414,7 @@ A mi me pasó lo mismo. Lo lleve al servicio tecnico y me dicen que es una falla
 Por favor la página que remites esta desaparecida, me podríais indicar donde remitirme o indicarme la solución paso a paso? Muchas gracias
 <hr />
 #### Hola. Me gustaría saber como puedo conectar la cám...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2015-03-16T13:23:54.641+13:00">Mar 0, 2015</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2015-03-16T13:23:54.641+13:00">Mar 0, 2015</time>
 
 Hola. Me gustaría saber como puedo conectar la cámara de mi televisor samsung remotamente desde una pc, table o el celular. Quisiera saber que pasa cuando no estoy en casa.  
 Gracias.
@@ -500,7 +500,7 @@ amigos, disculpen , pero ya lo solucione.- era simplemente que estaba desajustad
 Tengo un Samsung UN46F6100AG, se enciende aparece el logo de SAMSUNG y se apaga solo, el problema es que ahora ya ni siquiera consigo entrar al menú oculto con MUTE 1 8 2 Power, como puedo solucionarlo?
 <hr />
 #### Hola amigos, tengo una SAMSUNG SMART TV CURVED y a...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2015-05-03T18:32:52.218+12:00">May 0, 2015</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2015-05-03T18:32:52.218+12:00">May 0, 2015</time>
 
 Hola amigos, tengo una SAMSUNG SMART TV CURVED y alguien ha entrado en ella y creo que ha sido desde una PLAYSTATION porque me han cargado dinero en mi cuenta y pone SONY ENT. NETWORK. Y después han intentado comprar por internet con mi número de tarjeta. No sé si una vez que han entrado en mi tv después se han metido en mi router y tras eso a los dispositivos que tengo conectados por wifi. Quiero proteger todos los dispositivos y me gustaría saber qué debo de hacer con la televisión, qué seguridades utilizar, si restablecer de fábrica para que se eliminen mi cuenta samsung, por si por ahí han cogido algún dato mío, password, etc. y si después de hacer eso podría usar el YOMVI sin hacerme una cuenta de samsung, o hacérmela pero con una mayor seguridad.  
 También he leído algo de la cámara de la televisión, no sé si la mía la lleva incorporada, creo que no, pero de ser así, cómo podría desactivarla por completo para que ningún hacker se metiera en ella y me pudiera ver y oir por el micrófono de la tv??  
@@ -508,17 +508,17 @@ También he leído algo de la cámara de la televisión, no sé si la mía la ll
 Gracias por adelantado, y saludos desde España.
 <hr />
 #### Mi SAMSUNG SMART TV es la UE55H8000 por si vale de...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2015-05-03T18:54:12.199+12:00">May 0, 2015</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2015-05-03T18:54:12.199+12:00">May 0, 2015</time>
 
 Mi SAMSUNG SMART TV es la UE55H8000 por si vale de mayor información.
 <hr />
 #### Hola les cuento entre al famoso menu oculto de mi ...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2015-05-04T12:40:48.708+12:00">May 0, 2015</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2015-05-04T12:40:48.708+12:00">May 0, 2015</time>
 
 Hola les cuento entre al famoso menu oculto de mi Samsung y desactive sin querer la opcion de encendido desde el control remoto y ahora no puedo ni se como activarlo porque al tratar de ingresar al menu oculto no me funciona el boton POWER ON si enciendo el tv desde el panel luego el control funciona en su totalidad y hasta se puede apagar el TV desde el control pero no encender que puedo hacer para volver a activarlo?
 <hr />
 #### Desde el menu oculto innecesariamente hice calibra...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2015-05-07T11:25:31.742+12:00">May 3, 2015</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2015-05-07T11:25:31.742+12:00">May 3, 2015</time>
 
 Desde el menu oculto innecesariamente hice calibración hdmi. desde ese momento la calidad de la imagen es muy mala (oscura, algo borrasa, color predominante el rojo) al volver a intentar hacer calibración hdmi ahora dice error o fallo. Pregunto al hacer esta operación en la entrada hdmi debe haber alguna imagen en especial
 <hr />
@@ -528,12 +528,12 @@ Desde el menu oculto innecesariamente hice calibración hdmi. desde ese momento 
 Me pasó exactamente lo mismo, pudiste solucionarlo???? :(
 <hr />
 #### Hola, yo tengo un led de 48" smart 3d, el tem...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2015-05-12T15:18:52.668+12:00">May 2, 2015</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2015-05-12T15:18:52.668+12:00">May 2, 2015</time>
 
 Hola, yo tengo un led de 48" smart 3d, el tema es que ayer se corto la luz y me quemo la entrada del hdmi del decodificador por lo que para poder ver la tele tuve que conectarla a través del cable AV, y el problema surgio hoy q comenzo a encenderse y apagarse cada un minuto y el control se tilda por momentos no reponde y no me deja deslizarme por las opciones del menu. Me comunique con el servicio tecnico de samsung y van a venir dentro de las 72 hs, Me da terror con que me salgan que se quemo algo y que la garantia no lo cubra ya que la compre en diciembre de 2014. Si alguien me puede decir como solucionarlo se los agradezco. Saludos, Mónica
 <hr />
 #### NO SE METAN EN TONTERAS
-[Anonymous]( "noreply@blogger.com") - <time datetime="2015-05-30T09:10:00.484+12:00">May 5, 2015</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2015-05-30T09:10:00.484+12:00">May 5, 2015</time>
 
 NO SE METAN EN TONTERAS
 <hr />
@@ -589,7 +589,7 @@ This comment has been removed by the author.
 Hola tengo el mismo problema entró a mi app de YouTube en mi smart tv serie 5 (Samsung) y el volumen simplemente no funciona ayuda de alguien que sepa cómo arreglarlo por favor! !!! Se lo agradecería mucho
 <hr />
 #### Tengo el mismo problema no puedo usar el regulador...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2015-06-07T03:49:31.686+12:00">Jun 6, 2015</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2015-06-07T03:49:31.686+12:00">Jun 6, 2015</time>
 
 Tengo el mismo problema no puedo usar el regulador de volumen en la app de youtbeee por favorrr solucioness!!! Gracias
 <hr />
@@ -653,12 +653,12 @@ soy Alberto tengo el mismo problema y lo compre hace 2 semana que verguenza
 Q modelo de smart tv tenes?
 <hr />
 #### Me quedo más tranquilo sabiendo que solamente es f...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2015-06-08T04:00:03.823+12:00">Jun 0, 2015</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2015-06-08T04:00:03.823+12:00">Jun 0, 2015</time>
 
 Me quedo más tranquilo sabiendo que solamente es falla de la app de youtube. Pero de todas maneras hay que quejarse en Twitter como dice @MonicaT @SamsungArg con #actualicen\_ya
 <hr />
 #### Hola tengo el mismo problema con la tv smart de 32...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2015-06-08T08:33:56.721+12:00">Jun 0, 2015</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2015-06-08T08:33:56.721+12:00">Jun 0, 2015</time>
 
 Hola tengo el mismo problema con la tv smart de 32 samsung no funciona el volumen dentro de la app de youtube... Hace un año lo tengo anduvo siempre bien dejo de fubcionar ayer
 <hr />
@@ -668,12 +668,12 @@ Hola tengo el mismo problema con la tv smart de 32 samsung no funciona el volume
 Hola. Tengo 2 Samsung en uno no funciona el control de vol y en el otro si. Será falla del app?
 <hr />
 #### El problema es de la App youtube supuestamente est...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2015-06-09T14:52:47.336+12:00">Jun 1, 2015</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2015-06-09T14:52:47.336+12:00">Jun 1, 2015</time>
 
 El problema es de la App youtube supuestamente están trabajando en la actualización para su corrección.
 <hr />
 #### Hoy se solucionó!!! Prueben! Yo tengo uno de 50 y ...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2015-06-10T11:56:46.256+12:00">Jun 2, 2015</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2015-06-10T11:56:46.256+12:00">Jun 2, 2015</time>
 
 Hoy se solucionó!!! Prueben! Yo tengo uno de 50 y ahora me funciona sin problemas! Suerte
 <hr />
@@ -704,7 +704,7 @@ https://www.cristianmarquez.me/es/posts/home-multimedia-center-con-raspberry/
 me pasa lo mismo, has tenido alguna solución??
 <hr />
 #### Buenas noches,tengo una Samsung Smart tv UN40EH530...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2015-07-04T18:37:07.349+12:00">Jul 6, 2015</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2015-07-04T18:37:07.349+12:00">Jul 6, 2015</time>
 
 Buenas noches,tengo una Samsung Smart tv UN40EH5300F y la función de "CANAL" esta desabilitada,no puedo agregar ni quitar mas canales,inclusive hasta la resetie con el Factory reset con el menú oculto de mute,1,8,2.yo vivo en Mexico.no se si alguno de ustedes me podría ayudar.Gracias.
 <hr />
@@ -719,13 +719,13 @@ hola tengo un Samsung UN40H6400 y no logro activar el control smart touch la fun
 Hola tengo un Samsung UN40H6400 y no logro acticar el control smart touch la funcion no esta activa, me decis como realizar la configuracion'??
 <hr />
 #### Tengo un Samsung smart UN32EH3500G, de repente dej...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2015-07-16T11:03:52.604+12:00">Jul 3, 2015</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2015-07-16T11:03:52.604+12:00">Jul 3, 2015</time>
 
 Tengo un Samsung smart UN32EH3500G, de repente dejo de salir el sonido cuando estoy en modo PIP o usandolo de monitor en mi PC.  
 ¿podría alguien darme alguna pista?, Gracias y saludos!
 <hr />
 #### Hola. Yo tambien me traje un 40eh5300 de chile y n...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2015-07-26T07:53:50.287+12:00">Jul 6, 2015</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2015-07-26T07:53:50.287+12:00">Jul 6, 2015</time>
 
 Hola. Yo tambien me traje un 40eh5300 de chile y no logro acceder al menu de pais para cambiarlo a Argentina. Desde donde hay que presionar esa combinación de botones? Gracias
 <hr />
@@ -740,12 +740,12 @@ Tratando de hackear el tv me lo ge cargado
 Tratando de hackear el tv me lo ge cargado
 <hr />
 #### Espero aun les sirva la información, me paso lo mi...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2015-08-12T11:44:54.285+12:00">Aug 2, 2015</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2015-08-12T11:44:54.285+12:00">Aug 2, 2015</time>
 
 Espero aun les sirva la información, me paso lo mismo y dure casi un mes en arreglar el problema. Les dejo el siguiente link que me funciono a la perfeccion. https://www.youtube.com/watch?v=g\_oqsiM9RX8
 <hr />
 #### Hola tengo un smart tv 3d serie 6 y de un momento ...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2015-08-29T11:10:31.746+12:00">Aug 5, 2015</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2015-08-29T11:10:31.746+12:00">Aug 5, 2015</time>
 
 Hola tengo un smart tv 3d serie 6 y de un momento a otro se desconecto el smart touch y no he podido emparejarlo de nuevo, ni reinkciando el tv lo extraño es q es q con mi tablet si puedo controlar el tv pero no apagarlo algien me puede ayudar
 <hr />
@@ -815,7 +815,7 @@ También me paso lo mismo, tu ya encontraste alguna solución? Estoy desesperado
 También me paso lo mismo, tu ya encontraste alguna solución? Estoy desesperado
 <hr />
 #### ¡SOLUCION! como bien señala Esteban Herrera la sol...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2015-10-16T12:39:41.643+13:00">Oct 4, 2015</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2015-10-16T12:39:41.643+13:00">Oct 4, 2015</time>
 
 ¡SOLUCION! como bien señala Esteban Herrera la solución consiste en:  
 1) Descargar una imagen con el PATRON PARA CALIBRAR (link: https://onedrive.live.com/redir?resid=C57A6407212E8BF6!165&authkey=!AAQUHA-3jWwMy5I&ithint=file%2czip )  
@@ -871,12 +871,12 @@ Hola. Tengo un smart sansung modelo, un40f5500ag el cual prende y apaga y cuando
 Es un problema de la pcb main hay q cambiarla.
 <hr />
 #### Hola, por el menú oculto y sin querer desconfigur...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2016-02-24T18:15:08.336+13:00">Feb 3, 2016</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2016-02-24T18:15:08.336+13:00">Feb 3, 2016</time>
 
 Hola, por el menú oculto y sin querer desconfigure el color de mi Tv UN40C5000QRXZL. Llame al técnico de Samsung y le ha gastado (2h) revisando cada campo y ajustando según él cada uno de ellos por que estaban con otra información. Ahora, con los ajustes, desactivó el sonido y sin imagen; domo funciona a través del BR. Yo Volví a entrar y ya aparece la imagen y sigue con color rojo ... como puedo conseguir las vistas de este menú oculto????? Alguien que me ayude ��
 <hr />
 #### Ya Volví a entrar y cuadre que coja los canales (...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2016-02-24T20:41:45.460+13:00">Feb 3, 2016</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2016-02-24T20:41:45.460+13:00">Feb 3, 2016</time>
 
 Ya Volví a entrar y cuadre que coja los canales (por tuner), pero sigue la imagen mal, con color rojo solido ... como puedo conseguir las vistas de este menú oculto????? Alguien que me ayude please, necesito arreglar el color y el sonido ��
 <hr />
@@ -974,7 +974,7 @@ Hola, tengo un un55ju6700 versión argentina y tiene desactivado la opción para
 Me pasó lo mismo!! Pudiste arreglarlo?
 <hr />
 #### hola,tengo un tv smart marca wins con sistema andr...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2016-06-12T12:36:07.424+12:00">Jun 6, 2016</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2016-06-12T12:36:07.424+12:00">Jun 6, 2016</time>
 
 hola,tengo un tv smart marca wins con sistema android,cuando quiero ponerlo en modo inteligente(entrar en internet)me dice cargando android y después aparece la palabra android por 4 o 5 segundos para luego quedar la pantalla negra y no hace mas nada,¿que puedo hacer? no puedo tampoco entrar en el menú de recovery,gracias
 <hr />
@@ -1031,7 +1031,7 @@ Ayudaporfa.
 <hr />
 #### Amigo Jorge:  
 Esta es la solucion, gracias por t...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2016-08-21T09:43:42.129+12:00">Aug 6, 2016</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2016-08-21T09:43:42.129+12:00">Aug 6, 2016</time>
 
 Amigo Jorge:  
 Esta es la solucion, gracias por tu ayuda
@@ -1042,12 +1042,12 @@ Esta es la solucion, gracias por tu ayuda
 Funcionó... lo del video es excelente...
 <hr />
 #### hola llo tengo tv led samsung smart tv un40eh5300....
-[Anonymous]( "noreply@blogger.com") - <time datetime="2016-08-25T12:59:47.672+12:00">Aug 3, 2016</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2016-08-25T12:59:47.672+12:00">Aug 3, 2016</time>
 
 hola llo tengo tv led samsung smart tv un40eh5300.Por la mañana prendi el televisor y me aparecio un mensaje que decia.( please go into service mode and seteup below option. type,local set,front color option )y ice lo que la mayoria entre al menu oculto.tengo lla el type me falta lo demas noce lo de front color y local set porfavor si halguien tiene conocimiento que me allude grasias
 <hr />
 #### Como hiciste para solucionar el tema de encendido....
-[Anonymous]( "noreply@blogger.com") - <time datetime="2016-08-31T12:57:33.067+12:00">Aug 2, 2016</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2016-08-31T12:57:33.067+12:00">Aug 2, 2016</time>
 
 Como hiciste para solucionar el tema de encendido. Lo tengo muerto sin ninguna luz desde q toque algo en el menu oculto
 <hr />
@@ -1058,7 +1058,7 @@ Hola, tengo un Led Samsung UN40EH5300 y el inconveniente que presenta es que al 
 Agradezco la ayuda de alguien que sepa sobre este inconveniente.
 <hr />
 #### Hola amigo, despues de probar mucho y no encontrar...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2016-09-09T12:31:12.969+12:00">Sep 4, 2016</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2016-09-09T12:31:12.969+12:00">Sep 4, 2016</time>
 
 Hola amigo, despues de probar mucho y no encontrar nada ya tengo la solución que encontre yo con prueba y error:  
   
@@ -1105,12 +1105,12 @@ Hola tengo un smartv sansung. Entre al menú oculto y sin querer moví algo qued
 Muchas gracias amigo he buscado mucho desde hace meses y tu diste con la reparación lo lleve al servicio técnico y me dijeron que cumplió con su vida útil que pena los técnicos gracias me salvaste mucho de ante manos gracias saludos desde Arica Chile
 <hr />
 #### estoy en las mismas alguna solucion !!!! porfavor<...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2016-10-30T15:18:15.839+13:00">Oct 6, 2016</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2016-10-30T15:18:15.839+13:00">Oct 6, 2016</time>
 
 estoy en las mismas alguna solucion !!!! porfavor
 <hr />
 #### mi smartv le paso lo mismo sale dos rayas y se pre...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2016-12-15T06:56:51.647+13:00">Dec 3, 2016</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2016-12-15T06:56:51.647+13:00">Dec 3, 2016</time>
 
 mi smartv le paso lo mismo sale dos rayas y se prende y se apaga sola que puedo hacer solucion
 <hr />
@@ -1200,7 +1200,7 @@ Entra al menu de nuevo y dale un reset con suerte ya te funciona de nuevo.
 Hola, fijate la conexion a internet luego dale actualizar a la app generalmente no accede xq te pide actualizar o no tnes internet enla tv.
 <hr />
 #### buenas, tengo un televisor samsumg SMARTV de 50&qu...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2017-05-21T06:03:08.357+12:00">May 6, 2017</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2017-05-21T06:03:08.357+12:00">May 6, 2017</time>
 
 buenas, tengo un televisor samsumg SMARTV de 50" modelo UN50KU6000K he entrado al menu oculto y algo le movi y no volvio a prender, solo sale el simbolo de samsumg y la pantalla queda negra, no pude accceder de nuevo al menu oculto, mirando en varios sitio hablan de resetar la epromm pero no encuentro para este modelo como hacerlo , es uniendo unos puntos que son reset y sda pero no encuentro nada para este modelo. alguien sabe del tema y me colabora. Gracias
 <hr />

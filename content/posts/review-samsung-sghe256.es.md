@@ -38,23 +38,28 @@ Cristian
 ---
 ### Comentarios:
 
-  IVAN @ `Febrero 3rd, 2008 at 8:09 pm`
-HOLA COMO ESTAS COINCIDO TOTALMENTE CON VOS , LO QUE TE QUERIA PREGUNTAR ES SI CONOCES LA PAGINA O ALGUN NOMBRE DE UN PROGRAMA PARA MODIFICAR EL IMEI YO CASUALMENTE POR QUERER HACER ALGO LO BORRE COMO VOS LO EXPLICAS EN TU LISTA , DESDE YA GRACIAS
+IVAN @ `Febrero 3rd, 2008 at 8:09 pm`
+
+>  HOLA COMO ESTAS COINCIDO TOTALMENTE CON VOS , LO QUE TE QUERIA PREGUNTAR ES SI CONOCES LA PAGINA O ALGUN NOMBRE DE UN PROGRAMA PARA MODIFICAR EL IMEI YO CASUALMENTE POR QUERER HACER ALGO LO BORRE COMO VOS LO EXPLICAS EN TU LISTA , DESDE YA GRACIAS
+
 <hr />
 
   Cristian @ `Febrero 5th, 2008 at 10:01 pm`
-Ivan, busque durante dos dias enteros el imei changer pero no lo encontre nunca, asi que por cuestiones de tiempo lo mande al service. De todas formas, en el service, la reparacion me demoro 1 mes y medio (capaz q ellos tampoco tenian el programa) -.-
-Espero que lo puedas encontrar
-Suerte
+
+> Ivan, busque durante dos dias enteros el imei changer pero no lo encontre nunca, asi que por cuestiones de tiempo lo mande al service. De todas formas, en el service, la reparacion me demoro 1 mes y medio (capaz q ellos tampoco tenian el programa) -.-
+
+> Espero que lo puedas encontrar
+
+> Suerte
 <hr />
 
   Rodrigo @ `Febrero 6th, 2008 at 6:36 am`
-Queri consultarte algo yo tengo el e256 black, cuando trato conectarme a internet desde una portatil con un dispositibo bluetooth no me lo reconose como modem, es mas hago el analisis del moden y me da error, tenes idea de como hago para solucionar es problema. Desde ya muchas gracias
+> Queri consultarte algo yo tengo el e256 black, cuando trato conectarme a internet desde una portatil con un dispositibo bluetooth no me lo reconose como modem, es mas hago el analisis del moden y me da error, tenes idea de como hago para solucionar es problema. Desde ya muchas gracias
 <hr />
 
 
   Cristian @ Febrero 15th, 2008 at 5:37 pm
-Rodrigo, todavia no probe de usarlo como modem, y menos utilizandolo con BT. Fijate que en *#52828378# => OTA DEVICE SETTING => GPRS bearer OTATe funciona como modem por cable USB?
+> Rodrigo, todavia no probe de usarlo como modem, y menos utilizandolo con BT. Fijate que en *#52828378# => OTA DEVICE SETTING => GPRS bearer OTATe funciona como modem por cable USB?
 <hr />
 
 Evelyn en Jul 2nd, 2008 dijo:
@@ -231,25 +236,30 @@ Viste que es medio básico el celular?
 <hr />
 
 Carlos en Ene 21st, 2009 dijo:
-Ok, entendi eso! y lo de los contactos, bueno lo importante es que esten alli los dos numeros.
-tambien qeria saber, en los demas celulares hay una funcion que se llama hyphernation, o algo asi, y es que pone el guion automaticamente, eso existe aca o todos los numeros se quedan asi pegados?
 
-disculpame por favor por todas mis dudas
+> Ok, entendi eso! y lo de los contactos, bueno lo importante es que esten alli los dos numeros.
 
-y si, es como vos dices, es solo cuestion de costumbre, es que mis ultimos 5 moviles han sido motorolas y el cambio me lo encontre muy seco :) pero de todos modos me gusta cada dia mas el nivel de sofisticacion del aparato, luego que se domina es agil, y prsonalmente con tantas opciones, lo encuentro muy seguro y eso me gusta mucho, el aparato tiene para ponerle clave o contrasena a todo. creo que cuando cumpla el ano con la comania que estoy que es como en dos meses me comrpare otro igual porque todas estas molestias que te he hecho y el movil no es mio es de mi mama!!
+> tambien qeria saber, en los demas celulares hay una funcion que se llama hyphernation, o algo asi, y es que pone el guion automaticamente, eso existe aca o todos los numeros se quedan asi pegados?
 
-Gracias!!
-y saludos!
+> disculpame por favor por todas mis dudas
+
+> y si, es como vos dices, es solo cuestion de costumbre, es que mis ultimos 5 moviles han sido motorolas y el cambio me lo encontre muy seco :) pero de todos modos me gusta cada dia mas el nivel de sofisticacion del aparato, luego que se domina es agil, y prsonalmente con tantas opciones, lo encuentro muy seguro y eso me gusta mucho, el aparato tiene para ponerle clave o contrasena a todo. creo que cuando cumpla el ano con la comania que estoy que es como en dos meses me comrpare otro igual porque todas estas molestias que te he hecho y el movil no es mio es de mi mama!!
+
+> Gracias!!
+> y saludos!
 <hr />
 
 CARLIN60 en Ene 26th, 2009 dijo:
-Hola, mirá se me presentó un problema con el E256, cuando lo apago para ponerlo en carga, se apaga y automáticamente se vuelve a encender y se coloca en disposiciòn para que ponga el nro. de PIN. o sea que no se puede apagarlo por cuanto se enciende nuevamente solo. Me podés ayudar porfa ? Gracias. Un abrazo
+> Hola, mirá se me presentó un problema con el E256, cuando lo apago para ponerlo en carga, se apaga y automáticamente se vuelve a encender y se coloca en disposiciòn para que ponga el nro. de PIN. o sea que no se puede apagarlo por cuanto se enciende nuevamente solo. Me podés ayudar porfa ? Gracias. Un abrazo
 <hr />
 
 Cristi@n en Ene 26th, 2009 dijo:
-Hola,
-No te sale un cartel q dice cargando?? Fijate q es lo q pasa cuando lo apagas con el cargador conectado.. avisame
+
+> Hola,
+
+> No te sale un cartel q dice cargando?? Fijate q es lo q pasa cuando lo apagas con el cargador conectado.. avisame
 <hr />
 
 CARLIN60 en Ene 26th, 2009 dijo:
-Antes de que ocurriera el problema que te comenté sabía salir el cartelito que decía “CARGANDO”, ahora ya no sale porque no se apaga. Hice el intento de apagarlo con el cargador conectado y ocurre lo mismo, se apaga e instantáneamente se vuelve a encender solo.
+
+> Antes de que ocurriera el problema que te comenté sabía salir el cartelito que decía “CARGANDO”, ahora ya no sale porque no se apaga. Hice el intento de apagarlo con el cargador conectado y ocurre lo mismo, se apaga e instantáneamente se vuelve a encender solo.

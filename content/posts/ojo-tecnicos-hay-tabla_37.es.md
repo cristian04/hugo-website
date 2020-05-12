@@ -108,7 +108,7 @@ P/D: proximamente larga un canal el youtube de IT investiga, deschavando a los t
 <hr />
 #### y q te contestaron los de aj??  
 Pablo
-[Anonymous]( "noreply@blogger.com") - <time datetime="2011-03-13T08:43:04.158+13:00">Mar 6, 2011</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2011-03-13T08:43:04.158+13:00">Mar 6, 2011</time>
 
 y q te contestaron los de aj??  
 Pablo
