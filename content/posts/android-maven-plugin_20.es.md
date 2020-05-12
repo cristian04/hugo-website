@@ -8,9 +8,7 @@ series: []
 tags: [tutorial, android-maven-plugin, Android, maven]
 ---
 
-<p align="center">
-<img src="http://3.bp.blogspot.com/-dRn_mySFEJs/UjsKvliZrfI/AAAAAAAAV-E/ZY2pKn558xc/s1600/Google+Image+Result+for+httpwww.itservices247.atwp-contentuploads201205a_2013-09-19_11-30-44.png" width="100%"/>
-</p>
+<img src="http://3.bp.blogspot.com/-dRn_mySFEJs/UjsKvliZrfI/AAAAAAAAV-E/ZY2pKn558xc/s1600/Google+Image+Result+for+httpwww.itservices247.atwp-contentuploads201205a_2013-09-19_11-30-44.png" alt="Android" style="float:left; width:280px; padding:10px;"/>
 
 Después de la pequeña introducción que hice [aquí](/es/posts/android-qa-automation/), les sigo comentando algunas cosas sobre __android-maven-plugin__  
 
@@ -20,6 +18,7 @@ Usar un archetype permite una manera rápida y consistente de desarrollar, med
  
 Los archetypes que tenemos disponibles para Android usando el plugin son los siguientes:  
 
+```
 - __ANDROID-QUICKSTART-ARCHETYPE__
 
     Este arquetipo genera una aplicacion android lista para ser ejecutada en un dispositivo android (emulador o real)
@@ -39,7 +38,7 @@ Los archetypes que tenemos disponibles para Android usando el plugin son los sig
 - __ANDROID-LIBRARY-QUICKSTART__
 
     Este arquetipo genera una libreria android lista para ser utilizada por otro proyecto android.
-
+```
 # Manos a la obra: 
 
 Empecemos a desarrollar una aplicación android desde 0 usando android-maven-plugin :)

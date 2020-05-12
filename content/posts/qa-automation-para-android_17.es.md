@@ -92,12 +92,12 @@ Saludos y que tengan buen dia!
 ---
 ### Comments:
 #### ....en el fondo este es tu homenaje a Steve Jobs??...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2011-10-18T17:44:58.327+13:00">Oct 2, 2011</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2011-10-18T17:44:58.327+13:00">Oct 2, 2011</time>
 
 ....en el fondo este es tu homenaje a Steve Jobs??
 <hr />
 #### Gente que no tiene ni idea...  
-[Anonymous]( "noreply@blogger.com") - <time datetime="2012-04-09T08:31:55.624+12:00">Apr 0, 2012</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2012-04-09T08:31:55.624+12:00">Apr 0, 2012</time>
 
 Gente que no tiene ni idea...  
 `http://lmgtfy.com/?q=Steve+Jobs+android`

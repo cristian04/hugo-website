@@ -86,8 +86,8 @@ enableRobotsTXT = true
         author = "Cristian Márquez Russo"
         title = "Cristian Márquez Russo | Tech and Travel"
         description = "I post about tech, trips and random stuff"
-        keywords = "Cloud, Docker, Kubernetes, Trips, Travel, Holidays, New Zealand, Argentina"
         info = "A blog about tech, trips and random stuff."
+        keywords = "Cloud, Docker, Kubernetes, Trips, Travel, Holidays, New Zealand, Argentina, Kids"
         avatarurl = "/images/me.jpg"
 
         languagename = "English"
@@ -121,7 +121,7 @@ enableRobotsTXT = true
         [languages.es.params]
             description = "En este blog van a encontrar noticias sobre tecnologia, algunos de mis viajes y relatos."
             keywords = "Cloud, Docker, Kubernetes, Trips, Travel, Holidays, New Zealand, Argentina"
-            info = "A blog about tech, trips and random stuff."
+            info = "En este blog van a encontrar noticias sobre tecnologia, algunos de mis viajes y relatos.."
             avatarurl = "/images/me2.jpg"
             moreposts = "There is more content in English"
             footercontent = "🐇"

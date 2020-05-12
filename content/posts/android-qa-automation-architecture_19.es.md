@@ -28,9 +28,11 @@ La arquitectura es masomenos así:
 
 Click para ver mas grande
 
-Para poder llevar a cabo estas features, implementé [**android-maven-plugin**.](https://code.google.com/p/maven-android-plugin) Este plugin, nos brinda varias tareas definidas para trabajar. Entre ellas destaco las siguientes:
+Para poder llevar a cabo estas features, implementé [android-maven-plugin.](https://code.google.com/p/maven-android-plugin) Este plugin, nos brinda varias tareas definidas para trabajar. Entre ellas destaco las siguientes:
 
-**android:apk**
+
+```java
+android:apk
 
   Creates the apk file. By default signs it with debug keystore.
 
@@ -40,7 +42,7 @@ Para poder llevar a cabo estas features, implementé [**android-maven-plugin**.
 
   
 
-**android:apklib**
+android:apklib
 
   Creates the apklib file.
 
@@ -48,7 +50,7 @@ Para poder llevar a cabo estas features, implementé [**android-maven-plugin**.
 
   
 
-**android:deploy**
+android:deploy
 
   Deploys the built apk file, or another specified apk, to a connected device.
 
@@ -58,7 +60,7 @@ Para poder llevar a cabo estas features, implementé [**android-maven-plugin**.
 
   
 
-**android:devices**
+android:devices
 
   DevicesMojo lists all attached devices and emulators found with the android
 
@@ -74,13 +76,13 @@ Para poder llevar a cabo estas features, implementé [**android-maven-plugin**.
 
   
 
-**android:emma**
+android:emma
 
   After compiled Java classes use emma tool
 
   
 
-**android:emulator-start**
+android:emulator-start
 
   EmulatorStartMojo can start the Android Emulator with a specified Android
 
@@ -88,7 +90,7 @@ Para poder llevar a cabo estas features, implementé [**android-maven-plugin**.
 
   
 
-**android:emulator-stop**
+android:emulator-stop
 
   EmulatorStartMojo can stop the Android Emulator with a specified Android
 
@@ -96,13 +98,13 @@ Para poder llevar a cabo estas features, implementé [**android-maven-plugin**.
 
   
 
-**android:emulator-stop-all**
+android:emulator-stop-all
 
   EmulatorStopeAllMojo will stop all attached devices.
 
   
 
-**android:generate-sources**
+android:generate-sources
 
   Generates R.java based on resources specified by the resources configuration
 
@@ -110,7 +112,7 @@ Para poder llevar a cabo estas features, implementé [**android-maven-plugin**.
 
   
 
-**android:lint**
+android:lint
 
   LintMojo can run the lint command against the project. Implements parsing
 
@@ -128,12 +130,14 @@ Para poder llevar a cabo estas features, implementé [**android-maven-plugin**.
 
   
 
-**android:pull**
+android:pull
 
   Copy file or directory from all the attached (or specified) devices/emulators.
 
   
 
-**android:push**
+android:push
 
   Copy file to all the attached (or specified) devices/emulators.
+
+```

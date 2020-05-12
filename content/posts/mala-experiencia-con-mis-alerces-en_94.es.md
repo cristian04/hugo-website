@@ -67,17 +67,17 @@ Saludos,
 ---
 ### Comments:
 #### Que truchada! Menos mal q vi esto porq iba a compr...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2012-09-21T07:44:26.580+12:00">Sep 4, 2012</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2012-09-21T07:44:26.580+12:00">Sep 4, 2012</time>
 
 Que truchada! Menos mal q vi esto porq iba a comprar un biombo ahí..
 <hr />
 #### que suerte, queria encontrar el telefono para comp...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2012-11-09T08:13:54.087+13:00">Nov 4, 2012</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2012-11-09T08:13:54.087+13:00">Nov 4, 2012</time>
 
 que suerte, queria encontrar el telefono para comprarles cortinas...estos son los miembros de mercadolibre que hay que erradicar de la comunidad...bbbuuuuuu para mis alerces...Martin
 <hr />
 #### Estoy recorriendo las páginas para comprar una caj...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2013-01-22T09:19:08.302+13:00">Jan 1, 2013</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2013-01-22T09:19:08.302+13:00">Jan 1, 2013</time>
 
 Estoy recorriendo las páginas para comprar una cajonera y estuve a punto de comprar en esta casa, por suerte leí antes estos comentarios. Gracias.
 <hr />
@@ -87,12 +87,12 @@ Estoy recorriendo las páginas para comprar una cajonera y estuve a punto de com
 Gracias a todos por sus comentarios!
 <hr />
 #### Menos mal!!! Estaba por comprarles! Gracias!!!!!!!...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2013-02-01T12:31:52.451+13:00">Jan 4, 2013</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2013-02-01T12:31:52.451+13:00">Jan 4, 2013</time>
 
 Menos mal!!! Estaba por comprarles! Gracias!!!!!!!!!!!!
 <hr />
 #### qué bueno que escribiste esto! las fotos de los pr...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2013-02-28T09:36:53.598+13:00">Feb 3, 2013</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2013-02-28T09:36:53.598+13:00">Feb 3, 2013</time>
 
 qué bueno que escribiste esto! las fotos de los productos evidentemente no tienen nada que ver con lo que en realidad te venden... muchas gracias
 <hr />
@@ -129,32 +129,32 @@ Saludos!
 nerinisima.blogspot.com.ar
 <hr />
 #### La cucha de mi perro es un hotel 5 estrellas compa...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2013-03-09T07:26:22.300+13:00">Mar 5, 2013</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2013-03-09T07:26:22.300+13:00">Mar 5, 2013</time>
 
 La cucha de mi perro es un hotel 5 estrellas comparado con eso....
 <hr />
 #### Esta es la repercusión en Taringa!
-[Anonymous]( "noreply@blogger.com") - <time datetime="2013-03-13T17:19:54.138+13:00">Mar 3, 2013</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2013-03-13T17:19:54.138+13:00">Mar 3, 2013</time>
 
 Esta es la repercusión en Taringa! [http://www.taringa.net/posts/info/16482267/Ojo-con-la-empresa-Mis-Alerces-en-Mercadolibre.html#comments](http://www.taringa.net/posts/info/16482267/Ojo-con-la-empresa-Mis-Alerces-en-Mercadolibre.html#comments)
 <hr />
 #### Hola Cristian lastima no haber leido esto antes. R...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2013-04-18T13:14:18.743+12:00">Apr 3, 2013</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2013-04-18T13:14:18.743+12:00">Apr 3, 2013</time>
 
 Hola Cristian lastima no haber leido esto antes. Realmente Mis Alerces esta para ser talados bien abajo. Compre una cajonera de 3 (tres) cajones y me mandaron una de 4 (cuatro) cuando hice el reclamo me atendio una mal educada y mal arriada, que mando un flete el cual no se quizo llevar el mueble porque debia traerme una nuevo 3 dias despues. el dia lunes a las 2100 horas aparece un fletero que venia a buscar el mueble como no estaba coordinado no lo atendi. Llamo el martes dia acordado para la devolucion y entrega del mueble correcto, para coordinar el horario y salieron diciendome que hasta que no devolviera el mueble no me traerian el nuevo. A lo que les conteste que yo no era que no habia quierido entregar el mueble sino que era el fletero quien no se LO HABIA QUERIDO LLEVAR, en conclusion llamada telefonica otra vez la mal arriada y despues el Sr. SEBASTIAN BARTIROMO tambien mal educado y mas mal arriado que la secretaria, quien me manifiesta que yo era ahora quien debia llevar el mueble para cambiarlo, porque el habia pagado 2 fletes $ 40. En definitiva terminamos en litigio en MercadoPago porque el sigue pretendiendo que yo lleve el mueble para entregarme el correcto que realmente compre y acorde figura en la descripcion en MERCADOLIBRE. NO SE DEJEN ENGAÑAR CON ESTOS TRUCHOS IMPROVISADOS.
 <hr />
 #### hola chicos menos mal que mire los comentarios sob...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2013-05-13T09:50:34.668+12:00">May 0, 2013</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2013-05-13T09:50:34.668+12:00">May 0, 2013</time>
 
 hola chicos menos mal que mire los comentarios sobre los alerces porque había copiado la dirección para ir a comprar unos cestos de mimbre gracias
 <hr />
 #### La verdad yo compre unos cajones a medida y despue...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2013-05-14T23:52:06.349+12:00">May 2, 2013</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2013-05-14T23:52:06.349+12:00">May 2, 2013</time>
 
 La verdad yo compre unos cajones a medida y despues lei esto me queria matar fui con un miedo terrible y me resulto de diez, lo hicieron como les dije y en una semana. Lo que me resulta raro es que a mi me respondieron los mails de otra cuenta a lo mejor no es la misma empresa yo compre en devoto, no se pero queria dejarlo escrito porque la semana que me tardaron para hacerlo estuve nerviosa pensando que me iban a cag... y resuto todo lo contrario
 <hr />
 #### A mi me parecio algo similar a lo de la señora ant...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2013-05-22T02:08:38.098+12:00">May 2, 2013</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2013-05-22T02:08:38.098+12:00">May 2, 2013</time>
 
 A mi me parecio algo similar a lo de la señora anterior pero con unas cortinas, mi novia las encargo y yo sin saber ni que habia pedido buscando la pagina para poder ver la direccion me encontre con este blog y la verdad me arriesgue a comprar porque son muy baratos. Pero me quedo la cosa de que me iban a dar algo malo pero como no lo pagas hasta retirar me arriesgue, pero al menos en mi caso nada que ver resulto mucho mejor de lo esperado me salio un 50% menos y plin caja
 <hr />
@@ -165,27 +165,27 @@ Hola! Me alegro que tuvieron suerte! Lamentablemente es una pena que tengamos qu
 Saludos!
 <hr />
 #### Hola como estan ? La verdad en prncipio me parece ...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2013-05-23T05:54:19.793+12:00">May 3, 2013</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2013-05-23T05:54:19.793+12:00">May 3, 2013</time>
 
 Hola como estan ? La verdad en prncipio me parece bien que hayas colocado este post. Yo ya soy cliente de MIS ALERCES , y LA PRIMERA VEZ COMO TODO UNO TIENE SUS DUDAS , HICE BIEN EN NO VER ESTE BLOG ANTES , porque sino no hubiera conseguido estos productos que a mi me entregan de muy buena calidad , con buena onda , rapidamente , ya tengo 4 cosas de mis alerces en casa , y todo bien , es una pena lo q te pasoo.. pero los productos NO SON CAROS , LA PRIMERA VEZ SE PODIA ESPERAR CUALQUIER COSA ..
 <hr />
 #### Yo soy de mendoza compre una cajonera de pino por ...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2013-05-26T01:25:47.266+12:00">May 6, 2013</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2013-05-26T01:25:47.266+12:00">May 6, 2013</time>
 
 Yo soy de mendoza compre una cajonera de pino por mercado libre, la pague por mercado pago y como tienen cosas buenisimas buscando la pagina llegue a este blog, me queria matar. A mi me lo mandaron por la misma empresa que el señor tuvo el problema send box. Pero todo lo contrario me llego en 24 horas a mi casa pague $70 de envio y la cajonera $160 esa misma cajonera aca en mendoza me sale 350. La verdad en mi caso no me puedo quejar de nada
 <hr />
 #### Compre un placard y cuando me entregan una caja co...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2013-06-20T12:05:53.806+12:00">Jun 3, 2013</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2013-06-20T12:05:53.806+12:00">Jun 3, 2013</time>
 
 Compre un placard y cuando me entregan una caja con todas las maderas adentro buscando el telefono para que me ayudaran a armarlo me salio este bliog primero. Cuando me puse a leer dije chau me comi un pijazo terrible me salio mas de 1 luca. Resumen llame el flaco me explico por telefono durante 10 minutos como armar el placard, un golazo me resulto la compra. En easy estaban mas de una luca y media y encima la misma marca de no creer. Cada uno debe sacar sus conclusiones pero hasta que no arme el placard entero estaba con los huevos en la garganta pense que me habian re cagado. No iba a escribir nada porque la verdad la empresa me chupa un huevo pero solo por el flaco que me tuvo paciencia infinita se merece que lo cuente.
 <hr />
 #### Vos sabes flaco que me paso algo parecido compre u...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2013-07-02T13:41:10.273+12:00">Jul 1, 2013</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2013-07-02T13:41:10.273+12:00">Jul 1, 2013</time>
 
 Vos sabes flaco que me paso algo parecido compre un despensero me entregaron una cajita pedorra y dije aca estara todo?. Lo empece a armar no entendia una goma llame y me atendio un tal federico supongo que sera el que te atendio a vos un crack me guio casi paso a paso, yo compre por el precio porque habia leido el post pero la verdad conmigo se portaron de 10 sobre todo el pibe que te explica como armar estas cosas
 <hr />
 #### Soy clienta hace años de ellos y son gente buenisi...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2013-07-12T15:35:02.032+12:00">Jul 5, 2013</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2013-07-12T15:35:02.032+12:00">Jul 5, 2013</time>
 
 Soy clienta hace años de ellos y son gente buenisima. Lamento las malas experiencias pero si buscan productos economicos q x eso todos los eligen sepan q es x algo q vale mas barato. Una vinoteca de 100 pesos no creo q merezca tanto rollo. No fue un Rolex, gente dejemos de desprestigiar a laburantes. O saquen la cuenta, no son garcas millonarios. Los eligen x el precio.
 <hr />
@@ -199,7 +199,7 @@ Por otro lado, la imagen del producto junto a su descripción "excelente bodega"
 Saludos
 <hr />
 #### perfecto pero no se justifica tu mala publicidad. ...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2013-07-18T05:27:19.592+12:00">Jul 3, 2013</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2013-07-18T05:27:19.592+12:00">Jul 3, 2013</time>
 
 perfecto pero no se justifica tu mala publicidad. Soy comerciante y no es justo q hagas una campaña jodiendo al otro.. no les compres mas y listos. Es de poco adulto vengarse con algo asi habla con ellos q de sguro te devuelven el dinero. Y deja de lado las etiquetas politicas y sobre derechos q no fue para tanto.
 <hr />
@@ -213,12 +213,12 @@ Me decís que "hable" con ellos, pero por lo que podes ver en este post, no se p
 Saludos
 <hr />
 #### Yo compro bandejas hace 3 años creo que todos los ...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2013-07-19T14:11:49.890+12:00">Jul 4, 2013</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2013-07-19T14:11:49.890+12:00">Jul 4, 2013</time>
 
 Yo compro bandejas hace 3 años creo que todos los que hacemos desayunos le compramos para mi son de 10 gracias a ellos las consigo baratisimas y no me tengo que ir mas al tigre que encima las pagaba casi el doble. Cuando voy a comprar vi esas bodegas un par de veces pero salen 50 mangos que qures que te den ni 1kg de milanesas conseguis
 <hr />
 #### paso a contar mis historia compre un despensero ma...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2013-08-06T03:47:46.901+12:00">Aug 1, 2013</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2013-08-06T03:47:46.901+12:00">Aug 1, 2013</time>
 
 paso a contar mis historia compre un despensero marca centro estant me lo trae lo armo me faltaba un zocalo los llamo como era domingo no me atendio nadie, lunes ala mañana llamo a centro estant le cuento lo que me paso me dicen quedese tranquilo es un error de fabrica con esa numeración bla bla me tomaron lso datos dentro de 15 días le entregan la pieza que falta. Llamo a mis alerces después le digo me falto esto y lo otro conclusión sin preguntarme nada me dieron el zocalo que me faltaba a la hora que hice el reclamo lo pase a bucar, me abrieron otra caja de las 500 que tienen no se cuantas había pero eran una banda. De curiosidad le digo y ahor acon la que me mandan que hago y me dijo vos quedatela no vas a esperar 15 días llévate una de aca y lo solucionarlo enseguida. La verdad el sábado le daba la razón al que hizo el blog hoy a las 12.30 ya tenia todo solucionado conmigo se comportaron mas que barbaro y lo quería poner porque ayer estuve por escribri muchas cosas en contra y lo que es ser impulsivo casi los dejo pegados en algo que nada que ver.
 <hr />

@@ -84,7 +84,7 @@ hola buenas una consulta tengo una tv samsung smart tvEU46EH5300
 hay alguna manera de activar o app para tener wifi direct .gracias
 <hr />
 #### Hola tengo un smat tv LG cuando conecto el Netflix...
-[Anonymous]( "noreply@blogger.com") - <time datetime="2015-09-07T14:07:53.352+12:00">Sep 0, 2015</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2015-09-07T14:07:53.352+12:00">Sep 0, 2015</time>
 
 Hola tengo un smat tv LG cuando conecto el Netflix me quedo sin Internet en los teléfonos computadoras evento en netflix
 <hr />

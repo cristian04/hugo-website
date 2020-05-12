@@ -29,11 +29,7 @@ Como no sabia que imprimir y no queria utilizar un modelo que ya exista, pense e
 
 [![](https://4.bp.blogspot.com/-u_HaOf3X91g/V4cLI0Ss6YI/AAAAAAAAiiU/HtxJK4IIn6ISz_hfzsM8fbrqHfTEvz37wCLcB/s320/11082607_10206136771561049_2323951143549837986_n.jpg)](https://4.bp.blogspot.com/-u_HaOf3X91g/V4cLI0Ss6YI/AAAAAAAAiiU/HtxJK4IIn6ISz_hfzsM8fbrqHfTEvz37wCLcB/s1600/11082607_10206136771561049_2323951143549837986_n.jpg)
 
-3 Horas para un modelo muy chiquito!
-
-[![](https://4.bp.blogspot.com/-JIUVztD4ASw/V4cLOBZADgI/AAAAAAAAiiY/oPgDhKS2OAYUxrBUN-miyfuoFjnD_hvIgCLcB/s1600/10994876_10206137023087337_40423181232536981_n.jpg)](https://4.bp.blogspot.com/-JIUVztD4ASw/V4cLOBZADgI/AAAAAAAAiiY/oPgDhKS2OAYUxrBUN-miyfuoFjnD_hvIgCLcB/s1600/10994876_10206137023087337_40423181232536981_n.jpg)
-
-Aqui esta la bombonera 1 terminada
+3 Horas para un modelo muy chiquito! Aqui esta la bombonera 1 terminada
 
 [![](https://2.bp.blogspot.com/-fmZAKOCsEJk/V4cNTm2DRCI/AAAAAAAAiio/0K84uKYMZpsugLnNUEqRnFcvTr58gMNzQCLcB/s320/IMG_1197.JPG)](https://2.bp.blogspot.com/-fmZAKOCsEJk/V4cNTm2DRCI/AAAAAAAAiio/0K84uKYMZpsugLnNUEqRnFcvTr58gMNzQCLcB/s1600/IMG_1197.JPG)
     

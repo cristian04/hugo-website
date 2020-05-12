@@ -46,7 +46,7 @@ Que les pareció el tutorial? Dejen sus comentarios, dudas y sugerencias!
 
 ### Comments:
 #### Sos todo un amo de casa...jaja tu amiga del alma.....
-[Anonymous]( "noreply@blogger.com") - <time datetime="2014-04-01T04:12:05.381+13:00">Mar 1, 2014</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2014-04-01T04:12:05.381+13:00">Mar 1, 2014</time>
 
 Sos todo un amo de casa...jaja tu amiga del alma....je
 <hr />

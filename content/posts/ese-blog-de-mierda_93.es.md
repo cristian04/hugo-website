@@ -8,7 +8,8 @@ series: []
 tags: [blog de mierda, quejas, bodega, aj computacion, otro-tag-copado, relatos, defenza, cortala]
 ---
 
-[![](http://2.bp.blogspot.com/-OYiliJKgd-Y/Udzm1Qq3kqI/AAAAAAAAUxU/QKua9sZHG_o/s200/don-t-keep-calm-and-fuck-them-all.png)](http://2.bp.blogspot.com/-OYiliJKgd-Y/Udzm1Qq3kqI/AAAAAAAAUxU/QKua9sZHG_o/s1600/don-t-keep-calm-and-fuck-them-all.png)
+<img src="http://2.bp.blogspot.com/-OYiliJKgd-Y/Udzm1Qq3kqI/AAAAAAAAUxU/QKua9sZHG_o/s200/don-t-keep-calm-and-fuck-them-all.png" alt="Celular" style="float:left; width:280px; padding:10px;"/>
+
 
 Sé que a veces (muchas) soy una persona que se la pasa criticando y puteando.  
 
@@ -77,7 +78,7 @@ Cristian
 ---
 ### Comments:
 #### jajajaja exelente
-[Anonymous]( "noreply@blogger.com") - <time datetime="2013-11-05T16:11:42.763+13:00">Nov 2, 2013</time>
+[Anonymous](https://www.blogger.com/profile/ "noreply@blogger.com") - <time datetime="2013-11-05T16:11:42.763+13:00">Nov 2, 2013</time>
 
 jajajaja exelente
 <hr />
