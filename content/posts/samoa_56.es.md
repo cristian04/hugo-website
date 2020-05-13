@@ -1,5 +1,5 @@
 ---
-title: 'Samoa'
+title: 'De vacaciones por Samoa'
 date: 2016-01-04T08:00:00.002+13:00
 draft: false
 slug: 'Samoa'
@@ -12,17 +12,15 @@ Bueno, después de un tiempazo sin postear nada... voy a mandar fruta contando u
   
 Aprovechando que en _THL_ nos obligaron a tomar vacaciones en diciembre (en Nueva Zelanda cierran todo por las fiestas) aproveche para irme por Samoa. Al comienzo había pensado en Australia pero los precios de los pasajes y hostels eran carísimos, por lo que cambie el plan.  
 
-Una vez llegado, me fui a Apia (la capital) donde tenia mi primer noche. Me quede en el Hotel Elisa que era lo mas mediano que pude conseguir. 
-
-Increíble el calor y la humedad que había!  
+Una vez llegado, me fui a Apia (la capital) donde tenia mi primer noche. Increíble el calor y la humedad que había!  
 
 <p align="center">
   <img src="https://1.bp.blogspot.com/-hpiYj2_sVwk/VzOSjXLEdgI/AAAAAAAAifE/WHNv1tj90pQ99UkNr2qe065u3iXc3wznwCLcB/s1600/samoa_upolu_180.jpg" width="100%"/>
 </p>
 
-Al otro dia me fui a **"desayunar"** unas patas de pollo y, por no estar acostumbrado a la moneda, termine pidiendo comida como para una familia tipo... ahi me di cuenta que todo es muy barato y que les encanta comer!  
+Al otro dia me fui a **"desayunar"** unas patas de pollo y, por no estar acostumbrado a la moneda, termine pidiendo comida como para una familia tipo... ahi me di cuenta que muy barato
   
-Después del desayuno, me tome un colectivo Samoano con toda la onda y la música a mas no poder.... Arrancaba mi viaje hacia Lalomanu!  
+Después del desayuno, me tome un colectivo Samoano con toda la onda y música samoana a mas no poder.... Arrancaba mi viaje hacia Lalomanu!  
 
 <p align="center">
   <img src="https://4.bp.blogspot.com/-torQjAUvGJ0/VzOOqQpT-fI/AAAAAAAAidw/qx7Nc1QIcZsANNmIOfkMnBSwlILNBJ-WwCLcB/s1600/DSCN2099.JPG" width="100%"/>

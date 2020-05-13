@@ -18,6 +18,8 @@ Por último, otra película llamada __Juegos de Guerra__, en donde un chango ent
 
 # La Sala
 
+<img src="/images/luis-lefort.png" alt="Luis Lefort" style="float:left; padding: 5px; margin:5px;"/>
+
 Cuando estaba arrancando 3° o 4°  grado se empezaba a armar la __sala de computación__ en el Salesiano.
 
 Las clases no eran de programación ni de reparación. A veces veíamos imágenes de como era la Compu por dentro o como entrar y salir de windows ( el 3.11) y la mayoría de las veces íbamos a escribir en un procesador de texto o copiar lo que decían las enciclopedias. Un desperdicio.
@@ -45,8 +47,7 @@ Ya en los ultimos años del secundario conocí a `Miguel Toro`. El me abrió las
 
 También conocí a `José BJ Jiménez`, otro técnico ututo que me abrió las puertas de su casa para que ututee en su máquina. Ahí le metimos más mano a linux y eramos los tecnicos oficiales de la zona sur de Salta.
 
-## El Desafío
-------
+--- 
 
 Lo más importante en todo esto que les acabo de contar es: la disponibilidad  en  el  espacio  y  tiempo  para  que  alguien  pueda  aprender.
 
@@ -56,7 +57,7 @@ Considero que estas dedicaciones deberían darse siempre y todos deberíamos hac
 
 Sería muy lindo ver que se enseñe programación básica a chicos de 8 años. Que puedan inventar cosas con arduino, con luces y sonido. Que puedan inventar sus propios juegos.
 
-Este post es plantear este desafío para el que lo lee, y un MUCHAS GRACIAS por hacerlo.
+Este post es plantear **este desafío** para el que lo lee, y un MUCHAS GRACIAS por hacerlo.
 
 Saludos,
 

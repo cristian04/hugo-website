@@ -1,6 +1,6 @@
 ---
 title: 'Review Samsung SGH-E256'
-date: 2008-06-19T17:27:00.002+13:00
+date: 2007-12-08T17:27:00.002+13:00
 draft: false
 slug: 'Review Samsung SGH-E256'
 series: []

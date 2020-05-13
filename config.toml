@@ -84,7 +84,7 @@ enableRobotsTXT = true
 [languages]
     [languages.en]
         author = "Cristian Márquez Russo"
-        title = "Cristian Márquez Russo | Tech and Travel"
+        title = "Cristian Márquez Russo | Blog"
         description = "I post about tech, trips and random stuff"
         info = "A blog about tech, trips and random stuff."
         keywords = "Cloud, Docker, Kubernetes, Trips, Travel, Holidays, New Zealand, Argentina, Kids"
@@ -114,7 +114,7 @@ enableRobotsTXT = true
 
 
     [languages.es]
-        title = "Cristian Márquez Russo | Viajes y Tecnología"
+        title = "Cristian Márquez Russo | Blog"
         languagename = "Español"
         author = "Cristian Márquez Russo"
 
