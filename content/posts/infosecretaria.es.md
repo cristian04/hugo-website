@@ -1,7 +1,7 @@
 ---
 title: "El día que casi me rajan"
 date: 2020-05-08T05:20:55+12:00
-draft: false
+draft: true
 slug: el dia que casi me rajan
 categories: [Relatos]
 tags: [msn, bot]
